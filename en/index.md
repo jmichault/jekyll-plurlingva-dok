@@ -10,8 +10,8 @@ title: ' _jekyll-plurlingva_ '
 Its purpose is to remain light for simplicity.
 
 Its most striking features:
- * drawing on two columns:
-   * on the left, a retractable menu, with the choice of language, Google web search, and the menu of website.
+ * drawn on two columns:
+   * left, retractable menu, with the choice of language, the Google search in the Web and site menu .
    * on the right, the main content.
  * suitable for websites _Github Pages_ .
  * all possibilities of jekyll. The scripts
@@ -21,7 +21,7 @@ Its most striking features:
    * you can send this file to a human translator for correction.
  * Automatically translated texts are indicated by a section that offers the document in the languages ​​corrected by a person.
  * The translations use Esperanto as a pivotal language. This choice may seem strange at first glance, but it has several advantages:
-   * it is a language with a simple grammar and without exception, it is therefore easier to manage with software translators. .
+   * it is a language with a simple grammar and without exception, so it is easier to manage with software translators. .
    * it is a very precise language, generating less ambiguity than English.
    * it is very easy to learn, whatever the language of the student.
 

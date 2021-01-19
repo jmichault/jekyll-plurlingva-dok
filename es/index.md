@@ -10,8 +10,8 @@ title: ' _jekyll-plurlingva_ '
 Su propósito es permanecer ligero por simplicidad.
 
 Sus características más llamativas:
- * dibujo en dos columnas:
-   * a la izquierda, un menú retráctil, con la elección del idioma, la búsqueda web de Google y el menú del sitio web.
+ * dibujado en dos columnas:
+   * izquierda, menú retráctil, con la elección del idioma, la búsqueda de Google en la Web y menú del sitio .
    * a la derecha, el contenido principal.
  * adecuado para sitios web _Github Pages_ .
  * todas las posibilidades de jekyll. Los scripts
@@ -21,7 +21,7 @@ Sus características más llamativas:
    * puede enviar este archivo a un traductor humano para que lo corrija.
  * Los textos traducidos automáticamente se indican mediante una sección que ofrece el documento en los idiomas corregidos por una persona.
  * Las traducciones utilizan el esperanto como lengua fundamental. Esta elección puede parecer extraña a primera vista, pero tiene varias ventajas:
-   * es un idioma con una gramática simple y sin excepción, por lo tanto, es más fácil de manejar con traductores de software. .
+   * es un idioma con una gramática simple y sin excepción, por lo que es más fácil de manejar con traductores de software. .
    * es un idioma muy preciso, que genera menos ambigüedad que el inglés.
    * es muy fácil de aprender, sea cual sea el idioma del alumno.
 

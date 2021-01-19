@@ -11,7 +11,7 @@ Seu objetivo é permanecer leve para a simplicidade.
 
 Suas características mais marcantes:
  * desenhado em duas colunas:
-   * à esquerda, um menu retrátil, com a escolha do idioma, pesquisa na web do Google e o menu do site.
+   * esquerdo, menu retrátil, com a escolha do idioma, a pesquisa do Google no menu Web e site .
    * à direita, o conteúdo principal.
  * adequado para websites _Github Pages_ .
  * todas as possibilidades de jekyll. Os scripts
@@ -21,7 +21,7 @@ Suas características mais marcantes:
    * você pode enviar este arquivo a um tradutor humano para correção.
  * Textos traduzidos automaticamente são indicados por uma seção que oferece o documento nos idiomas corrigidos por uma pessoa.
  * As traduções usam o Esperanto como língua fundamental. Esta escolha pode parecer estranha à primeira vista, mas tem várias vantagens:
-   * é uma linguagem com uma gramática simples e sem exceção, portanto mais fácil de manejar com tradutores de software. .
+   * é uma língua com uma gramática simples e sem exceção, pelo que é mais fácil de gerir com tradutores de software. .
    * é uma língua muito precisa, gerando menos ambigüidade que o inglês.
    * é muito fácil de aprender, qualquer que seja a língua do aluno.
 
