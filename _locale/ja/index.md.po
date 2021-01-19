@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "eo"
+msgstr "ja"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "indekso"
+msgstr "indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "index"
+msgstr "index"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, fuzzy, no-wrap
+msgid " _jekyll-plurlingva_ "
+msgstr " _jekyll-plurlingva_ "
+
+#. type: Plain text
+#: index.md:9
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ は、jekyllに基づいて静的な多言語Webサイトを作成するためのスケルトンです。  \n"
+
+#. type: Plain text
+#: index.md:11
+#, fuzzy, no-wrap
+msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+msgstr "その目的は、単純化のために軽量を維持することです。\n"
+
+#. type: Plain text
+#: index.md:27
+#, no-wrap
+#, fuzzy
+msgid ""
+"Ĝiaj plej okulfrapaj trajtoj:\n"
+" * desegno sur du kolumnoj:\n"
+"   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+"   * dekstre, la ĉefa enhavo.\n"
+" * taŭga por retejoj _Github Pages_ .\n"
+" * ĉiuj eblecoj de jekyll. La skriptoj\n"
+" * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+" * tradukoj estas administrataj de po-dosieroj:\n"
+"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
+" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
+"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
+"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+msgstr "その最も印象的な機能：\n * 2列に描画：左側に\n   * 、言語を選択できる格納式メニュー、Google Web検索、およびメニューウェブサイトの。\n   * 右側、メインコンテンツ。\n * ウェブサイト _Github Pages_ に適しています。\n * ジェキルのすべての可能性。スクリプト\n * を使用すると、ページをサイトのすべての言語に自動的に翻訳できます。\n * 翻訳はpoファイルによって管理されます：\n   * ページの段落を変更または追加した場合、これだけを再翻訳する必要があります。\n   * このファイルを人間の翻訳者に送信して修正することができます。\n * 自動的に翻訳されたテキストは、人が修正した言語でドキュメントを提供するセクションによって示されます。\n * 翻訳では、エスペラントを中心的な言語として使用しています。この選択は一見奇妙に思えるかもしれませんが、いくつかの利点があります。\n   * 単純な文法の言語であるため、例外なく、ソフトウェアトランスレータで管理するのが簡単です。 。\n   * それは非常に正確な言語であり、英語よりも曖昧さが少なくなります。\n   * 生徒の言語に関係なく、学ぶのはとても簡単です。\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por krei statikajn plurlingvajn "
+#~ "retejojn bazitajn sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ は、jekyllに基づいて静的な多言語Webサイトを作成するた"
+#~ "めのスケルトンです。  \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * dezajno sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, gugla serĉo en "
+#~ "la retejo, kaj la menuo de la retejo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll.\n"
+#~ " * skriptoj permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ " * tradukoj estas administrataj per po-dosieroj:\n"
+#~ "   * se vi ŝanĝas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita.\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per rubriko, kiu proponas "
+#~ "la dokumenton en la lingvoj korektitaj de homo.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble "
+#~ "ŝajnas stranga komence, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile traktata de programaj tradukistoj.\n"
+#~ "   * ĝi estas lingvo tre preciza, generanta malpli da dusencecoj ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "その最も印象的な機能：2列の\n"
+#~ " * デザイン：左側の\n"
+#~ "   * 、言語を選択できる格納式メニュー、サイトでのGoogle検索、およびメ"
+#~ "ニューサイトの。\n"
+#~ "   * 右側、メインコンテンツ。\n"
+#~ " * ウェブサイト _Github Pages_ に適しています。\n"
+#~ " * ジェキルのすべての可能性。\n"
+#~ " * スクリプトを使用すると、ページをサイトのすべての言語に自動的に翻訳でき"
+#~ "ます。\n"
+#~ " * 翻訳はpoファイルによって管理されます：\n"
+#~ "   * ページの段落を変更または追加した場合、これだけを再翻訳する必要があり"
+#~ "ます。\n"
+#~ "   * このファイルを人間の翻訳者に送信して修正することができます。\n"
+#~ " * 自動的に翻訳されたテキストは、人が修正した言語でドキュメントを提供する"
+#~ "セクションで示されます。\n"
+#~ " * 翻訳では、エスペラントを中心的な言語として使用しています。この選択は最"
+#~ "初は奇妙に思えるかもしれませんが、いくつかの利点があります。\n"
+#~ "   * それは単純な文法の言語であり、例外なく、プログラム翻訳者が扱いやすい"
+#~ "です。\n"
+#~ "   * それは非常に正確な言語であり、英語よりも曖昧さが少なくなります。\n"
+#~ "   * 生徒の言語に関係なく、学ぶのはとても簡単です。\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Plej novaj afiŝoj"
+#~ msgstr "最新の投稿"

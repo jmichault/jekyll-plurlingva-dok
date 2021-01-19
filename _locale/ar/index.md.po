@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "eo"
+msgstr "ar"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "indekso"
+msgstr "indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "index"
+msgstr "index"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, fuzzy, no-wrap
+msgid " _jekyll-plurlingva_ "
+msgstr " _jekyll-plurlingva_ "
+
+#. type: Plain text
+#: index.md:9
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ هو هيكل لإنشاء مواقع ثابتة متعددة اللغات تعتمد على jekyll.  \n"
+
+#. type: Plain text
+#: index.md:11
+#, fuzzy, no-wrap
+msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+msgstr "الغرض منه هو أن يظل خفيفًا من أجل البساطة.\n"
+
+#. type: Plain text
+#: index.md:27
+#, no-wrap
+#, fuzzy
+msgid ""
+"Ĝiaj plej okulfrapaj trajtoj:\n"
+" * desegno sur du kolumnoj:\n"
+"   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+"   * dekstre, la ĉefa enhavo.\n"
+" * taŭga por retejoj _Github Pages_ .\n"
+" * ĉiuj eblecoj de jekyll. La skriptoj\n"
+" * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+" * tradukoj estas administrataj de po-dosieroj:\n"
+"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
+" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
+"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
+"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+msgstr "أبرز ميزاته:\n * الرسم على عمودين:\n   * على اليسار ، قائمة قابلة للسحب ، مع اختيار اللغة ، بحث الويب من Google ، والقائمة من الموقع.\n   * على اليمين ، المحتوى الرئيسي.\n * مناسبة للمواقع _Github Pages_ .\n * كل احتمالات jekyll. تسمح لك النصوص\n * بترجمة الصفحات تلقائيًا إلى جميع لغات الموقع. تتم إدارة الترجمات\n * بواسطة ملفات po:\n   * إذا قمت بتعديل أو إضافة فقرة على الصفحة ، فإن هذه الترجمة فقط تحتاج إلى إعادة ترجمتها.\n   * يمكنك إرسال هذا الملف إلى مترجم بشري لتصحيحه.\n * تتم الإشارة إلى النصوص المترجمة تلقائيًا بواسطة قسم يقدم المستند باللغات التي تم تصحيحها بواسطة شخص ما.\n * تستخدم الترجمات الإسبرانتو كلغة محورية. قد يبدو هذا الاختيار غريبًا للوهلة الأولى ، لكن له عدة مزايا:\n   * إنها لغة ذات قواعد نحوية بسيطة وبدون استثناء ، وبالتالي يسهل إدارتها مع مترجمي البرامج. .\n   * إنها لغة دقيقة للغاية ، وتولد غموضًا أقل من اللغة الإنجليزية.\n   * من السهل جدًا التعلم ، مهما كانت لغة الطالب.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por krei statikajn plurlingvajn "
+#~ "retejojn bazitajn sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ هو هيكل لإنشاء مواقع ويب ثابتة متعددة اللغات تعتمد "
+#~ "على jekyll.  \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * dezajno sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, gugla serĉo en "
+#~ "la retejo, kaj la menuo de la retejo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll.\n"
+#~ " * skriptoj permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ " * tradukoj estas administrataj per po-dosieroj:\n"
+#~ "   * se vi ŝanĝas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita.\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per rubriko, kiu proponas "
+#~ "la dokumenton en la lingvoj korektitaj de homo.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble "
+#~ "ŝajnas stranga komence, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile traktata de programaj tradukistoj.\n"
+#~ "   * ĝi estas lingvo tre preciza, generanta malpli da dusencecoj ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "أبرز ميزاته: تصميم\n"
+#~ " * على عمودين:\n"
+#~ "   * على اليسار ، قائمة قابلة للسحب ، مع اختيار اللغة ، وبحث Google على "
+#~ "الموقع ، والقائمة من الجانب.\n"
+#~ "   * على اليمين ، المحتوى الرئيسي.\n"
+#~ " * مناسبة للمواقع _Github Pages_ .\n"
+#~ " * كل احتمالات jekyll. تسمح لك البرامج النصية\n"
+#~ " * بترجمة الصفحات تلقائيًا إلى جميع لغات الموقع. تتم إدارة الترجمات\n"
+#~ " * بواسطة ملفات po:\n"
+#~ "   * إذا قمت بتغيير أو إضافة فقرة على الصفحة ، فإن هذه الترجمة فقط تحتاج "
+#~ "إلى إعادة الترجمة.\n"
+#~ "   * يمكنك إرسال هذا الملف إلى مترجم بشري لتصحيحه.\n"
+#~ " * تتم الإشارة إلى النصوص المترجمة تلقائيًا بواسطة قسم يقدم المستند "
+#~ "باللغات التي تم تصحيحها بواسطة شخص ما.\n"
+#~ " * تستخدم الترجمات الإسبرانتو كلغة محورية. قد يبدو هذا الاختيار غريبًا في "
+#~ "البداية ، لكن له مزايا عديدة:\n"
+#~ "   * إنها لغة ذات قواعد نحوية بسيطة وبدون استثناء ، وبالتالي يسهل التعامل "
+#~ "معها بواسطة مترجمي البرنامج.\n"
+#~ "   * إنها لغة دقيقة للغاية ، وتولد غموضًا أقل من اللغة الإنجليزية.\n"
+#~ "   * من السهل جدًا التعلم ، مهما كانت لغة الطالب.\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Plej novaj afiŝoj"
+#~ msgstr "آخر المشاركات"

@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:54+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "eo"
+msgstr "pt"
+
+#. type: YAML Front Matter: lang-niv
+#: ./012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "012-kreu-2-cxefan-GP"
+msgstr "012-kreu-2-cxefan-GP"
+
+#. type: YAML Front Matter: layout
+#: ./012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./012-krei_2_github_pages.md:1
+#, no-wrap
+#, fuzzy
+msgid "krei retejon _\"github page\"_ "
+msgstr "criar um site _\"github page\"_ "
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:10
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Iru al la loko de [ _jekyll-plurlingva_ "
+"](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this "
+"template»_.\n"
+msgstr "Vá para a localização de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e clique em _«Use this template»_.\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:13
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
+"Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj "
+"anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+msgstr "Insira o nome de um repositório e valide a criação do repositório.\nVá para as configurações de seu repositório, vá para o parágrafo _«Github Pages»_e substitua \"Nenhum\"por \"mestre\", clique em \"Salvar\".\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:14
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Nun konektiĝu al komputilo kun Linux.  \n"
+msgstr "Agora conecte-se a um computador com Linux.  \n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:16
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
+msgstr "Instale os pré-requisitos, por exemplo, se você estiver no Debian:\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md:16
+#, no-wrap
+msgid ""
+"sudo apt install ruby-bundler ruby-dev gawk\n"
+"sudo apt -t buster-backports install po4a\n"
+msgstr ""
+"sudo apt install ruby-bundler ruby-dev gawk\n"
+"sudo apt -t buster-backports install po4a\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:22
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "kaj ricevu kopion de via deponejo:\n"
+msgstr "e receba uma cópia do seu depósito:\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md:22
+#, no-wrap
+msgid ""
+"git clone https://github.com/username/name\n"
+"cd name\n"
+msgstr ""
+"git clone https://github.com/username/name\n"
+"cd name\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:28
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron "
+"_\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
+msgstr "Se você quiser menos idiomas do que os 15 predefinidos, edite o arquivo _\\_data/languages.yml_ e exclua as linhas correspondentes:\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md:28
+#, no-wrap
+msgid "nano _data/languages.yml\n"
+msgstr "nano _data/languages.yml\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:33
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
+msgstr "Escolha um título e uma breve descrição e avalie o site:\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md:33
+#, no-wrap
+msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
+msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:38
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
+msgstr "Envie alterações para o seu site _github_ :\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md:38
+#, no-wrap
+msgid ""
+"git add --all\n"
+"git commit -m \"Initial commit\"\n"
+"git push -u origin master\n"
+msgstr ""
+"git add --all\n"
+"git commit -m \"Initial commit\"\n"
+"git push -u origin master\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md:45
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe "
+"https://username.github.io/name.\n"
+msgstr "Parabéns, seu site foi criado, está acessível em https://username.github.io/name.\n"
+

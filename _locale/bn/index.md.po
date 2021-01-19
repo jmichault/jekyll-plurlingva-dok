@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "eo"
+msgstr "bn"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "indekso"
+msgstr "indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "index"
+msgstr "index"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, fuzzy, no-wrap
+msgid " _jekyll-plurlingva_ "
+msgstr " _jekyll-plurlingva_ "
+
+#. type: Plain text
+#: index.md:9
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ জেকিলের উপর ভিত্তি করে স্থির বহুভাষিক ওয়েবসাইট তৈরির জন্য একটি কঙ্কাল।  \n"
+
+#. type: Plain text
+#: index.md:11
+#, fuzzy, no-wrap
+msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+msgstr "এর উদ্দেশ্য সরলতার জন্য হালকা থাকা।\n"
+
+#. type: Plain text
+#: index.md:27
+#, no-wrap
+#, fuzzy
+msgid ""
+"Ĝiaj plej okulfrapaj trajtoj:\n"
+" * desegno sur du kolumnoj:\n"
+"   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+"   * dekstre, la ĉefa enhavo.\n"
+" * taŭga por retejoj _Github Pages_ .\n"
+" * ĉiuj eblecoj de jekyll. La skriptoj\n"
+" * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+" * tradukoj estas administrataj de po-dosieroj:\n"
+"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
+" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
+"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
+"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+msgstr "এর সবচেয়ে আকর্ষণীয় বৈশিষ্ট্য:\n * দুটি কলামে অঙ্কন:\n   * বামদিকে, একটি প্রত্যাহারযোগ্য মেনু, ভাষা, গুগল ওয়েব অনুসন্ধান এবং মেনু পছন্দ সহ ওয়েবসাইট।\n   * ডানদিকে, মূল বিষয়বস্তু।\n * ওয়েবসাইটের জন্য উপযুক্ত _Github Pages_ ।\n * জেকিলের সমস্ত সম্ভাবনা। স্ক্রিপ্টগুলি\n * আপনাকে সাইটের সমস্ত ভাষায় পৃষ্ঠাগুলি স্বয়ংক্রিয়ভাবে অনুবাদ করতে দেয়।\n * অনুবাদগুলি পিও ফাইলগুলি দ্বারা পরিচালিত হয়:\n   * আপনি যদি কোনও পৃষ্ঠায় কোনও অনুচ্ছেদ সংশোধন করেন বা যোগ করেন তবে কেবলমাত্র এটিই পুনরায় অনুবাদ করা দরকার।\n   * আপনি সংশোধনের জন্য এই ফাইলটি একজন মানব অনুবাদকের কাছে পাঠাতে পারেন।\n * স্বয়ংক্রিয়ভাবে অনুবাদকৃত পাঠ্যগুলি এমন একটি বিভাগ দ্বারা নির্দেশিত হয় যা কোনও ব্যক্তির দ্বারা সংশোধিত ভাষায় নথি সরবরাহ করে।\n * অনুবাদগুলি এস্পেরান্তোকে মূল ভাষা হিসাবে ব্যবহার করে। এই পছন্দটি প্রথম নজরে অদ্ভুত বলে মনে হতে পারে তবে এর বেশ কয়েকটি সুবিধা রয়েছে:\n   * এটি একটি সাধারণ ব্যাকরণ সহ একটি ভাষা এবং ব্যতিক্রম ছাড়াই সফ্টওয়্যার অনুবাদকদের সাথে পরিচালনা করা সহজ। ।\n   * এটি একটি খুব সুনির্দিষ্ট ভাষা, ইংরেজির তুলনায় অস্পষ্টতা তৈরি করে।\n   * শিক্ষার্থীর ভাষা যাই হোক না কেন এটি শেখা খুব সহজ।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por krei statikajn plurlingvajn "
+#~ "retejojn bazitajn sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ জেকিলের ভিত্তিতে স্থির বহুভাষিক ওয়েবসাইট তৈরির জন্য একটি "
+#~ "কঙ্কাল।  \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * dezajno sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, gugla serĉo en "
+#~ "la retejo, kaj la menuo de la retejo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll.\n"
+#~ " * skriptoj permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ " * tradukoj estas administrataj per po-dosieroj:\n"
+#~ "   * se vi ŝanĝas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita.\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per rubriko, kiu proponas "
+#~ "la dokumenton en la lingvoj korektitaj de homo.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble "
+#~ "ŝajnas stranga komence, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile traktata de programaj tradukistoj.\n"
+#~ "   * ĝi estas lingvo tre preciza, generanta malpli da dusencecoj ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "এর সবচেয়ে আকর্ষণীয় বৈশিষ্ট্য:\n"
+#~ " * দুটি কলামে নকশা:\n"
+#~ "   * বামদিকে, একটি ভাষা প্রত্যাহারযোগ্য মেনু, ভাষা পছন্দ সহ সাইটটিতে গুগল "
+#~ "অনুসন্ধান এবং মেনু সাইটের।\n"
+#~ "   * ডানদিকে, মূল বিষয়বস্তু।\n"
+#~ " * ওয়েবসাইটের জন্য উপযুক্ত _Github Pages_ ।\n"
+#~ " * জেকিলের সমস্ত সম্ভাবনা।\n"
+#~ " * স্ক্রিপ্টগুলি আপনাকে পৃষ্ঠাটির স্বয়ংক্রিয়ভাবে সাইটের সমস্ত ভাষায় অনুবাদ করতে দেয় "
+#~ "allow\n"
+#~ " * অনুবাদগুলি পো ফাইল দ্বারা পরিচালিত হয়:\n"
+#~ "   * আপনি যদি কোনও পৃষ্ঠায় অনুচ্ছেদ পরিবর্তন করেন বা যোগ করেন তবে কেবলমাত্র "
+#~ "এটিই পুনরায় অনুবাদ করা দরকার।\n"
+#~ "   * আপনি সংশোধনের জন্য এই ফাইলটি একজন মানব অনুবাদকের কাছে পাঠাতে পারেন।\n"
+#~ " * স্বয়ংক্রিয়ভাবে অনুবাদকৃত পাঠ্যগুলি এমন একটি বিভাগ দ্বারা নির্দেশিত হয় যা কোনও "
+#~ "ব্যক্তির দ্বারা সংশোধিত ভাষায় নথি সরবরাহ করে।\n"
+#~ " * অনুবাদগুলি এস্পেরান্তোকে মূল ভাষা হিসাবে ব্যবহার করে। এই পছন্দটি প্রথমে অদ্ভুত "
+#~ "বলে মনে হতে পারে তবে এর বেশ কয়েকটি সুবিধা রয়েছে:\n"
+#~ "   * এটি একটি সাধারণ ব্যাকরণ সহ একটি ভাষা এবং ব্যতিক্রম ছাড়া প্রোগ্রামের "
+#~ "অনুবাদকদের দ্বারা এটি মোকাবেলা করা সহজ।\n"
+#~ "   * এটি একটি খুব সুনির্দিষ্ট ভাষা, ইংরেজির তুলনায় অস্পষ্টতা তৈরি করে।\n"
+#~ "   * শিক্ষার্থীর ভাষা যাই হোক না কেন এটি শেখা খুব সহজ।\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Plej novaj afiŝoj"
+#~ msgstr "সর্বশেষ পোস্ট"

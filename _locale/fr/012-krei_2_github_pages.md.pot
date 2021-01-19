@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: 012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: 012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "012-kreu-2-cxefan-GP"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: 012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: 012-krei_2_github_pages.md:1
+#, no-wrap
+msgid "créez un site _\"github page\"_ secondaire "
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:10
+#, markdown-text, no-wrap
+msgid ""
+"Allez sur le site de [ _jekyll-plurlingva_ "
+"](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this "
+"template»_.\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:13
+#, markdown-text, no-wrap
+msgid ""
+"Entrez un nom de dépot, et validez la création du dépot.\n"
+"Allez dans les pramètres de votre dépot, descendez jusqu'au paragraphe "
+"_«Github Pages»_, et remplacez «None» par «master», cliquez sur «Save».\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:14
+#, markdown-text, no-wrap
+msgid "Maintenant connectez vous sur un ordinateur sous linux.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:16
+#, markdown-text, no-wrap
+msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:16
+#, no-wrap
+msgid ""
+"sudo apt install ruby-bundler ruby-dev gawk\n"
+"sudo apt -t buster-backports install po4a\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:22
+#, markdown-text, no-wrap
+msgid "et récupérez une copie de votre dépot :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:22
+#, no-wrap
+msgid ""
+"git clone https://github.com/username/name\n"
+"cd name\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:28
+#, markdown-text, no-wrap
+msgid ""
+"Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier "
+"_\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:28
+#, no-wrap
+msgid "nano _data/languages.yml\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:33
+#, markdown-text, no-wrap
+msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:33
+#, no-wrap
+msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:38
+#, markdown-text, no-wrap
+msgid "Transmettez les modifications vers votre site _github_ :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:38
+#, no-wrap
+msgid ""
+"git add --all\n"
+"git commit -m \"Initial commit\"\n"
+"git push -u origin master\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:45
+#, markdown-text, no-wrap
+msgid ""
+"Félicitations, votre site est créé, il est accessible à l'adresse "
+"https://username.github.io/name .\n"
+msgstr ""

@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "eo"
+msgstr "es"
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "indekso"
+msgstr "indekso"
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "index"
+msgstr "index"
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, fuzzy, no-wrap
+msgid " _jekyll-plurlingva_ "
+msgstr " _jekyll-plurlingva_ "
+
+#. type: Plain text
+#: index.md:9
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ es un esqueleto para la creación de sitios web multilingües estáticos basados ​​en jekyll.  \n"
+
+#. type: Plain text
+#: index.md:11
+#, fuzzy, no-wrap
+msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+msgstr "Su propósito es permanecer ligero por simplicidad.\n"
+
+#. type: Plain text
+#: index.md:27
+#, no-wrap
+#, fuzzy
+msgid ""
+"Ĝiaj plej okulfrapaj trajtoj:\n"
+" * desegno sur du kolumnoj:\n"
+"   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+"   * dekstre, la ĉefa enhavo.\n"
+" * taŭga por retejoj _Github Pages_ .\n"
+" * ĉiuj eblecoj de jekyll. La skriptoj\n"
+" * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+" * tradukoj estas administrataj de po-dosieroj:\n"
+"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
+" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
+"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
+"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+msgstr "Sus características más llamativas:\n * dibujo en dos columnas:\n   * a la izquierda, un menú retráctil, con la elección del idioma, la búsqueda web de Google y el menú del sitio web.\n   * a la derecha, el contenido principal.\n * adecuado para sitios web _Github Pages_ .\n * todas las posibilidades de jekyll. Los scripts\n * le permiten traducir automáticamente las páginas a todos los idiomas del sitio.\n * las traducciones se gestionan mediante archivos po:\n   * si modifica o agrega un párrafo en una página, solo es necesario volver a traducir este.\n   * puede enviar este archivo a un traductor humano para que lo corrija.\n * Los textos traducidos automáticamente se indican mediante una sección que ofrece el documento en los idiomas corregidos por una persona.\n * Las traducciones utilizan el esperanto como lengua fundamental. Esta elección puede parecer extraña a primera vista, pero tiene varias ventajas:\n   * es un idioma con una gramática simple y sin excepción, por lo tanto, es más fácil de manejar con traductores de software. .\n   * es un idioma muy preciso, que genera menos ambigüedad que el inglés.\n   * es muy fácil de aprender, sea cual sea el idioma del alumno.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por krei statikajn plurlingvajn "
+#~ "retejojn bazitajn sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ es un esqueleto para crear sitios web multilingües "
+#~ "estáticos basados ​​en jekyll.  \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * dezajno sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, gugla serĉo en "
+#~ "la retejo, kaj la menuo de la retejo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll.\n"
+#~ " * skriptoj permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ " * tradukoj estas administrataj per po-dosieroj:\n"
+#~ "   * se vi ŝanĝas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita.\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per rubriko, kiu proponas "
+#~ "la dokumenton en la lingvoj korektitaj de homo.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble "
+#~ "ŝajnas stranga komence, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile traktata de programaj tradukistoj.\n"
+#~ "   * ĝi estas lingvo tre preciza, generanta malpli da dusencecoj ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "Sus características más llamativas:\n"
+#~ " * diseño en dos columnas:\n"
+#~ "   * a la izquierda, un menú retráctil, con la elección del idioma, una "
+#~ "búsqueda de Google en el sitio y el menú del sitio.\n"
+#~ "   * a la derecha, el contenido principal.\n"
+#~ " * adecuado para sitios web _Github Pages_ .\n"
+#~ " * todas las posibilidades de jekyll. Los scripts\n"
+#~ " * le permiten traducir automáticamente las páginas a todos los idiomas "
+#~ "del sitio.\n"
+#~ " * las traducciones son administradas por archivos po:\n"
+#~ "   * si cambia o agrega un párrafo en una página, solo este necesita ser "
+#~ "traducido nuevamente.\n"
+#~ "   * puede enviar este archivo a un traductor humano para que lo "
+#~ "corrija.\n"
+#~ " * Los textos traducidos automáticamente se indican mediante una sección "
+#~ "que ofrece el documento en los idiomas corregidos por una persona.\n"
+#~ " * Las traducciones utilizan el esperanto como lengua fundamental. Esta "
+#~ "elección puede parecer extraña al principio, pero tiene varias ventajas:\n"
+#~ "   * es un lenguaje con una gramática simple y, sin excepción, es más "
+#~ "fácil de manejar por traductores de programas.\n"
+#~ "   * es un idioma muy preciso, que genera menos ambigüedad que el "
+#~ "inglés.\n"
+#~ "   * es muy fácil de aprender, sea cual sea el idioma del alumno.\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Plej novaj afiŝoj"
+#~ msgstr "Últimas publicaciones"

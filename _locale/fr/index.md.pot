@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 18:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: index.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: index.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: index.md:1
+#, no-wrap
+msgid "indekso"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: index.md:1
+#, no-wrap
+msgid "index"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: index.md:1
+#, no-wrap
+msgid " _jekyll-plurlingva_ "
+msgstr ""
+
+#. type: Plain text
+#: index.md:9
+#, no-wrap
+msgid " _Jekyll-plurlingva_ est un squelette pour la création de sites Web multilingues statiques basés sur jekyll.  \n"
+msgstr ""
+
+#. type: Plain text
+#: index.md:11
+#, no-wrap
+msgid "Son but est de rester léger pour la simplicité.\n"
+msgstr ""
+
+#. type: Plain text
+#: index.md:27
+#, no-wrap
+msgid ""
+"Ses caractéristiques les plus marquantes:\n"
+" * conception sur deux colonnes:\n"
+"   * à gauche, un menu rétractable, avec le choix de la langue, une recherche Google sur le site, et le menu du site.\n"
+"   * à droite, le contenu principal.\n"
+" * adapté aux sites Internet _Github Pages_ .\n"
+" * toutes les possibilités de jekyll. Les scripts\n"
+" * permettent de traduire automatiquement des pages dans toutes les langues du site.\n"
+" * les traductions sont gérées par des fichiers po:\n"
+"   * si vous modifiez ou ajoutez un paragraphe sur une page, seul celui-ci a besoin d'être retraduit.\n"
+"   * vous pouvez envoyer ce fichier à un traducteur humain pour correction.\n"
+" * Les textes traduits automatiquement sont indiqués par une section qui propose le document dans les langues corrigées par une personne.\n"
+" * Les traductions utilisent l'espéranto comme langue pivot. Ce choix peut paraître étrange au premier abord, mais il présente plusieurs avantages:\n"
+"   * c'est une langue avec une grammaire simple et sans exception, elle est donc plus facile à gérer par les traducteurs de programmes.\n"
+"   * c'est une langue très précise, générant moins d'ambiguïté que l'anglais.\n"
+"   * il est très facile à apprendre, quelle que soit la langue de l'élève.\n"
+msgstr ""
