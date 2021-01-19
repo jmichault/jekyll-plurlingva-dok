@@ -23,14 +23,14 @@ git clone https://github.com/username/username.github.io
 cd username.github.io
 ```
 
-事前設定された15の言語よりも少ない言語が必要な場合は、ファイルを編集して _\_data/languages.yml_ 、対応する行を削除します：
-```bash
-nano _data/languages.yml
-```
-
 タイトルと簡単な説明を選択し、サイトを評価してください：
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+事前設定された15の言語よりも少ない言語が必要な場合は、ファイルを編集して _\_data/languages.yml_ 、対応する行を削除します：
+```bash
+nano _data/languages.yml
 ```
 
 ウェブサイトに変更を送信する _github_ :

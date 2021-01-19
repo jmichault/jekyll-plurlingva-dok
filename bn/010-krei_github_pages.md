@@ -23,14 +23,14 @@ git clone https://github.com/username/username.github.io
 cd username.github.io
 ```
 
-আপনি যদি 15 টি প্রিসেটের চেয়ে কম ভাষা চান তবে ফাইলটি সম্পাদনা করুন _\_data/languages.yml_ এবং সংশ্লিষ্ট লাইনগুলি মুছুন:
-```bash
-nano _data/languages.yml
-```
-
 একটি শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটিকে রেট দিন:
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+আপনি যদি 15 টি প্রিসেটের চেয়ে কম ভাষা চান তবে ফাইলটি সম্পাদনা করুন _\_data/languages.yml_ এবং সংশ্লিষ্ট লাইনগুলি মুছুন:
+```bash
+nano _data/languages.yml
 ```
 
 আপনার ওয়েবসাইটে পরিবর্তনগুলি জমা দিন _github_ :

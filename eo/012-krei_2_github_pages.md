@@ -24,14 +24,21 @@ git clone https://github.com/username/name
 cd name
 ```
 
-Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\_data/languages.yml_ kaj forigu la respondajn liniojn:
-```bash
-nano _data/languages.yml
-```
-
 Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+Ŝanĝu la bazan parametron en la dosiero _\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ "", por havi ĉi tion:  
+    `baseurl:          "/name"`  
+    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)
+```bash
+nano _config.yml
+```
+
+Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\_data/languages.yml_ kaj forigu la respondajn liniojn:
+```bash
+nano _data/languages.yml
 ```
 
 Sendu la ŝanĝojn al via retejo _github_ :

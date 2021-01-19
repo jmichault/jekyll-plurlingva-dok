@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgstr "indekso"
 #. type: YAML Front Matter: layout
 #: index.md:1
 #, no-wrap
-msgid "index"
-msgstr "index"
+msgid "page"
+msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
@@ -48,8 +48,7 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ ist ein Grundgerüst für die Erstellung statischer mehrsprachiger Websites auf der Basis von Jekyll.  \n"
 
@@ -61,8 +60,7 @@ msgstr "Sein Zweck ist es, der Einfachheit halber leicht zu bleiben.\n"
 
 #. type: Plain text
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "Ĝiaj plej okulfrapaj trajtoj:\n"
 " * desegno sur du kolumnoj:\n"
@@ -79,7 +77,25 @@ msgid ""
 "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
 "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
 "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "Die auffälligsten Merkmale:\n * Zeichnen auf zwei Spalten:\n   * links, ein einziehbares Menü mit Sprachauswahl, Google-Websuche und Menü der Website.\n   * rechts der Hauptinhalt.\n * geeignet für Websites _Github Pages_ .\n * alle Möglichkeiten von Jekyll. Mit den Skripten\n * können Sie Seiten automatisch in alle Sprachen der Site übersetzen.\n * Übersetzungen werden von Po-Dateien verwaltet:\n   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss nur dieser erneut übersetzt werden.\n   * Sie können diese Datei zur Korrektur an einen menschlichen Übersetzer senden.\n * Automatisch übersetzte Texte werden durch einen Abschnitt gekennzeichnet, der das Dokument in den von einer Person korrigierten Sprachen anbietet.\n * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl mag auf den ersten Blick seltsam erscheinen, hat aber mehrere Vorteile:\n   * Es ist eine Sprache mit einer einfachen Grammatik und daher ausnahmslos einfacher mit Software-Übersetzern zu verwalten. .\n   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt als Englisch.\n   * es ist sehr leicht zu lernen, unabhängig von der Sprache des Schülers.\n"
+msgstr ""
+"Die auffälligsten Merkmale:\n"
+" * Zeichnen auf zwei Spalten:\n"
+"   * links, ein einziehbares Menü mit Sprachauswahl, Google-Websuche und Menü der Website.\n"
+"   * rechts der Hauptinhalt.\n"
+" * geeignet für Websites _Github Pages_ .\n"
+" * alle Möglichkeiten von Jekyll. Mit den Skripten\n"
+" * können Sie Seiten automatisch in alle Sprachen der Site übersetzen.\n"
+" * Übersetzungen werden von Po-Dateien verwaltet:\n"
+"   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss nur dieser erneut übersetzt werden.\n"
+"   * Sie können diese Datei zur Korrektur an einen menschlichen Übersetzer senden.\n"
+" * Automatisch übersetzte Texte werden durch einen Abschnitt gekennzeichnet, der das Dokument in den von einer Person korrigierten Sprachen anbietet.\n"
+" * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl mag auf den ersten Blick seltsam erscheinen, hat aber mehrere Vorteile:\n"
+"   * Es ist eine Sprache mit einer einfachen Grammatik und daher ausnahmslos einfacher mit Software-Übersetzern zu verwalten. .\n"
+"   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt als Englisch.\n"
+"   * es ist sehr leicht zu lernen, unabhängig von der Sprache des Schülers.\n"
+
+#~ msgid "index"
+#~ msgstr "index"
 
 #, fuzzy
 #~ msgid ""

@@ -24,14 +24,21 @@ git clone https://github.com/username/name
 cd name
 ```
 
-Se você quiser menos idiomas do que os 15 predefinidos, edite o arquivo _\_data/languages.yml_ e exclua as linhas correspondentes:
-```bash
-nano _data/languages.yml
-```
-
 Escolha um título e uma breve descrição e avalie o site:
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+Para alterar o parâmetro básico no arquivo _\_config.yml_ , deve-se colocar o nome do site ao invés de "", para ter este:  
+    `baseurl:          "/name"`  
+    (substitua _«name»_ pelo nome que você escolheu)
+```bash
+nano _config.yml
+```
+
+Se você quiser menos idiomas do que os 15 predefinidos, edite o arquivo _\_data/languages.yml_ e exclua as linhas correspondentes:
+```bash
+nano _data/languages.yml
 ```
 
 Envie alterações para o seu site _github_ :

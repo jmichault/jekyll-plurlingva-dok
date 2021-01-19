@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:54+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,71 +17,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./010-krei_github_pages.md:1
+#: 010-krei_github_pages.md:1
 #, no-wrap
 msgid "eo"
 msgstr "pa"
 
 #. type: YAML Front Matter: lang-niv
-#: ./010-krei_github_pages.md:1
+#: 010-krei_github_pages.md:1
 #, no-wrap
 msgid "auto"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./010-krei_github_pages.md:1
+#: 010-krei_github_pages.md:1
 #, no-wrap
 msgid "010-kreu-cxefan-GP"
 msgstr "010-kreu-cxefan-GP"
 
 #. type: YAML Front Matter: layout
-#: ./010-krei_github_pages.md:1
+#: 010-krei_github_pages.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./010-krei_github_pages.md:1
-#, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:1
+#, fuzzy, no-wrap
 msgid "kreu vian retejon _\"github page\"_ "
 msgstr "ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਬਣਾਓ _\"github page\"_ "
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:10
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Iru al la loko de [ _jekyll-plurlingva_ "
-"](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this "
-"template»_.\n"
+#: 010-krei_github_pages.md:10
+#, fuzzy, no-wrap
+msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ਦੀ ਸਥਿਤੀ 'ਤੇ ਜਾਓ, ਅਤੇ ( _«Use this template»_ਕਲਿੱਕ ਕਰੋ.\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:12
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via "
-"uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.\n"
+#: 010-krei_github_pages.md:12
+#, fuzzy, no-wrap
+msgid "Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.\n"
 msgstr "ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਨਾਮ ਦਿਓ: _username.github.io_ , ਜਿੱਥੇ _username_ ਤੁਹਾਡਾ ਉਪਯੋਗਕਰਤਾ ਨਾਮ _github_ਹੈ, ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦਾ ਹੈ.\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:13
-#, markdown-text, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:13
+#, fuzzy, no-wrap
 msgid "Nun konektiĝu al komputilo kun Linux.  \n"
 msgstr "ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨਾਲ ਜੁੜੋ.  \n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:15
-#, markdown-text, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:15
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
 msgstr "ਜ਼ਰੂਰਤ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਦੇ ਅਧੀਨ ਹੋ:\n"
 
 #. type: Fenced code block (bash)
-#: ./010-krei_github_pages.md:15
+#: 010-krei_github_pages.md:15
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -91,14 +81,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:21
-#, markdown-text, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:21
+#, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "ਅਤੇ ਤੁਹਾਡੀ ਜਮ੍ਹਾਂ ਰਕਮ ਦੀ ਇੱਕ ਕਾਪੀ ਪ੍ਰਾਪਤ ਕਰੋ:\n"
 
 #. type: Fenced code block (bash)
-#: ./010-krei_github_pages.md:21
+#: 010-krei_github_pages.md:21
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -108,42 +97,37 @@ msgstr ""
 "cd username.github.io\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:27
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron "
-"_\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
-msgstr "ਜੇ ਤੁਸੀਂ 15 ਪ੍ਰੀਸੈੱਟ ਭਾਸ਼ਾਵਾਂ ਤੋਂ ਘੱਟ ਭਾਸ਼ਾਵਾਂ ਚਾਹੁੰਦੇ ਹੋ, ਫਾਈਲ ਨੂੰ ਸੋਧੋ _\\_data/languages.yml_ ਅਤੇ ਸੰਬੰਧਿਤ ਲਾਈਨਾਂ ਨੂੰ ਮਿਟਾਓ:\n"
-
-#. type: Fenced code block (bash)
-#: ./010-krei_github_pages.md:27
-#, no-wrap
-msgid "nano _data/languages.yml\n"
-msgstr "nano _data/languages.yml\n"
-
-#. type: Plain text
-#: ./010-krei_github_pages.md:32
-#, markdown-text, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:27
+#, fuzzy, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr "ਸਿਰਲੇਖ ਅਤੇ ਛੋਟਾ ਵੇਰਵਾ ਚੁਣੋ, ਅਤੇ ਸਾਈਟ ਨੂੰ ਦਰਜਾ ਦਿਓ:\n"
 
 #. type: Fenced code block (bash)
-#: ./010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:27
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:37
-#, markdown-text, no-wrap
-#, fuzzy
+#: 010-krei_github_pages.md:32
+#, fuzzy, no-wrap
+msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
+msgstr "ਜੇ ਤੁਸੀਂ 15 ਪ੍ਰੀਸੈੱਟ ਭਾਸ਼ਾਵਾਂ ਤੋਂ ਘੱਟ ਭਾਸ਼ਾਵਾਂ ਚਾਹੁੰਦੇ ਹੋ, ਫਾਈਲ ਨੂੰ ਸੋਧੋ _\\_data/languages.yml_ ਅਤੇ ਸੰਬੰਧਿਤ ਲਾਈਨਾਂ ਨੂੰ ਮਿਟਾਓ:\n"
+
+#. type: Fenced code block (bash)
+#: 010-krei_github_pages.md:32
+#, no-wrap
+msgid "nano _data/languages.yml\n"
+msgstr "nano _data/languages.yml\n"
+
+#. type: Plain text
+#: 010-krei_github_pages.md:37
+#, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "ਆਪਣੀ ਸਾਈਟ ਤੇ ਤਬਦੀਲੀਆਂ ਭੇਜੋ _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: ./010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -155,11 +139,7 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: ./010-krei_github_pages.md:44
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe "
-"https://username.github.io.\n"
+#: 010-krei_github_pages.md:44
+#, fuzzy, no-wrap
+msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "ਵਧਾਈਆਂ, ਤੁਹਾਡੀ ਸਾਈਟ ਬਣਾਈ ਗਈ ਹੈ, ਇਹ https://username.github.io ਤੇ ਪਹੁੰਚਯੋਗ ਹੈ.\n"
-

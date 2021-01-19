@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:53+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,31 +48,27 @@ msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:10
-#, markdown-text, no-wrap
-msgid ""
-"Allez sur le site de [ _jekyll-plurlingva_ "
-"](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this "
-"template»_.\n"
+#, no-wrap
+msgid "Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.\n"
 msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:13
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
 "Entrez un nom de dépot, et validez la création du dépot.\n"
-"Allez dans les pramètres de votre dépot, descendez jusqu'au paragraphe "
-"_«Github Pages»_, et remplacez «None» par «master», cliquez sur «Save».\n"
+"Allez dans les pramètres de votre dépot, descendez jusqu'au paragraphe _«Github Pages»_, et remplacez «None» par «master», cliquez sur «Save».\n"
 msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:14
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Maintenant connectez vous sur un ordinateur sous linux.  \n"
 msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:16
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
 msgstr ""
 
@@ -86,7 +82,7 @@ msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:22
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "et récupérez une copie de votre dépot :\n"
 msgstr ""
 
@@ -100,38 +96,60 @@ msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:28
-#, markdown-text, no-wrap
-msgid ""
-"Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier "
-"_\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
+#, no-wrap
+msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:28
 #, no-wrap
-msgid "nano _data/languages.yml\n"
-msgstr ""
-
-#. type: Plain text
-#: 012-krei_2_github_pages.md:33
-#, markdown-text, no-wrap
-msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
-msgstr ""
-
-#. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:33
-#, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:38
-#, markdown-text, no-wrap
+#: 012-krei_2_github_pages.md:32
+#, no-wrap
+msgid "Changez le paramètre baseurl dans le fichier _\\_config.yml_ , il faut mettre le nom du site au lieu de \"\", pour avoir ceci :  \n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:33
+#, no-wrap
+msgid "    `baseurl:          \"/name\"`  \n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:35
+#, no-wrap
+msgid "    (remplacez _«name»_ par le nom que vous avez choisi)\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:35
+#, no-wrap
+msgid "nano _config.yml\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:40
+#, no-wrap
+msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 012-krei_2_github_pages.md:40
+#, no-wrap
+msgid "nano _data/languages.yml\n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:45
+#, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:38
+#: 012-krei_2_github_pages.md:45
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -140,9 +158,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:45
-#, markdown-text, no-wrap
-msgid ""
-"Félicitations, votre site est créé, il est accessible à l'adresse "
-"https://username.github.io/name .\n"
+#: 012-krei_2_github_pages.md:52
+#, no-wrap
+msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io/name .\n"
 msgstr ""

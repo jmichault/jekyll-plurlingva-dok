@@ -24,14 +24,21 @@ git clone https://github.com/username/name
 cd name
 ```
 
-如果您想要的语言少于15种预定义的语言，请编辑文件 _\_data/languages.yml_ 并删除相应的行：
-```bash
-nano _data/languages.yml
-```
-
 选择标题和简短描述，并对网站评分：
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+要更改文件中的基本参数 _\_config.yml_ ，必须添加站点名称，而不是 ""，以便具有以下名称：  
+    `baseurl:          "/name"`  
+    (用您选择的名称)替换 _«name»_ 
+```bash
+nano _config.yml
+```
+
+如果您想要的语言少于15种预定义的语言，请编辑文件 _\_data/languages.yml_ 并删除相应的行：
+```bash
+nano _data/languages.yml
 ```
 
 将更改发送到您的站点 _github_ ：

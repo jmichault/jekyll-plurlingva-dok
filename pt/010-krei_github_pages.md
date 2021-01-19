@@ -23,14 +23,14 @@ git clone https://github.com/username/username.github.io
 cd username.github.io
 ```
 
-Se você quiser menos idiomas do que os 15 predefinidos, edite o arquivo _\_data/languages.yml_ e exclua as linhas correspondentes:
-```bash
-nano _data/languages.yml
-```
-
 Escolha um título e uma breve descrição e avalie o site:
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+Se você quiser menos idiomas do que os 15 predefinidos, edite o arquivo _\_data/languages.yml_ e exclua as linhas correspondentes:
+```bash
+nano _data/languages.yml
 ```
 
 Envie alterações para o seu site _github_ :

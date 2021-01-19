@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgstr "indekso"
 #. type: YAML Front Matter: layout
 #: index.md:1
 #, no-wrap
-msgid "index"
-msgstr "index"
+msgid "page"
+msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
@@ -48,8 +48,7 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ adalah kerangka untuk membuat laman web berbilang bahasa statik berdasarkan jekyll.  \n"
 
@@ -61,8 +60,7 @@ msgstr "Tujuannya adalah untuk tetap ringan untuk kesederhanaan.\n"
 
 #. type: Plain text
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "Ĝiaj plej okulfrapaj trajtoj:\n"
 " * desegno sur du kolumnoj:\n"
@@ -79,7 +77,25 @@ msgid ""
 "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
 "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
 "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "Ciri-ciri yang paling mencolok:\n * melukis pada dua lajur:\n   * di sebelah kiri, menu yang boleh ditarik balik, dengan pilihan bahasa, carian web Google, dan menu laman web.\n   * di sebelah kanan, kandungan utama.\n * sesuai untuk laman web _Github Pages_ .\n * semua kemungkinan jekyll. Skrip\n * membolehkan anda menterjemahkan halaman ke semua bahasa laman web secara automatik.\n * terjemahan dikendalikan oleh fail po:\n   * jika anda mengubah atau menambahkan perenggan pada halaman, hanya yang ini perlu diterjemahkan semula.\n   * anda boleh menghantar fail ini kepada penterjemah manusia untuk pembetulan.\n * Teks yang diterjemahkan secara automatik ditunjukkan oleh bahagian yang menawarkan dokumen dalam bahasa yang diperbetulkan oleh seseorang.\n * Terjemahan menggunakan bahasa Esperanto sebagai bahasa penting. Pilihan ini mungkin kelihatan aneh pada pandangan pertama, tetapi ia mempunyai beberapa kelebihan:\n   * ia adalah bahasa dengan tatabahasa yang sederhana dan tanpa pengecualian, oleh itu lebih mudah untuk dikendalikan dengan penterjemah perisian. .\n   * ia adalah bahasa yang sangat tepat, menghasilkan kekaburan yang kurang daripada bahasa Inggeris.\n   * sangat mudah dipelajari, apa sahaja bahasa pelajar.\n"
+msgstr ""
+"Ciri-ciri yang paling mencolok:\n"
+" * melukis pada dua lajur:\n"
+"   * di sebelah kiri, menu yang boleh ditarik balik, dengan pilihan bahasa, carian web Google, dan menu laman web.\n"
+"   * di sebelah kanan, kandungan utama.\n"
+" * sesuai untuk laman web _Github Pages_ .\n"
+" * semua kemungkinan jekyll. Skrip\n"
+" * membolehkan anda menterjemahkan halaman ke semua bahasa laman web secara automatik.\n"
+" * terjemahan dikendalikan oleh fail po:\n"
+"   * jika anda mengubah atau menambahkan perenggan pada halaman, hanya yang ini perlu diterjemahkan semula.\n"
+"   * anda boleh menghantar fail ini kepada penterjemah manusia untuk pembetulan.\n"
+" * Teks yang diterjemahkan secara automatik ditunjukkan oleh bahagian yang menawarkan dokumen dalam bahasa yang diperbetulkan oleh seseorang.\n"
+" * Terjemahan menggunakan bahasa Esperanto sebagai bahasa penting. Pilihan ini mungkin kelihatan aneh pada pandangan pertama, tetapi ia mempunyai beberapa kelebihan:\n"
+"   * ia adalah bahasa dengan tatabahasa yang sederhana dan tanpa pengecualian, oleh itu lebih mudah untuk dikendalikan dengan penterjemah perisian. .\n"
+"   * ia adalah bahasa yang sangat tepat, menghasilkan kekaburan yang kurang daripada bahasa Inggeris.\n"
+"   * sangat mudah dipelajari, apa sahaja bahasa pelajar.\n"
+
+#~ msgid "index"
+#~ msgstr "index"
 
 #, fuzzy
 #~ msgid ""

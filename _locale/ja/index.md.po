@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgstr "indekso"
 #. type: YAML Front Matter: layout
 #: index.md:1
 #, no-wrap
-msgid "index"
-msgstr "index"
+msgid "page"
+msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
@@ -48,8 +48,7 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ は、jekyllに基づいて静的な多言語Webサイトを作成するためのスケルトンです。  \n"
 
@@ -61,8 +60,7 @@ msgstr "その目的は、単純化のために軽量を維持することです
 
 #. type: Plain text
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "Ĝiaj plej okulfrapaj trajtoj:\n"
 " * desegno sur du kolumnoj:\n"
@@ -79,7 +77,25 @@ msgid ""
 "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
 "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
 "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "その最も印象的な機能：\n * 2列に描画：左側に\n   * 、言語を選択できる格納式メニュー、Google Web検索、およびメニューウェブサイトの。\n   * 右側、メインコンテンツ。\n * ウェブサイト _Github Pages_ に適しています。\n * ジェキルのすべての可能性。スクリプト\n * を使用すると、ページをサイトのすべての言語に自動的に翻訳できます。\n * 翻訳はpoファイルによって管理されます：\n   * ページの段落を変更または追加した場合、これだけを再翻訳する必要があります。\n   * このファイルを人間の翻訳者に送信して修正することができます。\n * 自動的に翻訳されたテキストは、人が修正した言語でドキュメントを提供するセクションによって示されます。\n * 翻訳では、エスペラントを中心的な言語として使用しています。この選択は一見奇妙に思えるかもしれませんが、いくつかの利点があります。\n   * 単純な文法の言語であるため、例外なく、ソフトウェアトランスレータで管理するのが簡単です。 。\n   * それは非常に正確な言語であり、英語よりも曖昧さが少なくなります。\n   * 生徒の言語に関係なく、学ぶのはとても簡単です。\n"
+msgstr ""
+"その最も印象的な機能：\n"
+" * 2列に描画：左側に\n"
+"   * 、言語を選択できる格納式メニュー、Google Web検索、およびメニューウェブサイトの。\n"
+"   * 右側、メインコンテンツ。\n"
+" * ウェブサイト _Github Pages_ に適しています。\n"
+" * ジェキルのすべての可能性。スクリプト\n"
+" * を使用すると、ページをサイトのすべての言語に自動的に翻訳できます。\n"
+" * 翻訳はpoファイルによって管理されます：\n"
+"   * ページの段落を変更または追加した場合、これだけを再翻訳する必要があります。\n"
+"   * このファイルを人間の翻訳者に送信して修正することができます。\n"
+" * 自動的に翻訳されたテキストは、人が修正した言語でドキュメントを提供するセクションによって示されます。\n"
+" * 翻訳では、エスペラントを中心的な言語として使用しています。この選択は一見奇妙に思えるかもしれませんが、いくつかの利点があります。\n"
+"   * 単純な文法の言語であるため、例外なく、ソフトウェアトランスレータで管理するのが簡単です。 。\n"
+"   * それは非常に正確な言語であり、英語よりも曖昧さが少なくなります。\n"
+"   * 生徒の言語に関係なく、学ぶのはとても簡単です。\n"
+
+#~ msgid "index"
+#~ msgstr "index"
 
 #, fuzzy
 #~ msgid ""

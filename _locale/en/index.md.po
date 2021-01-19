@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 18:55+0100\n"
+"POT-Creation-Date: 2021-01-19 21:07+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgstr "indekso"
 #. type: YAML Front Matter: layout
 #: index.md:1
 #, no-wrap
-msgid "index"
-msgstr "index"
+msgid "page"
+msgstr "page"
 
 #. type: YAML Front Matter: title
 #: index.md:1
@@ -48,8 +48,7 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ is a skeleton for the creation of static multilingual websites based on jekyll.  \n"
 
@@ -61,8 +60,7 @@ msgstr "Its purpose is to remain light for simplicity.\n"
 
 #. type: Plain text
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "Ĝiaj plej okulfrapaj trajtoj:\n"
 " * desegno sur du kolumnoj:\n"
@@ -79,7 +77,25 @@ msgid ""
 "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
 "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
 "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "Its most striking features:\n * drawing on two columns:\n   * on the left, a retractable menu, with the choice of language, Google web search, and the menu of website.\n   * on the right, the main content.\n * suitable for websites _Github Pages_ .\n * all possibilities of jekyll. The scripts\n * allow you to automatically translate pages into all the languages ​​of the site.\n * translations are managed by po files:\n   * if you modify or add a paragraph on a page, only this one needs to be retranslated.\n   * you can send this file to a human translator for correction.\n * Automatically translated texts are indicated by a section that offers the document in the languages ​​corrected by a person.\n * The translations use Esperanto as a pivotal language. This choice may seem strange at first glance, but it has several advantages:\n   * it is a language with a simple grammar and without exception, it is therefore easier to manage with software translators. .\n   * it is a very precise language, generating less ambiguity than English.\n   * it is very easy to learn, whatever the language of the student.\n"
+msgstr ""
+"Its most striking features:\n"
+" * drawing on two columns:\n"
+"   * on the left, a retractable menu, with the choice of language, Google web search, and the menu of website.\n"
+"   * on the right, the main content.\n"
+" * suitable for websites _Github Pages_ .\n"
+" * all possibilities of jekyll. The scripts\n"
+" * allow you to automatically translate pages into all the languages ​​of the site.\n"
+" * translations are managed by po files:\n"
+"   * if you modify or add a paragraph on a page, only this one needs to be retranslated.\n"
+"   * you can send this file to a human translator for correction.\n"
+" * Automatically translated texts are indicated by a section that offers the document in the languages ​​corrected by a person.\n"
+" * The translations use Esperanto as a pivotal language. This choice may seem strange at first glance, but it has several advantages:\n"
+"   * it is a language with a simple grammar and without exception, it is therefore easier to manage with software translators. .\n"
+"   * it is a very precise language, generating less ambiguity than English.\n"
+"   * it is very easy to learn, whatever the language of the student.\n"
+
+#~ msgid "index"
+#~ msgstr "index"
 
 #, fuzzy
 #~ msgid ""

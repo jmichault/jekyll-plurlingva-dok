@@ -5,7 +5,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-baseurl:          ""
+baseurl:          "/jekyll-plurlingva-dok"
 auxtoro: Jean Michault
 
 exclude: [ _locale , _scripts , "*.backup", "*.bak" ]

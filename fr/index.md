@@ -1,6 +1,6 @@
 ---
 lang: fr
-lang-niv: fonto
+lang-niv: auto
 lang-ref: indekso
 layout: page
 title: ' _jekyll-plurlingva_ '

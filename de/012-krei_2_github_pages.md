@@ -24,14 +24,21 @@ git clone https://github.com/username/name
 cd name
 ```
 
-Wenn Sie weniger Sprachen als die 15 voreingestellten Sprachen möchten, bearbeiten Sie die Datei _\_data/languages.yml_ und löschen Sie die entsprechenden Zeilen:
-```bash
-nano _data/languages.yml
-```
-
 Wählen Sie einen Titel und eine Kurzbeschreibung und initialisieren Sie die Site:
 ```bash
 _scripts/komenci "Via titolo" "Via priskribo"
+```
+
+Um den Basisparameter in der Datei zu ändern _\_config.yml_ , müssen Sie den Namen der Site anstelle von ""eingeben, um Folgendes zu erhalten:  
+    `baseurl:          "/name"`  
+    (Ersetzen Sie _«name»_ durch den von Ihnen gewählten Namen)
+```bash
+nano _config.yml
+```
+
+Wenn Sie weniger Sprachen als die 15 voreingestellten Sprachen möchten, bearbeiten Sie die Datei _\_data/languages.yml_ und löschen Sie die entsprechenden Zeilen:
+```bash
+nano _data/languages.yml
 ```
 
 Senden Sie Änderungen an Ihre Site _github_ :
