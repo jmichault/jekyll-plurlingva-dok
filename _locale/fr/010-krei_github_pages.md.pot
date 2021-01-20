@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:07+0100\n"
+"POT-Creation-Date: 2021-01-20 22:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,7 +43,7 @@ msgstr ""
 #. type: YAML Front Matter: title
 #: 010-krei_github_pages.md:1
 #, no-wrap
-msgid "créez votre site _\"github page\"_ principal "
+msgid "créez 1 site _\"github page\"_"
 msgstr ""
 
 #. type: Plain text
@@ -67,7 +67,7 @@ msgstr ""
 #. type: Plain text
 #: 010-krei_github_pages.md:15
 #, no-wrap
-msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
+msgid "Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)

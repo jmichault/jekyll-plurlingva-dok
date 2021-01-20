@@ -3,13 +3,13 @@ lang: fr
 lang-niv: fonto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'créez un site _"github page"_ secondaire '
+title: 'créez 1 sous-site _"github page"_'
 ---
 
 Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.
 
 Entrez un nom de dépot, et validez la création du dépot.
-Allez dans les pramètres de votre dépot, descendez jusqu'au paragraphe _«Github Pages»_, et remplacez «None» par «master», cliquez sur «Save».
+Allez dans les paramètres de votre dépot, descendez jusqu'au paragraphe _«Github Pages»_, et remplacez «None» par «master», cliquez sur «Save».
 
 Maintenant connectez vous sur un ordinateur sous linux.  
 Installez les pré-requis, par exemple si vous êtes sous debian :

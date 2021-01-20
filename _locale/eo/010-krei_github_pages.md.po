@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:07+0100\n"
+"POT-Creation-Date: 2021-01-20 22:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,9 +42,10 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: 010-krei_github_pages.md:1
-#, fuzzy, no-wrap
-msgid "créez votre site _\"github page\"_ principal "
-msgstr "kreu vian retejon _\"github page\"_ "
+#, no-wrap
+#, fuzzy
+msgid "créez 1 site _\"github page\"_"
+msgstr "krei 1 retejon _\"github page\"_"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:10
@@ -66,9 +67,10 @@ msgstr "Nun konektiĝu al komputilo kun Linux.  \n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:15
-#, fuzzy, no-wrap
-msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
-msgstr "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
+#, no-wrap
+#, fuzzy
+msgid "Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :\n"
+msgstr "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
 
 #. type: Fenced code block (bash)
 #: 010-krei_github_pages.md:15
@@ -143,3 +145,11 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io .\n"
 msgstr "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
+
+#, fuzzy
+#~ msgid "créez votre site _\"github page\"_ principal "
+#~ msgstr "kreu vian retejon _\"github page\"_ "
+
+#, fuzzy
+#~ msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
+#~ msgstr "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"

@@ -3,13 +3,13 @@ lang: eo
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'krei retejon _"github page"_ '
+title: 'krei 1 subretejon _"github page"_'
 ---
 
 Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.
 
 Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.
-Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu "Neniu" per "majstro", alklaku "Konservi".
+Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu "Neniu" per "majstro", alklaku "Konservi".
 
 Nun konektiĝu al komputilo kun Linux.  
 Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:

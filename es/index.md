@@ -6,23 +6,52 @@ layout: page
 title: ' _jekyll-plurlingva_ '
 ---
 
- _Jekyll-plurlingva_ es un esqueleto para la creación de sitios web multilingües estáticos basados ​​en jekyll.  
-Su propósito es permanecer ligero por simplicidad.
+ _Jekyll-plurlingva_ es un esqueleto para la creación de sitios web estáticos multilingües, basados ​​en jekyll.  
+Su propósito es mantenerlo ligero y simple.
 
 Sus características más llamativas:
- * dibujado en dos columnas:
-   * izquierda, menú retráctil, con la elección del idioma, la búsqueda de Google en la Web y menú del sitio .
-   * a la derecha, el contenido principal.
- * adecuado para sitios web _Github Pages_ .
- * todas las posibilidades de jekyll. Los scripts
- * le permiten traducir automáticamente las páginas a todos los idiomas del sitio.
- * las traducciones se gestionan mediante archivos po:
-   * si modifica o agrega un párrafo en una página, solo es necesario volver a traducir este.
+
+ * diseño en dos columnas:
+
+
+   * menú desplegable de la izquierda, con: la elección del idioma, la búsqueda de Google en el sitio y el menú del sitio.
+
+
+   * a la derecha el contenido principal.
+
+
+ * adaptado a sitios web _Github Pages_ .
+
+
+ * todas las posibilidades de jekyll.
+
+
+ * Los scripts le permiten traducir automáticamente las páginas a todos los idiomas del sitio.
+
+
+ * las traducciones son gestionadas por archivos po:
+
+
+   * si edita o agrega un párrafo en una página, solo ese párrafo debe volver a traducirse.
+
+
    * puede enviar este archivo a un traductor humano para que lo corrija.
- * Los textos traducidos automáticamente se indican mediante una sección que ofrece el documento en los idiomas corregidos por una persona.
- * Las traducciones utilizan el esperanto como lengua fundamental. Esta elección puede parecer extraña a primera vista, pero tiene varias ventajas:
-   * es un idioma con una gramática simple y sin excepción, por lo que es más fácil de manejar con traductores de software. .
+
+
+ * Los textos traducidos automáticamente se indican mediante una sección que ofrece el documento en los idiomas corregidos por humanos.
+
+
+ * Las traducciones utilizan el esperanto como idioma fundamental. Esta elección puede parecer extraña a primera vista, pero tiene varias ventajas:
+
+
+   * es un idioma con una gramática simple y sin excepciones, por lo que es más fácil de manejar para los traductores de software. .
+
+
    * es un idioma muy preciso, que genera menos ambigüedad que el inglés.
+
+
    * es muy fácil de aprender, sea cual sea el idioma del alumno.
+
+
 
 

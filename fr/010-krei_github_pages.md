@@ -3,7 +3,7 @@ lang: fr
 lang-niv: fonto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'créez votre site _"github page"_ principal '
+title: 'créez 1 site _"github page"_'
 ---
 
 Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.
@@ -11,7 +11,7 @@ Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll
 Entrez comme nom de dépot : _username.github.io_ , où _username_ est votre nom d'utilisateur sur _github_, et validez la création du dépot.
 
 Maintenant connectez vous sur un ordinateur sous linux.  
-Installez les pré-requis, par exemple si vous êtes sous debian :
+Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

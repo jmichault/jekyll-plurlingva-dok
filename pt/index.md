@@ -6,23 +6,52 @@ layout: page
 title: ' _jekyll-plurlingva_ '
 ---
 
- _Jekyll-plurlingva_ é um esqueleto para a criação de sites multilíngues estáticos baseados em jekyll.  
-Seu objetivo é permanecer leve para a simplicidade.
+ _Jekyll-plurlingva_ é um esqueleto para a criação de sites estáticos multilíngues, baseado em jekyll.  
+Seu objetivo é mantê-lo leve e simples.
 
 Suas características mais marcantes:
- * desenhado em duas colunas:
-   * esquerdo, menu retrátil, com a escolha do idioma, a pesquisa do Google no menu Web e site .
-   * à direita, o conteúdo principal.
- * adequado para websites _Github Pages_ .
- * todas as possibilidades de jekyll. Os scripts
- * permitem traduzir automaticamente as páginas em todos os idiomas do site.
+
+ * projeto em duas colunas:
+
+
+   * menu suspenso à esquerda, com: a escolha do idioma, pesquisa do Google no site e o menu do site.
+
+
+   * à direita o conteúdo principal.
+
+
+ * adaptado aos sites _Github Pages_ .
+
+
+ * todas as possibilidades de jekyll.
+
+
+ * Os scripts permitem que você traduza automaticamente as páginas para todos os idiomas do site.
+
+
  * as traduções são gerenciadas por arquivos po:
-   * se você modificar ou adicionar um parágrafo em uma página, apenas este precisa ser traduzido novamente.
-   * você pode enviar este arquivo a um tradutor humano para correção.
- * Textos traduzidos automaticamente são indicados por uma seção que oferece o documento nos idiomas corrigidos por uma pessoa.
+
+
+   * se você editar ou adicionar um parágrafo a uma página, apenas esse parágrafo precisará ser traduzido novamente.
+
+
+   * você pode enviar este arquivo para um tradutor humano para correção.
+
+
+ * Textos traduzidos automaticamente são indicados por uma seção que oferece o documento nos idiomas corrigidos por humanos.
+
+
  * As traduções usam o Esperanto como língua fundamental. Esta escolha pode parecer estranha à primeira vista, mas tem várias vantagens:
-   * é uma língua com uma gramática simples e sem exceção, pelo que é mais fácil de gerir com tradutores de software. .
-   * é uma língua muito precisa, gerando menos ambigüidade que o inglês.
-   * é muito fácil de aprender, qualquer que seja a língua do aluno.
+
+
+   * é uma linguagem com uma gramática simples e sem exceções, por isso é mais fácil de gerenciar para tradutores de software. .
+
+
+   * é uma linguagem muito precisa, gerando menos ambigüidade do que o inglês.
+
+
+   * é muito fácil de aprender, seja qual for a língua do aluno.
+
+
 
 

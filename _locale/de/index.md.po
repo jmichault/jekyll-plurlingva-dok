@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:12+0100\n"
+"POT-Creation-Date: 2021-01-20 21:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,71 +48,232 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, fuzzy, no-wrap
-msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
-msgstr " _Jekyll-plurlingva_ ist ein Grundgerüst für die Erstellung statischer mehrsprachiger Websites auf der Basis von Jekyll.  \n"
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de plurlingvaj statikaj retejoj, surbaze de jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ ist ein Grundgerüst für die Erstellung mehrsprachiger statischer Websites, die auf Jekyll basieren.  \n"
 
 #. type: Plain text
 #: index.md:11
-#, fuzzy, no-wrap
-msgid "Ĝia celo estas resti malpeza por simpleco.\n"
-msgstr "Sein Zweck ist es, der Einfachheit halber leicht zu bleiben.\n"
+#, no-wrap
+#, fuzzy
+msgid "Ĝia celo estas teni ĝin malpeza kaj simpla.\n"
+msgstr "Sein Zweck ist es, es leicht und einfach zu halten.\n"
 
 #. type: Plain text
+#: index.md:13
+#, no-wrap
+#, fuzzy
+msgid "Ĝiaj plej frapaj karakterizaĵoj:\n"
+msgstr "Seine auffälligsten Merkmale:\n"
+
+#. type: Bullet: ' * '
+#: index.md:15
+#, no-wrap
+#, fuzzy
+msgid "dezajno sur du kolumnoj:\n"
+msgstr "Design auf zwei Säulen:\n"
+
+#. type: Bullet: '   * '
+#: index.md:17
+#, no-wrap
+#, fuzzy
+msgid "maldekstre retirebla menuo, kun: la elekto de lingvo, Gugla serĉo en la retejo kaj la menuo de la retejo.\n"
+msgstr "linkes Dropdown-Menü mit: der Wahl der Sprache, der Google-Suche auf der Website und dem Menü der Website.\n"
+
+#. type: Bullet: '   * '
+#: index.md:19
+#, no-wrap
+#, fuzzy
+msgid "dekstre la ĉefa enhavo.\n"
+msgstr "rechts der Hauptinhalt.\n"
+
+#. type: Bullet: ' * '
+#: index.md:21
+#, no-wrap
+#, fuzzy
+msgid "adaptita al retejoj _Github Pages_ .\n"
+msgstr "angepasst an Websites _Github Pages_ .\n"
+
+#. type: Bullet: ' * '
+#: index.md:23
+#, no-wrap
+#, fuzzy
+msgid "ĉiuj eblecoj de jekyll.\n"
+msgstr "alle möglichkeiten von jekyll.\n"
+
+#. type: Bullet: ' * '
+#: index.md:25
+#, no-wrap
+#, fuzzy
+msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+msgstr "Mit Skripten können Sie die Seiten automatisch in alle Sprachen der Site übersetzen.\n"
+
+#. type: Bullet: ' * '
 #: index.md:27
 #, no-wrap
 #, fuzzy
-msgid ""
-"Ĝiaj plej okulfrapaj trajtoj:\n"
-" * desegnita sur du kolumnoj:\n"
-"   * maldekstre, retirebla menuo, kun la elekto de lingvo, la Gugla serĉo en la Reteja kaj reteja menuo.\n"
-"   * dekstre, la ĉefa enhavo.\n"
-" * taŭga por retejoj _Github Pages_ .\n"
-" * ĉiuj eblecoj de jekyll. La skriptoj\n"
-" * permesas al vi aŭtomate traduki paĝojn en ĉiuj lingvoj de la retejo.\n"
-" * tradukoj estas administrataj de po-dosieroj:\n"
-"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
-"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
-" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
-" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
-"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, do pli facile administreblas per programaj tradukiloj. .\n"
-"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
-"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "Die auffälligsten Merkmale:\n * in zwei Spalten gezeichnet:\n   * links, ausziehbares Menü, mit der Wahl der Sprache, der Google-Suche im Web- und Site-Menü .\n   * rechts der Hauptinhalt.\n * geeignet für Websites _Github Pages_ .\n * alle Möglichkeiten von Jekyll. Mit den Skripten\n * können Sie Seiten automatisch in alle Sprachen der Site übersetzen.\n * Übersetzungen werden von Po-Dateien verwaltet:\n   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss nur dieser erneut übersetzt werden.\n   * Sie können diese Datei zur Korrektur an einen menschlichen Übersetzer senden.\n * Automatisch übersetzte Texte werden durch einen Abschnitt gekennzeichnet, der das Dokument in den von einer Person korrigierten Sprachen anbietet.\n * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl mag auf den ersten Blick seltsam erscheinen, hat jedoch mehrere Vorteile:\n   * Es handelt sich um eine Sprache mit einer einfachen Grammatik und ausnahmslos, sodass die Verwaltung mit Softwareübersetzern einfacher ist. .\n   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt als Englisch.\n   * es ist sehr leicht zu lernen, unabhängig von der Sprache des Schülers.\n"
+msgid "la tradukoj estas administrataj per po-dosieroj:\n"
+msgstr "Die Übersetzungen werden von Po-Dateien verwaltet:\n"
+
+#. type: Bullet: '   * '
+#: index.md:29
+#, no-wrap
+#, fuzzy
+msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
+msgstr "Wenn Sie einen Absatz auf einer Seite bearbeiten oder hinzufügen, muss nur dieser Absatz erneut übersetzt werden.\n"
+
+#. type: Bullet: '   * '
+#: index.md:31
+#, no-wrap
+#, fuzzy
+msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+msgstr "Sie können diese Datei zur Korrektur an einen menschlichen Übersetzer senden.\n"
+
+#. type: Bullet: ' * '
+#: index.md:33
+#, no-wrap
+#, fuzzy
+msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
+msgstr "Automatisch übersetzte Texte werden durch einen Abschnitt gekennzeichnet, der das Dokument in den vom Menschen korrigierten Sprachen anbietet.\n"
+
+#. type: Bullet: ' * '
+#: index.md:35
+#, no-wrap
+#, fuzzy
+msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+msgstr "Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl mag auf den ersten Blick seltsam erscheinen, hat aber mehrere Vorteile:\n"
+
+#. type: Bullet: '   * '
+#: index.md:37
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
+msgstr "Es ist eine Sprache mit einer einfachen Grammatik und ohne Ausnahmen, so dass es für Software-Übersetzer einfacher zu verwalten ist. .\n"
+
+#. type: Bullet: '   * '
+#: index.md:39
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
+msgstr "Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt als Englisch.\n"
+
+#. type: Bullet: '   * '
+#: index.md:41
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
+msgstr "Es ist sehr leicht zu lernen, unabhängig von der Sprache des Lernenden.\n"
+
+#, fuzzy
+#~ msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+#~ msgstr " _Jekyll-plurlingva_ ist ein Grundgerüst für die Erstellung statischer mehrsprachiger Websites auf der Basis von Jekyll.  \n"
+
+#, fuzzy
+#~ msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+#~ msgstr "Sein Zweck ist es, der Einfachheit halber leicht zu bleiben.\n"
 
 #, fuzzy
 #~ msgid ""
 #~ "Ĝiaj plej okulfrapaj trajtoj:\n"
-#~ " * desegno sur du kolumnoj:\n"
-#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+#~ " * desegnita sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, la Gugla serĉo "
+#~ "en la Reteja kaj reteja menuo.\n"
 #~ "   * dekstre, la ĉefa enhavo.\n"
 #~ " * taŭga por retejoj _Github Pages_ .\n"
 #~ " * ĉiuj eblecoj de jekyll. La skriptoj\n"
-#~ " * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+#~ " * permesas al vi aŭtomate traduki paĝojn en ĉiuj lingvoj de la retejo.\n"
 #~ " * tradukoj estas administrataj de po-dosieroj:\n"
-#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita .\n"
 #~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
-#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
-#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
-#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
-#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
-#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la "
+#~ "dokumenton en la lingvoj korektitaj de persono.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas "
+#~ "ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, do pli facile "
+#~ "administreblas per programaj tradukiloj. .\n"
+#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
 #~ msgstr ""
 #~ "Die auffälligsten Merkmale:\n"
-#~ " * Zeichnen auf zwei Spalten:\n"
-#~ "   * links, ein einziehbares Menü mit Sprachauswahl, Google-Websuche und Menü der Website.\n"
+#~ " * in zwei Spalten gezeichnet:\n"
+#~ "   * links, ausziehbares Menü, mit der Wahl der Sprache, der Google-Suche "
+#~ "im Web- und Site-Menü .\n"
 #~ "   * rechts der Hauptinhalt.\n"
 #~ " * geeignet für Websites _Github Pages_ .\n"
 #~ " * alle Möglichkeiten von Jekyll. Mit den Skripten\n"
 #~ " * können Sie Seiten automatisch in alle Sprachen der Site übersetzen.\n"
 #~ " * Übersetzungen werden von Po-Dateien verwaltet:\n"
-#~ "   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss nur dieser erneut übersetzt werden.\n"
-#~ "   * Sie können diese Datei zur Korrektur an einen menschlichen Übersetzer senden.\n"
-#~ " * Automatisch übersetzte Texte werden durch einen Abschnitt gekennzeichnet, der das Dokument in den von einer Person korrigierten Sprachen anbietet.\n"
-#~ " * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl mag auf den ersten Blick seltsam erscheinen, hat aber mehrere Vorteile:\n"
-#~ "   * Es ist eine Sprache mit einer einfachen Grammatik und daher ausnahmslos einfacher mit Software-Übersetzern zu verwalten. .\n"
-#~ "   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt als Englisch.\n"
-#~ "   * es ist sehr leicht zu lernen, unabhängig von der Sprache des Schülers.\n"
+#~ "   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss "
+#~ "nur dieser erneut übersetzt werden.\n"
+#~ "   * Sie können diese Datei zur Korrektur an einen menschlichen "
+#~ "Übersetzer senden.\n"
+#~ " * Automatisch übersetzte Texte werden durch einen Abschnitt "
+#~ "gekennzeichnet, der das Dokument in den von einer Person korrigierten "
+#~ "Sprachen anbietet.\n"
+#~ " * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl "
+#~ "mag auf den ersten Blick seltsam erscheinen, hat jedoch mehrere "
+#~ "Vorteile:\n"
+#~ "   * Es handelt sich um eine Sprache mit einer einfachen Grammatik und "
+#~ "ausnahmslos, sodass die Verwaltung mit Softwareübersetzern einfacher "
+#~ "ist. .\n"
+#~ "   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt "
+#~ "als Englisch.\n"
+#~ "   * es ist sehr leicht zu lernen, unabhängig von der Sprache des "
+#~ "Schülers.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * desegno sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en "
+#~ "la retejo, kaj la menuo de retejo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll. La skriptoj\n"
+#~ " * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
+#~ " * tradukoj estas administrataj de po-dosieroj:\n"
+#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita .\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la "
+#~ "dokumenton en la lingvoj korektitaj de persono.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas "
+#~ "ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile administrebla per programaj tradukistoj. .\n"
+#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "Die auffälligsten Merkmale:\n"
+#~ " * Zeichnen auf zwei Spalten:\n"
+#~ "   * links, ein einziehbares Menü mit Sprachauswahl, Google-Websuche und "
+#~ "Menü der Website.\n"
+#~ "   * rechts der Hauptinhalt.\n"
+#~ " * geeignet für Websites _Github Pages_ .\n"
+#~ " * alle Möglichkeiten von Jekyll. Mit den Skripten\n"
+#~ " * können Sie Seiten automatisch in alle Sprachen der Site übersetzen.\n"
+#~ " * Übersetzungen werden von Po-Dateien verwaltet:\n"
+#~ "   * Wenn Sie einen Absatz auf einer Seite ändern oder hinzufügen, muss "
+#~ "nur dieser erneut übersetzt werden.\n"
+#~ "   * Sie können diese Datei zur Korrektur an einen menschlichen "
+#~ "Übersetzer senden.\n"
+#~ " * Automatisch übersetzte Texte werden durch einen Abschnitt "
+#~ "gekennzeichnet, der das Dokument in den von einer Person korrigierten "
+#~ "Sprachen anbietet.\n"
+#~ " * Die Übersetzungen verwenden Esperanto als zentrale Sprache. Diese Wahl "
+#~ "mag auf den ersten Blick seltsam erscheinen, hat aber mehrere Vorteile:\n"
+#~ "   * Es ist eine Sprache mit einer einfachen Grammatik und daher "
+#~ "ausnahmslos einfacher mit Software-Übersetzern zu verwalten. .\n"
+#~ "   * Es ist eine sehr präzise Sprache, die weniger Mehrdeutigkeit erzeugt "
+#~ "als Englisch.\n"
+#~ "   * es ist sehr leicht zu lernen, unabhängig von der Sprache des "
+#~ "Schülers.\n"
 
 #~ msgid "index"
 #~ msgstr "index"

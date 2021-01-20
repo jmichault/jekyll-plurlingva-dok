@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:12+0100\n"
+"POT-Creation-Date: 2021-01-20 21:17+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,69 +48,222 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, fuzzy, no-wrap
-msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
-msgstr " _Jekyll-plurlingva_ जेकेल पर आधारित स्थिर बहुभाषी वेबसाइटों के निर्माण के लिए एक कंकाल है।  \n"
+#, no-wrap
+#, fuzzy
+msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de plurlingvaj statikaj retejoj, surbaze de jekyll.  \n"
+msgstr " _Jekyll-plurlingva_ जेकेल पर आधारित बहुभाषी स्थिर वेबसाइटों के निर्माण के लिए एक कंकाल है।  \n"
 
 #. type: Plain text
 #: index.md:11
-#, fuzzy, no-wrap
-msgid "Ĝia celo estas resti malpeza por simpleco.\n"
-msgstr "इसका उद्देश्य सादगी के लिए प्रकाशमान रहना है।\n"
+#, no-wrap
+#, fuzzy
+msgid "Ĝia celo estas teni ĝin malpeza kaj simpla.\n"
+msgstr "इसका उद्देश्य इसे हल्का और सरल रखना है।\n"
 
 #. type: Plain text
+#: index.md:13
+#, no-wrap
+#, fuzzy
+msgid "Ĝiaj plej frapaj karakterizaĵoj:\n"
+msgstr "इसकी सबसे खासियत:\n"
+
+#. type: Bullet: ' * '
+#: index.md:15
+#, no-wrap
+#, fuzzy
+msgid "dezajno sur du kolumnoj:\n"
+msgstr "दो स्तंभों पर डिजाइन:\n"
+
+#. type: Bullet: '   * '
+#: index.md:17
+#, no-wrap
+#, fuzzy
+msgid "maldekstre retirebla menuo, kun: la elekto de lingvo, Gugla serĉo en la retejo kaj la menuo de la retejo.\n"
+msgstr "बायां ड्रॉप-डाउन मेनू, इसके साथ: भाषा का विकल्प, साइट पर Google खोज और साइट का मेनू।\n"
+
+#. type: Bullet: '   * '
+#: index.md:19
+#, no-wrap
+#, fuzzy
+msgid "dekstre la ĉefa enhavo.\n"
+msgstr "दाईं ओर मुख्य सामग्री।\n"
+
+#. type: Bullet: ' * '
+#: index.md:21
+#, no-wrap
+#, fuzzy
+msgid "adaptita al retejoj _Github Pages_ .\n"
+msgstr "वेबसाइटों के लिए अनुकूलित _Github Pages_ ।\n"
+
+#. type: Bullet: ' * '
+#: index.md:23
+#, no-wrap
+#, fuzzy
+msgid "ĉiuj eblecoj de jekyll.\n"
+msgstr "जेकिल की सभी संभावनाएं।\n"
+
+#. type: Bullet: ' * '
+#: index.md:25
+#, no-wrap
+#, fuzzy
+msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+msgstr "लिपियों से आप साइट के सभी भाषाओं के पृष्ठों का स्वचालित रूप से अनुवाद कर सकते हैं।\n"
+
+#. type: Bullet: ' * '
 #: index.md:27
 #, no-wrap
 #, fuzzy
-msgid ""
-"Ĝiaj plej okulfrapaj trajtoj:\n"
-" * desegnita sur du kolumnoj:\n"
-"   * maldekstre, retirebla menuo, kun la elekto de lingvo, la Gugla serĉo en la Reteja kaj reteja menuo.\n"
-"   * dekstre, la ĉefa enhavo.\n"
-" * taŭga por retejoj _Github Pages_ .\n"
-" * ĉiuj eblecoj de jekyll. La skriptoj\n"
-" * permesas al vi aŭtomate traduki paĝojn en ĉiuj lingvoj de la retejo.\n"
-" * tradukoj estas administrataj de po-dosieroj:\n"
-"   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
-"   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
-" * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
-" * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
-"   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, do pli facile administreblas per programaj tradukiloj. .\n"
-"   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
-"   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
-msgstr "इसकी सबसे खास विशेषताएं:\n * दो स्तंभों पर खींची गई:\n   * बाईं ओर, वापस लेने योग्य मेनू, भाषा की पसंद के साथ, वेब और साइट मेनू में Google खोज ।\n   * दाईं ओर, मुख्य सामग्री।\n * वेबसाइटों _Github Pages_ के लिए उपयुक्त है।\n * जेकेल की सभी संभावनाएँ। स्क्रिप्ट\n * आपको स्वचालित रूप से साइट की सभी भाषाओं में पृष्ठों का अनुवाद करने की अनुमति देती है।\n * अनुवादों को पो फ़ाइलों द्वारा प्रबंधित किया जाता है:\n   * यदि आप किसी पृष्ठ पर एक पैराग्राफ को संशोधित या जोड़ते हैं, तो केवल एक को ही पुन: प्रकाशित किया जाना चाहिए।\n   * आप इस फाइल को सुधार के लिए मानव अनुवादक को भेज सकते हैं।\n * स्वचालित रूप से अनुवादित पाठ एक ऐसे खंड द्वारा इंगित किए जाते हैं जो किसी व्यक्ति द्वारा सही की गई भाषाओं में दस्तावेज़ प्रदान करता है।\n * अनुवाद, एस्पेरांतो का उपयोग पिवट भाषा के रूप में करते हैं। यह विकल्प पहली नज़र में अजीब लग सकता है, लेकिन इसके कई फायदे हैं:\n   * यह एक सरल व्याकरण के साथ और बिना किसी अपवाद के एक भाषा है, इसलिए सॉफ्टवेयर अनुवादकों के साथ प्रबंधन करना आसान है। ।\n   * यह एक बहुत ही सटीक भाषा है, जो अंग्रेजी की तुलना में कम अस्पष्टता पैदा करती है।\n   * छात्र की भाषा जो भी हो, सीखना बहुत आसान है।\n"
+msgid "la tradukoj estas administrataj per po-dosieroj:\n"
+msgstr "अनुवाद कवि फ़ाइलों द्वारा प्रबंधित किए जाते हैं:\n"
+
+#. type: Bullet: '   * '
+#: index.md:29
+#, no-wrap
+#, fuzzy
+msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
+msgstr "यदि आप किसी पृष्ठ पर एक पैराग्राफ संपादित करते हैं या जोड़ते हैं, तो केवल उस पैराग्राफ को फिर से लिखना होगा।\n"
+
+#. type: Bullet: '   * '
+#: index.md:31
+#, no-wrap
+#, fuzzy
+msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+msgstr "आप इस फ़ाइल को सुधार के लिए मानव अनुवादक को भेज सकते हैं।\n"
+
+#. type: Bullet: ' * '
+#: index.md:33
+#, no-wrap
+#, fuzzy
+msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
+msgstr "स्वचालित रूप से अनुवादित ग्रंथों को एक अनुभाग द्वारा इंगित किया जाता है जो मानव-सही भाषाओं में दस्तावेज़ प्रदान करता है।\n"
+
+#. type: Bullet: ' * '
+#: index.md:35
+#, no-wrap
+#, fuzzy
+msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+msgstr "अनुवादों में एस्पेरांतो का उपयोग एक निर्णायक भाषा के रूप में किया गया है। पहली नज़र में यह विकल्प अजीब लग सकता है, लेकिन इसके कई फायदे हैं:\n"
+
+#. type: Bullet: '   * '
+#: index.md:37
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
+msgstr "यह एक सरल व्याकरण और कोई अपवाद नहीं है, इसलिए सॉफ्टवेयर अनुवादकों के लिए प्रबंधन करना आसान है। ।\n"
+
+#. type: Bullet: '   * '
+#: index.md:39
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
+msgstr "यह एक बहुत ही सटीक भाषा है, जो अंग्रेजी की तुलना में कम अस्पष्टता पैदा करती है।\n"
+
+#. type: Bullet: '   * '
+#: index.md:41
+#, no-wrap
+#, fuzzy
+msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
+msgstr "यह सीखना बहुत आसान है, जो भी सीखने वाले की भाषा है।\n"
+
+#, fuzzy
+#~ msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+#~ msgstr " _Jekyll-plurlingva_ जेकेल पर आधारित स्थिर बहुभाषी वेबसाइटों के निर्माण के लिए एक कंकाल है।  \n"
+
+#, fuzzy
+#~ msgid "Ĝia celo estas resti malpeza por simpleco.\n"
+#~ msgstr "इसका उद्देश्य सादगी के लिए प्रकाशमान रहना है।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Ĝiaj plej okulfrapaj trajtoj:\n"
+#~ " * desegnita sur du kolumnoj:\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, la Gugla serĉo "
+#~ "en la Reteja kaj reteja menuo.\n"
+#~ "   * dekstre, la ĉefa enhavo.\n"
+#~ " * taŭga por retejoj _Github Pages_ .\n"
+#~ " * ĉiuj eblecoj de jekyll. La skriptoj\n"
+#~ " * permesas al vi aŭtomate traduki paĝojn en ĉiuj lingvoj de la retejo.\n"
+#~ " * tradukoj estas administrataj de po-dosieroj:\n"
+#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita .\n"
+#~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la "
+#~ "dokumenton en la lingvoj korektitaj de persono.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas "
+#~ "ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, do pli facile "
+#~ "administreblas per programaj tradukiloj. .\n"
+#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
+#~ msgstr ""
+#~ "इसकी सबसे खास विशेषताएं:\n"
+#~ " * दो स्तंभों पर खींची गई:\n"
+#~ "   * बाईं ओर, वापस लेने योग्य मेनू, भाषा की पसंद के साथ, वेब और साइट मेनू में Google "
+#~ "खोज ।\n"
+#~ "   * दाईं ओर, मुख्य सामग्री।\n"
+#~ " * वेबसाइटों _Github Pages_ के लिए उपयुक्त है।\n"
+#~ " * जेकेल की सभी संभावनाएँ। स्क्रिप्ट\n"
+#~ " * आपको स्वचालित रूप से साइट की सभी भाषाओं में पृष्ठों का अनुवाद करने की अनुमति देती "
+#~ "है।\n"
+#~ " * अनुवादों को पो फ़ाइलों द्वारा प्रबंधित किया जाता है:\n"
+#~ "   * यदि आप किसी पृष्ठ पर एक पैराग्राफ को संशोधित या जोड़ते हैं, तो केवल एक को ही "
+#~ "पुन: प्रकाशित किया जाना चाहिए।\n"
+#~ "   * आप इस फाइल को सुधार के लिए मानव अनुवादक को भेज सकते हैं।\n"
+#~ " * स्वचालित रूप से अनुवादित पाठ एक ऐसे खंड द्वारा इंगित किए जाते हैं जो किसी व्यक्ति "
+#~ "द्वारा सही की गई भाषाओं में दस्तावेज़ प्रदान करता है।\n"
+#~ " * अनुवाद, एस्पेरांतो का उपयोग पिवट भाषा के रूप में करते हैं। यह विकल्प पहली नज़र में "
+#~ "अजीब लग सकता है, लेकिन इसके कई फायदे हैं:\n"
+#~ "   * यह एक सरल व्याकरण के साथ और बिना किसी अपवाद के एक भाषा है, इसलिए सॉफ्टवेयर "
+#~ "अनुवादकों के साथ प्रबंधन करना आसान है। ।\n"
+#~ "   * यह एक बहुत ही सटीक भाषा है, जो अंग्रेजी की तुलना में कम अस्पष्टता पैदा करती है।\n"
+#~ "   * छात्र की भाषा जो भी हो, सीखना बहुत आसान है।\n"
 
 #, fuzzy
 #~ msgid ""
 #~ "Ĝiaj plej okulfrapaj trajtoj:\n"
 #~ " * desegno sur du kolumnoj:\n"
-#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en la retejo, kaj la menuo de retejo.\n"
+#~ "   * maldekstre, retirebla menuo, kun la elekto de lingvo, Gugla serĉo en "
+#~ "la retejo, kaj la menuo de retejo.\n"
 #~ "   * dekstre, la ĉefa enhavo.\n"
 #~ " * taŭga por retejoj _Github Pages_ .\n"
 #~ " * ĉiuj eblecoj de jekyll. La skriptoj\n"
 #~ " * permesas aŭtomate traduki paĝojn al ĉiuj lingvoj de la retejo.\n"
 #~ " * tradukoj estas administrataj de po-dosieroj:\n"
-#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti retradukita .\n"
+#~ "   * se vi modifas aŭ aldonas alineon en paĝo, nur ĉi tiu devas esti "
+#~ "retradukita .\n"
 #~ "   * vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
-#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la lingvoj korektitaj de persono.\n"
-#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
-#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli facile administrebla per programaj tradukistoj. .\n"
-#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la angla.\n"
-#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la studento.\n"
+#~ " * Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la "
+#~ "dokumenton en la lingvoj korektitaj de persono.\n"
+#~ " * La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto povas "
+#~ "ŝajni stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+#~ "   * ĝi estas lingvo kun simpla gramatiko kaj senescepte, ĝi estas do pli "
+#~ "facile administrebla per programaj tradukistoj. .\n"
+#~ "   * ĝi estas tre preciza lingvo, generante malpli dusencecon ol la "
+#~ "angla.\n"
+#~ "   * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la "
+#~ "studento.\n"
 #~ msgstr ""
 #~ "इसकी सबसे खास विशेषताएं:\n"
 #~ " * दो स्तंभों पर आरेखण:\n"
-#~ "   * बाईं ओर, एक वापस लेने योग्य मेनू, भाषा की पसंद के साथ, Google वेब खोज और मेनू वेबसाइट का।\n"
+#~ "   * बाईं ओर, एक वापस लेने योग्य मेनू, भाषा की पसंद के साथ, Google वेब खोज और मेनू "
+#~ "वेबसाइट का।\n"
 #~ "   * दाईं ओर, मुख्य सामग्री।\n"
 #~ " * वेबसाइटों _Github Pages_ के लिए उपयुक्त है।\n"
 #~ " * जेकेल की सभी संभावनाएँ। स्क्रिप्ट\n"
-#~ " * आपको साइट के सभी भाषाओं में पृष्ठों को स्वचालित रूप से अनुवाद करने की अनुमति देती है।\n"
+#~ " * आपको साइट के सभी भाषाओं में पृष्ठों को स्वचालित रूप से अनुवाद करने की अनुमति देती "
+#~ "है।\n"
 #~ " * अनुवादों को पो फ़ाइलों द्वारा प्रबंधित किया जाता है:\n"
-#~ "   * यदि आप किसी पृष्ठ पर एक पैराग्राफ को संशोधित या जोड़ते हैं, तो केवल एक को ही पुन: प्रकाशित किया जाना चाहिए।\n"
+#~ "   * यदि आप किसी पृष्ठ पर एक पैराग्राफ को संशोधित या जोड़ते हैं, तो केवल एक को ही "
+#~ "पुन: प्रकाशित किया जाना चाहिए।\n"
 #~ "   * आप इस फाइल को सुधार के लिए मानव अनुवादक को भेज सकते हैं।\n"
-#~ " * स्वचालित रूप से अनुवादित पाठ एक ऐसे खंड द्वारा इंगित किए जाते हैं जो किसी व्यक्ति द्वारा सही की गई भाषाओं में दस्तावेज़ प्रदान करता है।\n"
-#~ " * अनुवाद, एस्पेरांतो का उपयोग पिवट भाषा के रूप में करते हैं। यह विकल्प पहली नज़र में अजीब लग सकता है, लेकिन इसके कई फायदे हैं:\n"
-#~ "   * यह एक सरल व्याकरण के साथ और बिना किसी अपवाद के एक भाषा है, इसलिए सॉफ़्टवेयर अनुवादकों के साथ प्रबंधन करना आसान है। ।\n"
+#~ " * स्वचालित रूप से अनुवादित पाठ एक ऐसे खंड द्वारा इंगित किए जाते हैं जो किसी व्यक्ति "
+#~ "द्वारा सही की गई भाषाओं में दस्तावेज़ प्रदान करता है।\n"
+#~ " * अनुवाद, एस्पेरांतो का उपयोग पिवट भाषा के रूप में करते हैं। यह विकल्प पहली नज़र में "
+#~ "अजीब लग सकता है, लेकिन इसके कई फायदे हैं:\n"
+#~ "   * यह एक सरल व्याकरण के साथ और बिना किसी अपवाद के एक भाषा है, इसलिए सॉफ़्टवेयर "
+#~ "अनुवादकों के साथ प्रबंधन करना आसान है। ।\n"
 #~ "   * यह एक बहुत ही सटीक भाषा है, जो अंग्रेजी की तुलना में कम अस्पष्टता पैदा करती है।\n"
 #~ "   * छात्र की भाषा जो भी हो, सीखना बहुत आसान है।\n"
 

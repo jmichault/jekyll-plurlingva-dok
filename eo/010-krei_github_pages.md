@@ -3,7 +3,7 @@ lang: eo
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'kreu vian retejon _"github page"_ '
+title: 'krei 1 retejon _"github page"_'
 ---
 
 Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.
@@ -11,7 +11,7 @@ Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-pl
 Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.
 
 Nun konektiĝu al komputilo kun Linux.  
-Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:
+Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a
