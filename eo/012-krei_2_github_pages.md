@@ -6,6 +6,8 @@ layout: page
 title: 'krei 1 subretejon _"github page"_'
 ---
 
+Ensalutu github per via salutnomo.  
+
 Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.
 
 Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.

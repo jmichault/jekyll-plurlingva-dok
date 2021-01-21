@@ -3,13 +3,15 @@ lang: es
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'crear un sitio web _"github page"_ '
+title: 'crear 1 subred _"github page"_'
 ---
+
+Inicie sesión en github con su nombre de usuario.  
 
 Vaya a la ubicación de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)y haga clic en _«Use this template»_.
 
-Ingrese un nombre de un repositorio y valide la creación del repositorio.
-Vaya a la configuración de su repositorio, vaya al párrafo _«Github Pages»_y reemplace "Ninguno"con "maestro", haga clic en "Guardar".
+Ingrese un nombre para un repositorio y valide la creación del repositorio.
+Vaya a los parámetros de su repositorio, desplácese hacia abajo hasta el párrafo _«Github Pages»_y reemplace "Ninguno"con "maestro", haga clic en "Almacenar".
 
 Ahora conéctese a una computadora con Linux.  
 Instale los requisitos previos, por ejemplo, si está bajo Debian:

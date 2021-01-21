@@ -3,15 +3,17 @@ lang: pa
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'ਆਪਣੀ ਵੈੱਬਸਾਈਟ ਬਣਾਓ _"github page"_ '
+title: '1 ਵੈਬਸਾਈਟ ਬਣਾਓ _"github page"_'
 ---
+
+ਆਪਣੇ ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਦੇ ਨਾਲ github ਵਿੱਚ ਲੌਗ ਇਨ ਕਰੋ.  
 
  [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ਦੀ ਸਥਿਤੀ 'ਤੇ ਜਾਓ, ਅਤੇ ( _«Use this template»_ਕਲਿੱਕ ਕਰੋ.
 
 ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਨਾਮ ਦਿਓ: _username.github.io_ , ਜਿੱਥੇ _username_ ਤੁਹਾਡਾ ਉਪਯੋਗਕਰਤਾ ਨਾਮ _github_ਹੈ, ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦਾ ਹੈ.
 
 ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨਾਲ ਜੁੜੋ.  
-ਜ਼ਰੂਰਤ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਦੇ ਅਧੀਨ ਹੋ:
+ਜ਼ਰੂਰਤ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਵਜੋਂ ਜੇ ਤੁਹਾਡੇ ਕੋਲ _debian buster_ ਤੋਂ ਘੱਟ ਹੈ:
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

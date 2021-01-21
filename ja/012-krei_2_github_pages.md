@@ -3,13 +3,15 @@ lang: ja
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'ウェブサイトを作成する _"github page"_ '
+title: '1つのサブネットを作成します _"github page"_'
 ---
+
+ユーザー名でgithubにログインします。  
 
  [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の場所に移動し、 _«Use this template»_をクリックします。
 
 リポジトリの名前を入力し、リポジトリの作成を検証します。
-リポジトリ設定に移動し、段落 _«Github Pages»_に移動し、 "なし"を "マスター"に置き換え、"をクリックします°8°）保存"。
+リポジトリのパラメータに移動し、段落 _«Github Pages»_まで下にスクロールして、 "なし"を "マスター"に置き換え、クリックします "保管"。
 
 次に、Linuxを搭載したコンピューターに接続します。  
 たとえば、Debianを使用している場合は、前提条件をインストールします。

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 21:17+0100\n"
+"POT-Creation-Date: 2021-01-21 21:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,57 +48,49 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de plurlingvaj statikaj retejoj, surbaze de jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ 是基于jekyll创建多语言静态网站的框架。  \n"
 
 #. type: Plain text
 #: index.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝia celo estas teni ĝin malpeza kaj simpla.\n"
 msgstr "其目的是保持它的轻巧和简单。\n"
 
 #. type: Plain text
 #: index.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝiaj plej frapaj karakterizaĵoj:\n"
 msgstr "其最引人注目的功能：\n"
 
 #. type: Bullet: ' * '
 #: index.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dezajno sur du kolumnoj:\n"
 msgstr "两列设计：\n"
 
 #. type: Bullet: '   * '
 #: index.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "maldekstre retirebla menuo, kun: la elekto de lingvo, Gugla serĉo en la retejo kaj la menuo de la retejo.\n"
 msgstr "左侧下拉菜单，其中包含：语言选择，网站上的Google搜索和网站菜单。\n"
 
 #. type: Bullet: '   * '
 #: index.md:19
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dekstre la ĉefa enhavo.\n"
 msgstr "在右边的主要内容。\n"
 
 #. type: Bullet: ' * '
 #: index.md:21
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "adaptita al retejoj _Github Pages_ .\n"
 msgstr "适应网站 _Github Pages_ 。\n"
 
 #. type: Bullet: ' * '
 #: index.md:23
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "ĉiuj eblecoj de jekyll.\n"
 msgstr "jekyll的所有可能性。\n"
 
@@ -106,67 +98,67 @@ msgstr "jekyll的所有可能性。\n"
 #: index.md:25
 #, no-wrap
 #, fuzzy
+msgid "uzeblas por krei blogon.\n"
+msgstr "可用于创建博客。\n"
+
+#. type: Bullet: ' * '
+#: index.md:27
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
 msgstr "脚本使您可以将页面自动翻译为网站的所有语言。\n"
 
 #. type: Bullet: ' * '
-#: index.md:27
-#, no-wrap
-#, fuzzy
+#: index.md:29
+#, fuzzy, no-wrap
 msgid "la tradukoj estas administrataj per po-dosieroj:\n"
 msgstr "翻译由po文件管理：\n"
 
 #. type: Bullet: '   * '
-#: index.md:29
-#, no-wrap
-#, fuzzy
+#: index.md:31
+#, fuzzy, no-wrap
 msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
 msgstr "如果您在页面上编辑或添加段落，则仅需要重新翻译该段落。\n"
 
 #. type: Bullet: '   * '
-#: index.md:31
-#, no-wrap
-#, fuzzy
+#: index.md:33
+#, fuzzy, no-wrap
 msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
 msgstr "您可以将此文件发送给人工翻译进行更正。\n"
 
 #. type: Bullet: ' * '
-#: index.md:33
-#, no-wrap
-#, fuzzy
+#: index.md:35
+#, fuzzy, no-wrap
 msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
 msgstr "自动翻译的文本由提供以人工更正的语言提供文档的部分指示。\n"
 
 #. type: Bullet: ' * '
-#: index.md:35
-#, no-wrap
-#, fuzzy
+#: index.md:37
+#, fuzzy, no-wrap
 msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
 msgstr "翻译使用世界语作为中心语言。乍一看，这个选择可能看起来很奇怪，但是它有几个优点：\n"
 
 #. type: Bullet: '   * '
-#: index.md:37
-#, no-wrap
-#, fuzzy
+#: index.md:39
+#, fuzzy, no-wrap
 msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
 msgstr "它是一种语言，语法简单，没有例外，因此对于软件翻译者来说更易于管理。 。\n"
 
 #. type: Bullet: '   * '
-#: index.md:39
-#, no-wrap
-#, fuzzy
+#: index.md:41
+#, fuzzy, no-wrap
 msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
 msgstr "这是一种非常精确的语言，比英语产生的歧义少。\n"
 
 #. type: Bullet: '   * '
-#: index.md:41
-#, no-wrap
-#, fuzzy
+#: index.md:43
+#, fuzzy, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr "无论学习者的语言如何，它都很容易学习。\n"
 
 #, fuzzy
-#~ msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj "
+#~ "retejoj bazitaj sur jekyll.  \n"
 #~ msgstr " _Jekyll-plurlingva_ 是基于jekyll创建静态多语言网站的框架。  \n"
 
 #, fuzzy

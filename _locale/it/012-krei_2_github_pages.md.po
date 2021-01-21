@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:07+0100\n"
+"POT-Creation-Date: 2021-01-21 22:00+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,39 +43,46 @@ msgstr "page"
 #. type: YAML Front Matter: title
 #: 012-krei_2_github_pages.md:1
 #, fuzzy, no-wrap
-msgid "krei retejon _\"github page\"_ "
-msgstr "creare un sito web _\"github page\"_ "
+msgid "krei 1 subretejon _\"github page\"_"
+msgstr "crea 1 sottorete _\"github page\"_"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:10
+#: 012-krei_2_github_pages.md:9
+#, no-wrap
+#, fuzzy
+msgid "Ensalutu github per via salutnomo.  \n"
+msgstr "Accedi a GitHub con il tuo nome utente.  \n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:12
 #, fuzzy, no-wrap
 msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr "Andare alla posizione di [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fare clic su _«Use this template»_.\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:13
+#: 012-krei_2_github_pages.md:15
 #, fuzzy, no-wrap
 msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
-"Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+"Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
 msgstr ""
 "Immettere un nome per un repository e convalidare la creazione del repository.\n"
-"Vai alle impostazioni del tuo repository, vai al paragrafo _«Github Pages»_e sostituisci \"Nessuno\"con \"master\", fai clic su \"Salva\".\n"
+"Vai ai parametri del tuo repository, scorri verso il basso fino al paragrafo _«Github Pages»_e sostituisci \"Nessuno\"con \"master\", clicca \"Conservare\".\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:14
+#: 012-krei_2_github_pages.md:16
 #, fuzzy, no-wrap
 msgid "Nun konektiĝu al komputilo kun Linux.  \n"
 msgstr "Ora connettiti a un computer con Linux.  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
 msgstr "Installa i prerequisiti, ad esempio se sei sotto Debian:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -85,13 +92,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "e ricevi una copia del tuo deposito:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -101,64 +108,61 @@ msgstr ""
 "cd name\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, fuzzy, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr "Scegli un titolo e una breve descrizione e valuta il sito:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:34
+#, fuzzy, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "Per modificare il parametro di base nel file _\\_config.yml_ , è necessario inserire il nome del sito al posto di \"\", per avere questo:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:33
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:35
+#, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:37
+#, fuzzy, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr "    (sostituisci _«name»_ con il nome che hai scelto)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "Se vuoi meno lingue rispetto alle 15 predefinite, modifica il file _\\_data/languages.yml_ e cancella le righe corrispondenti:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "Invia modifiche al tuo sito _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -170,7 +174,22 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:52
+#: 012-krei_2_github_pages.md:54
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "Congratulazioni, il tuo sito è stato creato, è accessibile su https://username.github.io/name.\n"
+
+#, fuzzy
+#~ msgid "krei retejon _\"github page\"_ "
+#~ msgstr "creare un sito web _\"github page\"_ "
+
+#, fuzzy
+#~ msgid ""
+#~ "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
+#~ "Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj "
+#~ "anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+#~ msgstr ""
+#~ "Immettere un nome per un repository e convalidare la creazione del "
+#~ "repository.\n"
+#~ "Vai alle impostazioni del tuo repository, vai al paragrafo _«Github "
+#~ "Pages»_e sostituisci \"Nessuno\"con \"master\", fai clic su \"Salva\".\n"

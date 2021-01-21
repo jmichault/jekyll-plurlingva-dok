@@ -6,6 +6,8 @@ layout: page
 title: 'créez 1 sous-site _"github page"_'
 ---
 
+Connectez-vous sur github avec votre identifiant.  
+
 Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.
 
 Entrez un nom de dépot, et validez la création du dépot.

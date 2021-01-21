@@ -26,6 +26,9 @@ Suas características mais marcantes:
  * todas as possibilidades de jekyll.
 
 
+ * pode ser usado para criar um blog.
+
+
  * Os scripts permitem que você traduza automaticamente as páginas para todos os idiomas do site.
 
 

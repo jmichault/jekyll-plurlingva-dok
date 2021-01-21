@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-21 21:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "eo"
+msgstr "ja"
+
+#. type: YAML Front Matter: lang-niv
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "020-lancxu-jekyll-loke"
+msgstr "020-lancxu-jekyll-loke"
+
+#. type: YAML Front Matter: layout
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: 020-lancxi_jekyll.md:1
+#, fuzzy, no-wrap
+msgid "Lanĉu jekyll loke"
+msgstr "jekyllをローカルで起動する"
+
+#. type: Plain text
+#: 020-lancxi_jekyll.md:13
+#, no-wrap
+#, fuzzy
+msgid ""
+"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"Se vi sekvis la instrukciojn de [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
+"aŭ [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), vi havas lokan kopion de via deponejo.\n"
+msgstr "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\nまたは [ の指示に従った場合°）{{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )、リポジトリのローカルコピーがあります。\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:15
+#, fuzzy, no-wrap
+msgid "Malfermu fina stacion kaj iru al la dosierujo, kie vi klonis vian deponejon.\n"
+msgstr "ターミナルを開き、リポジトリのクローンを作成したフォルダに移動します。\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:18
+#, fuzzy, no-wrap
+msgid "Preparu jekyll:\n"
+msgstr "ジェキルを準備する：\n"
+
+#. type: Fenced code block (bash)
+#: 020-lancxi_jekyll.md:20
+#, no-wrap
+msgid "bundle install\n"
+msgstr "bundle install\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:25
+#, fuzzy, no-wrap
+msgid "Lanĉi jekyll:\n"
+msgstr "jekyllを起動します：\n"
+
+#. type: Fenced code block (bash)
+#: 020-lancxi_jekyll.md:27
+#, no-wrap
+msgid "bundle exec jekyll serve\n"
+msgstr "bundle exec jekyll serve\n"
+
+#. type: Plain text
+#: 020-lancxi_jekyll.md:32
+#, fuzzy, no-wrap
+msgid "Nun vi povas provi vian retejon en via komputilo ĉe la adreso indikita de la antaŭa komando (http: // localhost: 4000 se vi ne enigis la opcion _baseurl_).\n"
+msgstr "これで、前のコマンド (で示されたアドレスでコンピューター上のサイトをテストできます。http：// localhost：オプション _baseurl_)を入力しなかった場合は4000。\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "{% assign page1 = site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\"| "
+#~ "kie: \"lang\", page.lang%}\n"
+#~ "{% assign page2 = site.pages | kie:\"lang-ref\",\"012-kreu-2-cxefan-GP\"| "
+#~ "kie: \"lang\", page.lang%}\n"
+#~ "Se vi sekvis la instrukciojn de [{{paĝo1[0]0].titolo}} ]( {{monurl}} "
+#~ "{{site.baseurl}} {{paĝo1[0]0].url} } )\n"
+#~ "aŭ de [{{paĝo2[0]0].titolo}} ]( {{monurl }} {{site.baseurl}} {{paĝo2[0]0]."
+#~ "url}} ), vi havas lokan kopion de via deponejo.\n"
+#~ msgstr ""
+#~ "{％assign page1 = site.pages |ここで：\"lang-ref\"、\"010-kreu-cxefan-GP"
+#~ "\"|ここで、 \"lang\"、page.lang％}\n"
+#~ "{％assign page2 = site.pages |ここで、\"lang-ref\"、\"012-create-2-main-GP"
+#~ "\"|ここで、 \"lang\"、page.lang％}\n"
+#~ " [{{page1[0]0の指示に従った場合]0].title}} ]( {{monurl}} {{site.baseurl}} "
+#~ "{{page1[0]0]0].url}} )\n"
+#~ "またはde [{{page2[0]0]0].title}} ]( {{monurl}} {{site.baseurl}} "
+#~ "{{page2[0]0]0].url}} )、リポジトリのローカルコピーがあります。\n"

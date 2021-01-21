@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 21:16+0100\n"
+"POT-Creation-Date: 2021-01-21 21:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,53 +97,59 @@ msgstr ""
 #. type: Bullet: ' * '
 #: index.md:25
 #, no-wrap
-msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+msgid "uzeblas por krei blogon.\n"
 msgstr ""
 
 #. type: Bullet: ' * '
 #: index.md:27
 #, no-wrap
-msgid "la tradukoj estas administrataj per po-dosieroj:\n"
+msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
 msgstr ""
 
-#. type: Bullet: '   * '
+#. type: Bullet: ' * '
 #: index.md:29
 #, no-wrap
-msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
+msgid "la tradukoj estas administrataj per po-dosieroj:\n"
 msgstr ""
 
 #. type: Bullet: '   * '
 #: index.md:31
 #, no-wrap
-msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
+msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
 msgstr ""
 
-#. type: Bullet: ' * '
+#. type: Bullet: '   * '
 #: index.md:33
 #, no-wrap
-msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
+msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
 msgstr ""
 
 #. type: Bullet: ' * '
 #: index.md:35
 #, no-wrap
-msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
+msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
 msgstr ""
 
-#. type: Bullet: '   * '
+#. type: Bullet: ' * '
 #: index.md:37
 #, no-wrap
-msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
+msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
 msgstr ""
 
 #. type: Bullet: '   * '
 #: index.md:39
 #, no-wrap
-msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
+msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
 msgstr ""
 
 #. type: Bullet: '   * '
 #: index.md:41
+#, no-wrap
+msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
+msgstr ""
+
+#. type: Bullet: '   * '
+#: index.md:43
 #, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr ""

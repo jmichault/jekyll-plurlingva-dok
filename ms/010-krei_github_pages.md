@@ -3,15 +3,17 @@ lang: ms
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'buat laman web anda _"github page"_ '
+title: 'buat 1 laman web _"github page"_'
 ---
+
+Log masuk ke github dengan nama pengguna anda.  
 
 Pergi ke lokasi [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.
 
 Masukkan sebagai nama repositori: _username.github.io_ , di mana _username_ adalah nama pengguna anda di _github_, dan sahkan pembuatan repositori.
 
 Sekarang sambungkan ke komputer dengan Linux.  
-Pasang prasyarat, misalnya jika anda berada di bawah Debian:
+Pasang prasyarat, misalnya jika anda mempunyai kurang dari _debian buster_ :
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 22:17+0100\n"
+"POT-Creation-Date: 2021-01-21 21:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,13 +47,19 @@ msgid "créez 1 sous-site _\"github page\"_"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:10
+#: 012-krei_2_github_pages.md:9
+#, no-wrap
+msgid "Connectez-vous sur github avec votre identifiant.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:12
 #, no-wrap
 msgid "Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:13
+#: 012-krei_2_github_pages.md:15
 #, no-wrap
 msgid ""
 "Entrez un nom de dépot, et validez la création du dépot.\n"
@@ -61,19 +67,19 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:14
+#: 012-krei_2_github_pages.md:16
 #, no-wrap
 msgid "Maintenant connectez vous sur un ordinateur sous linux.  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid "Installez les pré-requis, par exemple si vous êtes sous debian :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -81,13 +87,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid "et récupérez une copie de votre dépot :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -95,61 +101,61 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:34
 #, no-wrap
 msgid "Changez le paramètre baseurl dans le fichier _\\_config.yml_ , il faut mettre le nom du site au lieu de \"\", pour avoir ceci :  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:33
+#: 012-krei_2_github_pages.md:35
 #, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "    (remplacez _«name»_ par le nom que vous avez choisi)\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -158,7 +164,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:52
+#: 012-krei_2_github_pages.md:54
 #, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io/name .\n"
 msgstr ""

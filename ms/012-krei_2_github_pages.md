@@ -3,13 +3,15 @@ lang: ms
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'buat laman web _"github page"_ '
+title: 'buat 1 subnet _"github page"_'
 ---
+
+Log masuk ke github dengan nama pengguna anda.  
 
 Pergi ke lokasi [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.
 
-Masukkan nama untuk repositori dan sahkan pembuatan repositori.
-Pergi ke tetapan repositori anda, pergi ke perenggan _«Github Pages»_, dan ganti "Tiada"dengan "induk", klik "Jimat".
+Masukkan nama repositori dan sahkan pembuatan repositori.
+Pergi ke parameter repositori anda, tatal ke bawah ke perenggan _«Github Pages»_, dan ganti "Tiada"dengan "master", klik "Simpan".
 
 Sekarang sambungkan ke komputer dengan Linux.  
 Pasang prasyarat, misalnya jika anda berada di bawah Debian:

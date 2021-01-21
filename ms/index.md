@@ -26,6 +26,9 @@ Ciri-cirinya yang paling menarik:
  * semua kemungkinan jekyll.
 
 
+ * boleh digunakan untuk membuat blog.
+
+
  * Skrip membolehkan anda menerjemahkan halaman ke semua bahasa di laman web secara automatik.
 
 

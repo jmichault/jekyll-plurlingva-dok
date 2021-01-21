@@ -3,15 +3,17 @@ lang: zh
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: '创建您的网站 _"github page"_ '
+title: '建立1个网站 _"github page"_'
 ---
+
+使用您的用户名登录github。  
 
 转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)的位置，然后单击 _«Use this template»_。
 
 输入存储库名称： _username.github.io_ ，其中 _username_ 是您在 _github_的用户名，然后验证存储库的创建。
 
 现在，使用Linux连接到计算机。  
-安装先决条件，例如，如果您在Debian下：
+安装先决条件，例如，如果您的温度小于 _debian buster_ ：
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

@@ -26,6 +26,9 @@ Sus características más llamativas:
  * todas las posibilidades de jekyll.
 
 
+ * se puede utilizar para crear un blog.
+
+
  * Los scripts le permiten traducir automáticamente las páginas a todos los idiomas del sitio.
 
 

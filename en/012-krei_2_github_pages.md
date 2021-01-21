@@ -3,13 +3,15 @@ lang: en
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'create a website _"github page"_ '
+title: 'create 1 subnet _"github page"_'
 ---
+
+Log in to github with your username.  
 
 Go to the location of [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), and click _«Use this template»_.
 
 Enter a name for a repository and validate the creation of the repository.
-Go to your repository settings, go to paragraph _«Github Pages»_, and replace "None"with "master", click "Save".
+Go to your repository's parameters, scroll down to paragraph _«Github Pages»_, and replace "None"with "master", click "Store".
 
 Now connect to a computer with Linux.  
 Install the prerequisites, for example if you are under Debian:

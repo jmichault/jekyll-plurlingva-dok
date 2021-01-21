@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:07+0100\n"
+"POT-Creation-Date: 2021-01-21 21:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,37 +43,43 @@ msgstr ""
 #. type: YAML Front Matter: title
 #: 012-krei_2_github_pages.md:1
 #, no-wrap
-msgid "krei retejon _\"github page\"_ "
+msgid "krei 1 subretejon _\"github page\"_"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:10
+#: 012-krei_2_github_pages.md:9
+#, no-wrap
+msgid "Ensalutu github per via salutnomo.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:12
 #, no-wrap
 msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:13
+#: 012-krei_2_github_pages.md:15
 #, no-wrap
 msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
-"Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+"Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:14
+#: 012-krei_2_github_pages.md:16
 #, no-wrap
 msgid "Nun konektiĝu al komputilo kun Linux.  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -81,13 +87,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -95,61 +101,61 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:34
 #, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:33
+#: 012-krei_2_github_pages.md:35
 #, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -158,7 +164,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:52
+#: 012-krei_2_github_pages.md:54
 #, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr ""

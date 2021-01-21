@@ -3,15 +3,17 @@ lang: ja
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'あなたのウェブサイトを作成する _"github page"_ '
+title: '1つのWebサイトを作成する _"github page"_'
 ---
+
+ユーザー名でgithubにログインします。  
 
  [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の場所に移動し、 _«Use this template»_をクリックします。
 
 リポジトリ名として次のように入力します： _username.github.io_ 、ここで _username_ は _github_でのユーザー名であり、リポジトリの作成を検証します。
 
 次に、Linuxを搭載したコンピューターに接続します。  
-たとえば、Debianを使用している場合は、前提条件をインストールします。
+たとえば、 _debian buster_ 未満の場合：
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

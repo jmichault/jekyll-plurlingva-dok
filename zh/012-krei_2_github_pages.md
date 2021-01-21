@@ -3,13 +3,15 @@ lang: zh
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: '建立网站 _"github page"_ '
+title: '创建1个子网 _"github page"_'
 ---
+
+使用您的用户名登录github。  
 
 转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)的位置，然后单击 _«Use this template»_。
 
 输入存储库的名称并验证存储库的创建。
-转到存储库设置，转到 _«Github Pages»_段落，然后将 "None"替换为 "master"，单击 "保存"。
+转到存储库的参数，向下滚动至段落 _«Github Pages»_，然后将 "无"替换为 "主"，单击 "存放"。
 
 现在，使用Linux连接到计算机。  
 安装先决条件，例如，如果您在Debian下：

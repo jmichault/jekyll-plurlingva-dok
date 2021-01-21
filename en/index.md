@@ -26,6 +26,9 @@ Its most striking features:
  * all possibilities of jekyll.
 
 
+ * can be used to create a blog.
+
+
  * Scripts allow you to automatically translate the pages to all languages ​​of the site.
 
 

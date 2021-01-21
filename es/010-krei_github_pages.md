@@ -3,15 +3,17 @@ lang: es
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
 layout: page
-title: 'crea tu sitio web _"github page"_ '
+title: 'crear 1 sitio web _"github page"_'
 ---
+
+Inicie sesión en github con su nombre de usuario.  
 
 Vaya a la ubicación de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)y haga clic en _«Use this template»_.
 
 Ingrese como nombre del repositorio: _username.github.io_ , donde _username_ es su nombre de usuario en _github_, y valide la creación del repositorio.
 
 Ahora conéctese a una computadora con Linux.  
-Instale los requisitos previos, por ejemplo, si está bajo Debian:
+Instale los requisitos previos, por ejemplo, si tiene menos de _debian buster_ :
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

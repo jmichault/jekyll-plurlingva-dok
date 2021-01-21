@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-19 21:07+0100\n"
+"POT-Creation-Date: 2021-01-21 21:59+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -43,39 +43,46 @@ msgstr "page"
 #. type: YAML Front Matter: title
 #: 012-krei_2_github_pages.md:1
 #, fuzzy, no-wrap
-msgid "krei retejon _\"github page\"_ "
-msgstr "একটি ওয়েবসাইট তৈরি করুন _\"github page\"_ "
+msgid "krei 1 subretejon _\"github page\"_"
+msgstr "1 সাবনেট তৈরি করুন _\"github page\"_"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:10
+#: 012-krei_2_github_pages.md:9
+#, no-wrap
+#, fuzzy
+msgid "Ensalutu github per via salutnomo.  \n"
+msgstr "আপনার ব্যবহারকারীর নাম দিয়ে গিথুব এ লগ ইন করুন।  \n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:12
 #, fuzzy, no-wrap
 msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)এর স্থানে যান এবং _«Use this template»_ক্লিক করুন।\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:13
+#: 012-krei_2_github_pages.md:15
 #, fuzzy, no-wrap
 msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
-"Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+"Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
 msgstr ""
 "একটি সংগ্রহস্থলের নাম সন্নিবেশ করান এবং সংগ্রহশালা তৈরির বিষয়টি যাচাই করুন।\n"
-"আপনার সংগ্রহস্থল সেটিংসে যান, অনুচ্ছেদে যান _«Github Pages»_, এবং \"কোনওটি\" \"মাস্টার\"এর সাথে প্রতিস্থাপন করুন, ক্লিক করুন \"সংরক্ষণ করুন\"।\n"
+"আপনার সংগ্রহস্থলের প্যারামিটারগুলিতে যান, অনুচ্ছেদে _«Github Pages»_স্ক্রোল করুন এবং \"কোনওটি\" \"মাস্টার\"এর সাথে প্রতিস্থাপন করুন, ক্লিক করুন \"স্টোর\"।\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:14
+#: 012-krei_2_github_pages.md:16
 #, fuzzy, no-wrap
 msgid "Nun konektiĝu al komputilo kun Linux.  \n"
 msgstr "এখন লিনাক্স দিয়ে একটি কম্পিউটারে সংযোগ করুন।  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
 msgstr "পূর্বশর্তগুলি ইনস্টল করুন, উদাহরণস্বরূপ আপনি যদি ডেবিয়ানের অধীনে থাকেন:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:16
+#: 012-krei_2_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -85,13 +92,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "এবং আপনার আমানতের একটি অনুলিপি পান:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:22
+#: 012-krei_2_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -101,64 +108,61 @@ msgstr ""
 "cd name\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, fuzzy, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr "একটি শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটিকে রেট দিন:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:28
+#: 012-krei_2_github_pages.md:30
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:34
+#, fuzzy, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "ফাইলের (° 1 file) প্রাথমিক প্যারামিটারটি পরিবর্তন করতে আপনার অবশ্যই সাইটের নাম অবশ্যই \"\"রাখতে হবে:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:33
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:35
+#, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
-#, no-wrap
-#, fuzzy
+#: 012-krei_2_github_pages.md:37
+#, fuzzy, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr "    (আপনি)বেছে নেওয়া নামের সাথে _«name»_ প্রতিস্থাপন করুন\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "আপনি যদি 15 টি প্রিসেটের চেয়ে কম ভাষা চান তবে ফাইলটি সম্পাদনা করুন _\\_data/languages.yml_ এবং সংশ্লিষ্ট লাইনগুলি মুছুন:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:40
+#: 012-krei_2_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "আপনার ওয়েবসাইটে পরিবর্তনগুলি জমা দিন _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:45
+#: 012-krei_2_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -170,7 +174,21 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:52
+#: 012-krei_2_github_pages.md:54
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "অভিনন্দন, আপনার সাইট তৈরি করা হয়েছে, এটি https://username.github.io/name এ অ্যাক্সেসযোগ্য।\n"
+
+#, fuzzy
+#~ msgid "krei retejon _\"github page\"_ "
+#~ msgstr "একটি ওয়েবসাইট তৈরি করুন _\"github page\"_ "
+
+#, fuzzy
+#~ msgid ""
+#~ "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
+#~ "Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj "
+#~ "anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+#~ msgstr ""
+#~ "একটি সংগ্রহস্থলের নাম সন্নিবেশ করান এবং সংগ্রহশালা তৈরির বিষয়টি যাচাই করুন।\n"
+#~ "আপনার সংগ্রহস্থল সেটিংসে যান, অনুচ্ছেদে যান _«Github Pages»_, এবং \"কোনওটি\" "
+#~ "\"মাস্টার\"এর সাথে প্রতিস্থাপন করুন, ক্লিক করুন \"সংরক্ষণ করুন\"।\n"

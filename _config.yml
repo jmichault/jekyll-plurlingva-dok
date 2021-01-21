@@ -1,6 +1,11 @@
 # Setup
 baseurl: "/jekyll-plurlingva-dok"
 auxtoro: Jean Michault
+# malkomentigu la sekvan linion por forigi la menuon "ĉiuj afiŝoj"
+ne_afisxoj: "true"
+# malkomentigu la sekvan linion por forigi la menuon "serĉu per google"
+#ne_googlesearch: "true"
+
 
 # Dependencies
 highlighter:      rouge

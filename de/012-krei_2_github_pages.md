@@ -3,13 +3,15 @@ lang: de
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: 'eine Website erstellen _"github page"_ '
+title: '1 Subnetz erstellen _"github page"_'
 ---
+
+Melden Sie sich mit Ihrem Benutzernamen bei github an.  
 
 Gehen Sie zum Ort [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)und klicken Sie auf _«Use this template»_.
 
 Geben Sie einen Namen für ein Repository ein und überprüfen Sie die Erstellung des Repositorys.
-Gehen Sie zu Ihren Repository-Einstellungen, gehen Sie zu Absatz _«Github Pages»_und ersetzen Sie "Keine"durch "Master", klicken Sie auf "Speichern".
+Gehen Sie zu den Parametern Ihres Repositorys, scrollen Sie nach unten zu Absatz _«Github Pages»_und ersetzen Sie "Keine"durch "Master". Klicken Sie auf "Lagern".
 
 Stellen Sie jetzt eine Verbindung zu einem Computer mit Linux her.  
 Installieren Sie die Voraussetzungen, z. B. wenn Sie sich unter Debian befinden:

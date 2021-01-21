@@ -26,6 +26,9 @@ Seine auffälligsten Merkmale:
  * alle möglichkeiten von jekyll.
 
 
+ * kann verwendet werden, um ein Blog zu erstellen.
+
+
  * Mit Skripten können Sie die Seiten automatisch in alle Sprachen der Site übersetzen.
 
 

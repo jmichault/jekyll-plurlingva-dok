@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 21:17+0100\n"
+"POT-Creation-Date: 2021-01-21 21:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,57 +48,49 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de plurlingvaj statikaj retejoj, surbaze de jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ adalah kerangka untuk membuat laman web statik berbilang bahasa, berdasarkan jekyll.  \n"
 
 #. type: Plain text
 #: index.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝia celo estas teni ĝin malpeza kaj simpla.\n"
 msgstr "Tujuannya adalah untuk menjadikannya ringan dan sederhana.\n"
 
 #. type: Plain text
 #: index.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝiaj plej frapaj karakterizaĵoj:\n"
 msgstr "Ciri-cirinya yang paling menarik:\n"
 
 #. type: Bullet: ' * '
 #: index.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dezajno sur du kolumnoj:\n"
 msgstr "reka bentuk pada dua tiang:\n"
 
 #. type: Bullet: '   * '
 #: index.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "maldekstre retirebla menuo, kun: la elekto de lingvo, Gugla serĉo en la retejo kaj la menuo de la retejo.\n"
 msgstr "menu lungsur kiri, dengan: pilihan bahasa, carian Google di laman web dan menu laman web.\n"
 
 #. type: Bullet: '   * '
 #: index.md:19
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dekstre la ĉefa enhavo.\n"
 msgstr "di sebelah kanan kandungan utama.\n"
 
 #. type: Bullet: ' * '
 #: index.md:21
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "adaptita al retejoj _Github Pages_ .\n"
 msgstr "disesuaikan dengan laman web _Github Pages_ .\n"
 
 #. type: Bullet: ' * '
 #: index.md:23
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "ĉiuj eblecoj de jekyll.\n"
 msgstr "semua kemungkinan jekyll.\n"
 
@@ -106,68 +98,70 @@ msgstr "semua kemungkinan jekyll.\n"
 #: index.md:25
 #, no-wrap
 #, fuzzy
+msgid "uzeblas por krei blogon.\n"
+msgstr "boleh digunakan untuk membuat blog.\n"
+
+#. type: Bullet: ' * '
+#: index.md:27
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
 msgstr "Skrip membolehkan anda menerjemahkan halaman ke semua bahasa di laman web secara automatik.\n"
 
 #. type: Bullet: ' * '
-#: index.md:27
-#, no-wrap
-#, fuzzy
+#: index.md:29
+#, fuzzy, no-wrap
 msgid "la tradukoj estas administrataj per po-dosieroj:\n"
 msgstr "terjemahan diuruskan oleh fail po:\n"
 
 #. type: Bullet: '   * '
-#: index.md:29
-#, no-wrap
-#, fuzzy
+#: index.md:31
+#, fuzzy, no-wrap
 msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
 msgstr "jika anda mengedit atau menambahkan perenggan pada halaman, hanya perenggan yang perlu diterjemahkan semula.\n"
 
 #. type: Bullet: '   * '
-#: index.md:31
-#, no-wrap
-#, fuzzy
+#: index.md:33
+#, fuzzy, no-wrap
 msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
 msgstr "anda boleh menghantar fail ini kepada penterjemah manusia untuk pembetulan.\n"
 
 #. type: Bullet: ' * '
-#: index.md:33
-#, no-wrap
-#, fuzzy
+#: index.md:35
+#, fuzzy, no-wrap
 msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
 msgstr "Teks yang diterjemahkan secara automatik ditunjukkan oleh bahagian yang menawarkan dokumen dalam bahasa yang diperbetulkan oleh manusia.\n"
 
 #. type: Bullet: ' * '
-#: index.md:35
-#, no-wrap
-#, fuzzy
+#: index.md:37
+#, fuzzy, no-wrap
 msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
 msgstr "Terjemahan menggunakan bahasa Esperanto sebagai bahasa penting. Pilihan ini mungkin kelihatan aneh pada pandangan pertama, tetapi mempunyai beberapa kelebihan:\n"
 
 #. type: Bullet: '   * '
-#: index.md:37
-#, no-wrap
-#, fuzzy
+#: index.md:39
+#, fuzzy, no-wrap
 msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
 msgstr "ia adalah bahasa dengan tatabahasa yang sederhana dan tidak terkecuali, jadi lebih mudah diuruskan untuk penterjemah perisian. .\n"
 
 #. type: Bullet: '   * '
-#: index.md:39
-#, no-wrap
-#, fuzzy
+#: index.md:41
+#, fuzzy, no-wrap
 msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
 msgstr "ia adalah bahasa yang sangat tepat, menghasilkan kekaburan yang kurang daripada bahasa Inggeris.\n"
 
 #. type: Bullet: '   * '
-#: index.md:41
-#, no-wrap
-#, fuzzy
+#: index.md:43
+#, fuzzy, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr "sangat mudah dipelajari, apa sahaja bahasa pelajar.\n"
 
 #, fuzzy
-#~ msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
-#~ msgstr " _Jekyll-plurlingva_ adalah kerangka untuk membuat laman web berbilang bahasa statik berdasarkan jekyll.  \n"
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj "
+#~ "retejoj bazitaj sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ adalah kerangka untuk membuat laman web berbilang "
+#~ "bahasa statik berdasarkan jekyll.  \n"
 
 #, fuzzy
 #~ msgid "Ĝia celo estas resti malpeza por simpleco.\n"

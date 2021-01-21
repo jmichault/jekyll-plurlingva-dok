@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 21:17+0100\n"
+"POT-Creation-Date: 2021-01-21 21:35+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,57 +48,49 @@ msgstr " _jekyll-plurlingva_ "
 
 #. type: Plain text
 #: index.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de plurlingvaj statikaj retejoj, surbaze de jekyll.  \n"
 msgstr " _Jekyll-plurlingva_ は、jekyllに基づいて、多言語の静的Webサイトを作成するためのスケルトンです。  \n"
 
 #. type: Plain text
 #: index.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝia celo estas teni ĝin malpeza kaj simpla.\n"
 msgstr "その目的は、軽量でシンプルに保つことです。\n"
 
 #. type: Plain text
 #: index.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ĝiaj plej frapaj karakterizaĵoj:\n"
 msgstr "その最も印象的な機能：\n"
 
 #. type: Bullet: ' * '
 #: index.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dezajno sur du kolumnoj:\n"
 msgstr "2列の設計：\n"
 
 #. type: Bullet: '   * '
 #: index.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "maldekstre retirebla menuo, kun: la elekto de lingvo, Gugla serĉo en la retejo kaj la menuo de la retejo.\n"
 msgstr "左側のドロップダウンメニュー。言語の選択、サイトでのGoogle検索、およびサイトのメニュー。\n"
 
 #. type: Bullet: '   * '
 #: index.md:19
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "dekstre la ĉefa enhavo.\n"
 msgstr "右側のメインコンテンツ。\n"
 
 #. type: Bullet: ' * '
 #: index.md:21
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "adaptita al retejoj _Github Pages_ .\n"
 msgstr "ウェブサイトに適合 _Github Pages_ 。\n"
 
 #. type: Bullet: ' * '
 #: index.md:23
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "ĉiuj eblecoj de jekyll.\n"
 msgstr "jekyllのすべての可能性。\n"
 
@@ -106,68 +98,70 @@ msgstr "jekyllのすべての可能性。\n"
 #: index.md:25
 #, no-wrap
 #, fuzzy
+msgid "uzeblas por krei blogon.\n"
+msgstr "ブログの作成に使用できます。\n"
+
+#. type: Bullet: ' * '
+#: index.md:27
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
 msgstr "スクリプトを使用すると、ページをサイトのすべての言語に自動的に翻訳できます。\n"
 
 #. type: Bullet: ' * '
-#: index.md:27
-#, no-wrap
-#, fuzzy
+#: index.md:29
+#, fuzzy, no-wrap
 msgid "la tradukoj estas administrataj per po-dosieroj:\n"
 msgstr "翻訳はpoファイルによって管理されます：\n"
 
 #. type: Bullet: '   * '
-#: index.md:29
-#, no-wrap
-#, fuzzy
+#: index.md:31
+#, fuzzy, no-wrap
 msgid "se vi redaktas aŭ aldonas alineon sur paĝo, nur tiu alineo devas esti retradukita.\n"
 msgstr "ページ上の段落を編集または追加する場合、その段落のみを再翻訳する必要があります。\n"
 
 #. type: Bullet: '   * '
-#: index.md:31
-#, no-wrap
-#, fuzzy
+#: index.md:33
+#, fuzzy, no-wrap
 msgid "vi povas sendi ĉi tiun dosieron al homa tradukisto por korekto.\n"
 msgstr "このファイルを人間の翻訳者に送信して修正することができます。\n"
 
 #. type: Bullet: ' * '
-#: index.md:33
-#, no-wrap
-#, fuzzy
+#: index.md:35
+#, fuzzy, no-wrap
 msgid "Aŭtomate tradukitaj tekstoj estas indikitaj per sekcio, kiu ofertas la dokumenton en la homaj korektitaj lingvoj.\n"
 msgstr "自動翻訳されたテキストは、人間が修正した言語でドキュメントを提供するセクションによって示されます。\n"
 
 #. type: Bullet: ' * '
-#: index.md:35
-#, no-wrap
-#, fuzzy
+#: index.md:37
+#, fuzzy, no-wrap
 msgid "La tradukoj uzas Esperanton kiel pivotan lingvon. Ĉi tiu elekto eble ŝajnas stranga unuavide, sed ĝi havas plurajn avantaĝojn:\n"
 msgstr "翻訳では、Esperantoを中心的な言語として使用しています。この選択は一見奇妙に見えるかもしれませんが、いくつかの利点があります：\n"
 
 #. type: Bullet: '   * '
-#: index.md:37
-#, no-wrap
-#, fuzzy
+#: index.md:39
+#, fuzzy, no-wrap
 msgid "ĝi estas lingvo kun simpla gramatiko kaj sen esceptoj, do pli facile administreblas por programaj tradukistoj. .\n"
 msgstr "文法がシンプルで例外のない言語なので、ソフトウェア翻訳者にとっては管理が簡単です。 。\n"
 
 #. type: Bullet: '   * '
-#: index.md:39
-#, no-wrap
-#, fuzzy
+#: index.md:41
+#, fuzzy, no-wrap
 msgid "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla.\n"
 msgstr "これは非常に正確な言語であり、英語よりも曖昧さが少なくなります。\n"
 
 #. type: Bullet: '   * '
-#: index.md:41
-#, no-wrap
-#, fuzzy
+#: index.md:43
+#, fuzzy, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr "学習者の言語に関係なく、学ぶのはとても簡単です。\n"
 
 #, fuzzy
-#~ msgid " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj retejoj bazitaj sur jekyll.  \n"
-#~ msgstr " _Jekyll-plurlingva_ は、jekyllに基づいて静的な多言語Webサイトを作成するためのスケルトンです。  \n"
+#~ msgid ""
+#~ " _Jekyll-plurlingva_ estas skeleto por la kreado de statikaj plurlingvaj "
+#~ "retejoj bazitaj sur jekyll.  \n"
+#~ msgstr ""
+#~ " _Jekyll-plurlingva_ は、jekyllに基づいて静的な多言語Webサイトを作成するた"
+#~ "めのスケルトンです。  \n"
 
 #, fuzzy
 #~ msgid "Ĝia celo estas resti malpeza por simpleco.\n"

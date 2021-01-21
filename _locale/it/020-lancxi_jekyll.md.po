@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-21 21:56+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "eo"
+msgstr "it"
+
+#. type: YAML Front Matter: lang-niv
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "020-lancxu-jekyll-loke"
+msgstr "020-lancxu-jekyll-loke"
+
+#. type: YAML Front Matter: layout
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: 020-lancxi_jekyll.md:1
+#, no-wrap
+#, fuzzy
+msgid "Lanĉu jekyll loke"
+msgstr "Avvia jekyll localmente"
+
+#. type: Plain text
+#: 020-lancxi_jekyll.md:13
+#, no-wrap
+#, fuzzy
+msgid ""
+"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"Se vi sekvis la instrukciojn de [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
+"aŭ [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), vi havas lokan kopion de via deponejo.\n"
+msgstr "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\nSe hai seguito le istruzioni di [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\no [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), hai una copia locale del tuo repository.\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:15
+#, no-wrap
+#, fuzzy
+msgid "Malfermu fina stacion kaj iru al la dosierujo, kie vi klonis vian deponejon.\n"
+msgstr "Apri un terminale e vai alla cartella in cui hai clonato il tuo repository.\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:18
+#, no-wrap
+#, fuzzy
+msgid "Preparu jekyll:\n"
+msgstr "Preparare jekyll:\n"
+
+#. type: Fenced code block (bash)
+#: 020-lancxi_jekyll.md:20
+#, no-wrap
+msgid "bundle install\n"
+msgstr "bundle install\n"
+
+#. type: Bullet: '* '
+#: 020-lancxi_jekyll.md:25
+#, no-wrap
+#, fuzzy
+msgid "Lanĉi jekyll:\n"
+msgstr "Avvia jekyll:\n"
+
+#. type: Fenced code block (bash)
+#: 020-lancxi_jekyll.md:27
+#, no-wrap
+msgid "bundle exec jekyll serve\n"
+msgstr "bundle exec jekyll serve\n"
+
+#. type: Plain text
+#: 020-lancxi_jekyll.md:32
+#, no-wrap
+#, fuzzy
+msgid "Nun vi povas provi vian retejon en via komputilo ĉe la adreso indikita de la antaŭa komando (http: // localhost: 4000 se vi ne enigis la opcion _baseurl_).\n"
+msgstr "Ora puoi testare il tuo sito sul tuo computer all'indirizzo indicato dal comando precedente (http: // localhost: 4000 se non hai inserito l'opzione _baseurl_).\n"
+

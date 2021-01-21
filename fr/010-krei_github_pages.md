@@ -6,6 +6,8 @@ layout: page
 title: 'créez 1 site _"github page"_'
 ---
 
+Connectez-vous sur github avec votre identifiant.  
+
 Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.
 
 Entrez comme nom de dépot : _username.github.io_ , où _username_ est votre nom d'utilisateur sur _github_, et validez la création du dépot.
