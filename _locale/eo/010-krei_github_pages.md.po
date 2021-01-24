@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:59+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "krei 1 retejon _\"github page\"_"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Connectez-vous sur github avec votre identifiant.  \n"
 msgstr "Ensalutu github per via salutnomo.  \n"
 
@@ -99,42 +98,46 @@ msgstr "kaj ricevu kopion de via deponejo:\n"
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
 "cd username.github.io\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 msgstr ""
 "git clone https://github.com/username/username.github.io\n"
 "cd username.github.io\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:29
+#: 010-krei_github_pages.md:31
 #, fuzzy, no-wrap
 msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
 msgstr "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:29
+#: 010-krei_github_pages.md:31
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:34
+#: 010-krei_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
 msgstr "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:34
+#: 010-krei_github_pages.md:36
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:39
+#: 010-krei_github_pages.md:41
 #, fuzzy, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr "Sendu la ŝanĝojn al via retejo _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:39
+#: 010-krei_github_pages.md:41
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -146,10 +149,17 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:46
+#: 010-krei_github_pages.md:48
 #, fuzzy, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io .\n"
 msgstr "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
+
+#~ msgid ""
+#~ "git clone https://github.com/username/username.github.io\n"
+#~ "cd username.github.io\n"
+#~ msgstr ""
+#~ "git clone https://github.com/username/username.github.io\n"
+#~ "cd username.github.io\n"
 
 #, fuzzy
 #~ msgid "créez votre site _\"github page\"_ principal "

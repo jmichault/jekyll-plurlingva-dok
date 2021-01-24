@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:35+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,14 +98,15 @@ msgstr "كل احتمالات jekyll.\n"
 #: index.md:25
 #, no-wrap
 #, fuzzy
-msgid "uzeblas por krei blogon.\n"
-msgstr "يمكن استخدامها لإنشاء مدونة.\n"
+msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
+msgstr "يمكن استخدامها لإنشاء مدونة ، أو موقع ويب بسيط به قائمة فقط على اليسار.\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, fuzzy, no-wrap
-msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-msgstr "تسمح لك البرامج النصية بترجمة الصفحات تلقائيًا إلى جميع لغات الموقع.\n"
+#, no-wrap
+#, fuzzy
+msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
+msgstr "تسمح لك البرامج النصية بترجمة صفحات لغتك تلقائيًا إلى جميع لغات موقع الويب.\n"
 
 #. type: Bullet: ' * '
 #: index.md:29
@@ -154,6 +155,21 @@ msgstr "إنها لغة دقيقة للغاية ، وتولد غموضًا أق�
 #, fuzzy, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr "من السهل جدًا التعلم ، مهما كانت لغة المتعلم.\n"
+
+#. type: Plain text
+#: index.md:46
+#, no-wrap
+#, fuzzy
+msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
+msgstr "لرؤية [_jekyll متعدد اللغات_](https://github.com/jmichault/jekyll-plurlingva) في العمل ، انتقل على سبيل المثال إلى موقع الويب <https://jmichault.github.io>.\n"
+
+#, fuzzy
+#~ msgid "uzeblas por krei blogon.\n"
+#~ msgstr "يمكن استخدامها لإنشاء مدونة.\n"
+
+#, fuzzy
+#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+#~ msgstr "تسمح لك البرامج النصية بترجمة الصفحات تلقائيًا إلى جميع لغات الموقع.\n"
 
 #, fuzzy
 #~ msgid ""

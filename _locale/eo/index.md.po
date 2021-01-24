@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 22:17+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,14 +98,15 @@ msgstr "ĉiuj eblecoj de jekyll.\n"
 #: index.md:29
 #, no-wrap
 #, fuzzy
-msgid "peut être utilisé pour créer un blog.\n"
-msgstr "uzeblas por krei blogon.\n"
+msgid "peut être utilisé pour créer un blog, ou un site simple avec juste un menu à gauche.\n"
+msgstr "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
 
 #. type: Bullet: ' * '
 #: index.md:29
-#, fuzzy, no-wrap
-msgid "Des scripts vous permettent de traduire automatiquement les pages dans toutes les langues du site.\n"
-msgstr "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+#, no-wrap
+#, fuzzy
+msgid "Des scripts vous permettent de traduire automatiquement les pages de votre langue dans toutes les langues du site.\n"
+msgstr "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
 
 #. type: Bullet: ' * '
 #: index.md:29
@@ -154,6 +155,21 @@ msgstr "ĝi estas tre preciza lingvo, generanta malpli da ambiguecoj ol la angla
 #, fuzzy, no-wrap
 msgid "elle est très facile à apprendre, quelle que soit la langue de l'élève.\n"
 msgstr "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
+
+#. type: Plain text
+#: index.md:31
+#, no-wrap
+#, fuzzy
+msgid "Pour voir [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en action, rendez-vous par exemple sur le site <https://jmichault.github.io>.\n"
+msgstr "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
+
+#, fuzzy
+#~ msgid "peut être utilisé pour créer un blog.\n"
+#~ msgstr "uzeblas por krei blogon.\n"
+
+#, fuzzy
+#~ msgid "Des scripts vous permettent de traduire automatiquement les pages dans toutes les langues du site.\n"
+#~ msgstr "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
 
 #, fuzzy
 #~ msgid "Son but est de rester léger pour la simplicité.\n"

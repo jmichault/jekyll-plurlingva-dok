@@ -26,10 +26,10 @@ title: ' _jekyll-plurlingva_ '
  * jekyllのすべての可能性。
 
 
- * ブログの作成に使用できます。
+ * ブログ、または左側にメニューがあるだけの簡単なWebサイトを作成するために使用できます。
 
 
- * スクリプトを使用すると、ページをサイトのすべての言語に自動的に翻訳できます。
+ * スクリプトを使用すると、自分の言語のページをWebサイトのすべての言語に自動的に翻訳できます。
 
 
  * 翻訳はpoファイルによって管理されます：
@@ -57,4 +57,5 @@ title: ' _jekyll-plurlingva_ '
 
 
 
+ [_jekyll多言語_](https://github.com/jmichault/jekyll-plurlingva) の動作を確認するには、たとえばWebサイト <https://jmichault.github.io>にアクセスします。
 

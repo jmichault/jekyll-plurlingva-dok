@@ -21,9 +21,9 @@ title: ' _jekyll-plurlingva_ '
 
  * ĉiuj eblecoj de jekyll.
 
- * uzeblas por krei blogon.
+ * uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.
 
- * Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.
+ * Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.
 
  * la tradukoj estas administrataj per po-dosieroj:
 
@@ -42,4 +42,5 @@ title: ' _jekyll-plurlingva_ '
    * ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.
 
 
+Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.
 

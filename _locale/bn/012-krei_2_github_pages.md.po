@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:59+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "1 সাবনেট তৈরি করুন _\"github page\"_"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ensalutu github per via salutnomo.  \n"
 msgstr "আপনার ব্যবহারকারীর নাম দিয়ে গিথুব এ লগ ইন করুন।  \n"
 
@@ -103,66 +102,70 @@ msgstr "এবং আপনার আমানতের একটি অনু�
 msgid ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 msgstr ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, fuzzy, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr "একটি শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটিকে রেট দিন:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:34
+#: 012-krei_2_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "ফাইলের (° 1 file) প্রাথমিক প্যারামিটারটি পরিবর্তন করতে আপনার অবশ্যই সাইটের নাম অবশ্যই \"\"রাখতে হবে:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, fuzzy, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr "    (আপনি)বেছে নেওয়া নামের সাথে _«name»_ প্রতিস্থাপন করুন\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "আপনি যদি 15 টি প্রিসেটের চেয়ে কম ভাষা চান তবে ফাইলটি সম্পাদনা করুন _\\_data/languages.yml_ এবং সংশ্লিষ্ট লাইনগুলি মুছুন:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "আপনার ওয়েবসাইটে পরিবর্তনগুলি জমা দিন _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -174,10 +177,17 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:54
+#: 012-krei_2_github_pages.md:56
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "অভিনন্দন, আপনার সাইট তৈরি করা হয়েছে, এটি https://username.github.io/name এ অ্যাক্সেসযোগ্য।\n"
+
+#~ msgid ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
+#~ msgstr ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
 
 #, fuzzy
 #~ msgid "krei retejon _\"github page\"_ "

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:59+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,64 +98,66 @@ msgstr ""
 msgid ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:34
+#: 012-krei_2_github_pages.md:36
 #, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -164,7 +166,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:54
+#: 012-krei_2_github_pages.md:56
 #, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr ""

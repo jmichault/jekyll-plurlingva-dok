@@ -23,6 +23,8 @@ und erhalten Sie eine Kopie Ihrer Anzahlung:
 ```bash
 git clone https://github.com/username/username.github.io
 cd username.github.io
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 Wählen Sie einen Titel und eine Kurzbeschreibung und initialisieren Sie die Site:

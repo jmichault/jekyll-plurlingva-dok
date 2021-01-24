@@ -24,6 +24,8 @@ and receive a copy of your deposit:
 ```bash
 git clone https://github.com/username/name
 cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 Choose a title and short description, and rate the site:

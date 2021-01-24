@@ -23,6 +23,8 @@ e receba uma cópia do seu depósito:
 ```bash
 git clone https://github.com/username/username.github.io
 cd username.github.io
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 Escolha um título e uma breve descrição e avalie o site:

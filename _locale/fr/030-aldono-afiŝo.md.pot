@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "030-aldono-afisxon"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "Ajouter un post"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:11
+#, no-wrap
+msgid "Pour ajouter un nouveau post à votre blog, il suffit de créer un fichier dans le dossier _xx/_postsi_, où _xx_ est le code de votre langue. Ce fichier doit avoir un nom qui commence par _YYYY-MM-DD-_, où _YYYY_ est l'année, _MM_ est le mois et _DD_ est le jour du mois, son extension doit être _«.md»_ pour montrer que c'est un fichier _markdown_.\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:13
+#, no-wrap
+msgid "Ce fichier doit commencer par un en-tête au format _YAML_ comme suit :\n"
+msgstr ""
+
+#. type: Fenced code block
+#: 030-aldono-afiŝo.md:14
+#, no-wrap
+msgid ""
+"---\n"
+"lang: xx\n"
+"lang-niv: fonto\n"
+"lang-ref: yyy\n"
+"layout: post\n"
+"title: 'zzz'\n"
+"---\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:25
+#, no-wrap
+msgid "Les champs à changer sont :\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:29
+#, no-wrap
+msgid "_lang:_ : remplacez _xx_ par le code de votre langue.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:29
+#, no-wrap
+msgid "_lang-ref_ : ce champ permet d'identifier la page, remplacez _yyy_ par ce que vous voulez, la seule contrainte est qu'il doit être unique dans votre blog.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:29
+#, no-wrap
+msgid "_title:_ : remplacez _zzz_ par le titre de votre post.\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:30
+#, no-wrap
+msgid "Maintenant ajoutez le contenu de votre post, et quand vous êtes satisfait de votre texte, lancez la traduction grâce au script _traduki_ qui se trouve dans le dossier _scripts_. Vous pouvez le lancer soit depuis la ligne de commande, soit depuis l'explorateur de fichiers.\n"
+msgstr ""

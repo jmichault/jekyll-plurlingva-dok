@@ -24,6 +24,8 @@ sudo apt -t buster-backports install po4a
 ```bash
 git clone https://github.com/username/name
 cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 একটি শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটিকে রেট দিন:

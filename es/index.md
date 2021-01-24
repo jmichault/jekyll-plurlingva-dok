@@ -26,10 +26,10 @@ Sus características más llamativas:
  * todas las posibilidades de jekyll.
 
 
- * se puede utilizar para crear un blog.
+ * se puede usar para crear un blog o un sitio web simple con solo un menú a la izquierda.
 
 
- * Los scripts le permiten traducir automáticamente las páginas a todos los idiomas del sitio.
+ * Los scripts le permiten traducir automáticamente las páginas de su idioma a todos los idiomas del sitio web.
 
 
  * las traducciones son gestionadas por archivos po:
@@ -57,4 +57,5 @@ Sus características más llamativas:
 
 
 
+Para ver [_jekyll multilingual_](https://github.com/jmichault/jekyll-plurlingva) en acción, vaya, por ejemplo, al sitio web <https://jmichault.github.io>.
 

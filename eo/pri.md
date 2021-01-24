@@ -1,10 +1,10 @@
 ---
-title: Pri la Aŭtoro
-layout: page
 lang: eo
+lang-niv: auto
 lang-ref: 999-pri
-lang-niv: fonto
-
+layout: page
+title: 'Pri la Aŭtoro'
 ---
 
-Metu kelkajn vortojn de prezento ĉi tie.
+Pasia pri elektroniko ekde la aĝo de 10 jaroj kaj dependigita de komputiloj ekde la aĝo de 18 jaroj.
+Mi okupiĝis pri malfermfonteco ekde la fino de la 20a jarcento.

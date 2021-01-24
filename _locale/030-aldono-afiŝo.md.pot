@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "eo"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "auto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "030-aldono-afisxon"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "Aldonu afiŝon"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:11
+#, no-wrap
+msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:13
+#, no-wrap
+msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
+msgstr ""
+
+#. type: Fenced code block
+#: 030-aldono-afiŝo.md:14
+#, no-wrap
+msgid ""
+"---\n"
+"lang: xx\n"
+"lang-niv: fonto\n"
+"lang-ref: yyy\n"
+"layout: post\n"
+"title: 'zzz'\n"
+"---\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:25
+#, no-wrap
+msgid "La ŝanĝendaj kampoj estas:\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:27
+#, no-wrap
+msgid "_lang:_ : anstataŭigu _xx_ per la kodo de via lingvo.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:29
+#, no-wrap
+msgid "_lang-ref_ : ĉi tiu kampo permesas identigi la paĝon, anstataŭigi _yyy_ per tio, kion vi volas, la sola limigo estas, ke ĝi devas esti unika en via blogo.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:31
+#, no-wrap
+msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via afiŝo.\n"
+msgstr ""
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:33
+#, no-wrap
+msgid "Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la dosier-esplorilo.\n"
+msgstr ""

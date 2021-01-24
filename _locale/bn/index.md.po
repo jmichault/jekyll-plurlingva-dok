@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:35+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,14 +98,15 @@ msgstr "জেকিল সমস্ত সম্ভাবনা।\n"
 #: index.md:25
 #, no-wrap
 #, fuzzy
-msgid "uzeblas por krei blogon.\n"
-msgstr "একটি ব্লগ তৈরি করতে ব্যবহার করা যেতে পারে।\n"
+msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
+msgstr "একটি ব্লগ তৈরি করতে বা বামদিকে কেবল একটি মেনু সহ একটি সাধারণ ওয়েবসাইট তৈরি করতে ব্যবহার করা যেতে পারে।\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, fuzzy, no-wrap
-msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-msgstr "স্ক্রিপ্টগুলি আপনাকে পৃষ্ঠাগুলি সাইটের সমস্ত ভাষায় স্বয়ংক্রিয়ভাবে অনুবাদ করার অনুমতি দেয়।\n"
+#, no-wrap
+#, fuzzy
+msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
+msgstr "স্ক্রিপ্টগুলি আপনাকে নিজের ভাষার পৃষ্ঠাগুলি ওয়েবসাইটের সমস্ত ভাষায় স্বয়ংক্রিয়ভাবে অনুবাদ করতে দেয়।\n"
 
 #. type: Bullet: ' * '
 #: index.md:29
@@ -154,6 +155,21 @@ msgstr "এটি একটি খুব সুনির্দিষ্ট ভ�
 #, fuzzy, no-wrap
 msgid "ĝi estas tre facile lernebla, kia ajn estas la lingvo de la lernanto.\n"
 msgstr "এটি শিখার পক্ষে ভাষাটি যাই হোক না কেন এটি খুব সহজ।\n"
+
+#. type: Plain text
+#: index.md:46
+#, no-wrap
+#, fuzzy
+msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
+msgstr " [_জেকিল বহুভাষিক_](https://github.com/jmichault/jekyll-plurlingva) ক্রিয়াকলাপ দেখতে, উদাহরণস্বরূপ ওয়েবসাইটটিতে যান <https://jmichault.github.io>।\n"
+
+#, fuzzy
+#~ msgid "uzeblas por krei blogon.\n"
+#~ msgstr "একটি ব্লগ তৈরি করতে ব্যবহার করা যেতে পারে।\n"
+
+#, fuzzy
+#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
+#~ msgstr "স্ক্রিপ্টগুলি আপনাকে পৃষ্ঠাগুলি সাইটের সমস্ত ভাষায় স্বয়ংক্রিয়ভাবে অনুবাদ করার অনুমতি দেয়।\n"
 
 #, fuzzy
 #~ msgid ""

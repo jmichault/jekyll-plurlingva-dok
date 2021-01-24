@@ -23,6 +23,8 @@ dan terima salinan deposit anda:
 ```bash
 git clone https://github.com/username/username.github.io
 cd username.github.io
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 Pilih tajuk dan penerangan ringkas, dan nilaikan laman web ini:

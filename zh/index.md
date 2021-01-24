@@ -26,10 +26,10 @@ title: ' _jekyll-plurlingva_ '
  * jekyll的所有可能性。
 
 
- * 可用于创建博客。
+ * 可以用来创建博客，或者创建一个简单的网站（左侧菜单只是一个菜单）。
 
 
- * 脚本使您可以将页面自动翻译为网站的所有语言。
+ * 脚本允许您将语言页面自动翻译为网站的所有语言。
 
 
  * 翻译由po文件管理：
@@ -57,4 +57,5 @@ title: ' _jekyll-plurlingva_ '
 
 
 
+要查看实际使用的 [_多语言jekyll_](https://github.com/jmichault/jekyll-plurlingva) ，请访问网站 <https://jmichault.github.io>。
 

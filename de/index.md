@@ -26,10 +26,10 @@ Seine auffälligsten Merkmale:
  * alle möglichkeiten von jekyll.
 
 
- * kann verwendet werden, um ein Blog zu erstellen.
+ * kann verwendet werden, um ein Blog oder eine einfache Website mit nur einem Menü auf der linken Seite zu erstellen.
 
 
- * Mit Skripten können Sie die Seiten automatisch in alle Sprachen der Site übersetzen.
+ * Mit Skripten können Sie die Seiten Ihrer Sprache automatisch in alle Sprachen der Site übersetzen.
 
 
  * Die Übersetzungen werden von Po-Dateien verwaltet:
@@ -57,4 +57,5 @@ Seine auffälligsten Merkmale:
 
 
 
+Um [_jekyll mehrsprachig_](https://github.com/jmichault/jekyll-plurlingva) in Aktion zu sehen, besuchen Sie beispielsweise die Website <https://jmichault.github.io>.
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-18 23:11+0100\n"
+"POT-Creation-Date: 2021-01-24 17:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,37 +17,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "eo"
 msgstr ""
 
 #. type: YAML Front Matter: lang-niv
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
-msgid "fonto"
+msgid "auto"
 msgstr ""
 
 #. type: YAML Front Matter: lang-ref
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "999-pri"
 msgstr ""
 
 #. type: YAML Front Matter: layout
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "page"
 msgstr ""
 
 #. type: YAML Front Matter: title
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "Pri la Aŭtoro"
 msgstr ""
 
 #. type: Plain text
-#: ./pri.md:10
-#, markdown-text, no-wrap
-msgid "Metu kelkajn vortojn de prezento ĉi tie.\n"
+#: pri.md:10
+#, no-wrap
+msgid ""
+"Pasia pri elektroniko ekde la aĝo de 10 jaroj kaj dependigita de komputiloj ekde la aĝo de 18 jaroj.\n"
+"Mi okupiĝis pri malfermfonteco ekde la fino de la 20a jarcento.\n"
 msgstr ""

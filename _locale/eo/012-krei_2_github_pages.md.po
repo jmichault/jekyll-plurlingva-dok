@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:59+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "krei 1 subretejon _\"github page\"_"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Connectez-vous sur github avec votre identifiant.  \n"
 msgstr "Ensalutu github per via salutnomo.  \n"
 
@@ -103,66 +102,70 @@ msgstr "kaj ricevu kopion de via deponejo:\n"
 msgid ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 msgstr ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, fuzzy, no-wrap
 msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
 msgstr "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:34
+#: 012-krei_2_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Changez le paramètre baseurl dans le fichier _\\_config.yml_ , il faut mettre le nom du site au lieu de \"\", pour avoir ceci :  \n"
 msgstr "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, fuzzy, no-wrap
 msgid "    (remplacez _«name»_ par le nom que vous avez choisi)\n"
 msgstr "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, fuzzy, no-wrap
 msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
 msgstr "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, fuzzy, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr "Sendu la ŝanĝojn al via retejo _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -174,10 +177,17 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:54
+#: 012-krei_2_github_pages.md:56
 #, fuzzy, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io/name .\n"
 msgstr "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
+
+#~ msgid ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
+#~ msgstr ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
 
 #, fuzzy
 #~ msgid "créez un site _\"github page\"_ secondaire "

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-20 22:17+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,13 +97,13 @@ msgstr ""
 #. type: Bullet: ' * '
 #: index.md:29
 #, no-wrap
-msgid "peut être utilisé pour créer un blog.\n"
+msgid "peut être utilisé pour créer un blog, ou un site simple avec juste un menu à gauche.\n"
 msgstr ""
 
 #. type: Bullet: ' * '
 #: index.md:29
 #, no-wrap
-msgid "Des scripts vous permettent de traduire automatiquement les pages dans toutes les langues du site.\n"
+msgid "Des scripts vous permettent de traduire automatiquement les pages de votre langue dans toutes les langues du site.\n"
 msgstr ""
 
 #. type: Bullet: ' * '
@@ -152,4 +152,10 @@ msgstr ""
 #: index.md:29
 #, no-wrap
 msgid "elle est très facile à apprendre, quelle que soit la langue de l'élève.\n"
+msgstr ""
+
+#. type: Plain text
+#: index.md:31
+#, no-wrap
+msgid "Pour voir [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en action, rendez-vous par exemple sur le site <https://jmichault.github.io>.\n"
 msgstr ""

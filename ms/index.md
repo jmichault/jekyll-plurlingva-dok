@@ -26,10 +26,10 @@ Ciri-cirinya yang paling menarik:
  * semua kemungkinan jekyll.
 
 
- * boleh digunakan untuk membuat blog.
+ * dapat digunakan untuk membuat blog, atau laman web sederhana dengan hanya menu di sebelah kiri.
 
 
- * Skrip membolehkan anda menerjemahkan halaman ke semua bahasa di laman web secara automatik.
+ * Skrip membolehkan anda menerjemahkan halaman bahasa anda secara automatik ke semua bahasa di laman web.
 
 
  * terjemahan diuruskan oleh fail po:
@@ -57,4 +57,5 @@ Ciri-cirinya yang paling menarik:
 
 
 
+Untuk melihat [_jekyll berbilang bahasa_](https://github.com/jmichault/jekyll-plurlingva) beraksi, pergi ke laman web <https://jmichault.github.io>.
 

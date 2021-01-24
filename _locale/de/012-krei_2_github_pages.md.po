@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:59+0100\n"
+"POT-Creation-Date: 2021-01-24 17:06+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "1 Subnetz erstellen _\"github page\"_"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:9
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ensalutu github per via salutnomo.  \n"
 msgstr "Melden Sie sich mit Ihrem Benutzernamen bei github an.  \n"
 
@@ -103,66 +102,70 @@ msgstr "und erhalten Sie eine Kopie Ihrer Anzahlung:\n"
 msgid ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 msgstr ""
 "git clone https://github.com/username/name\n"
 "cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, fuzzy, no-wrap
 msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 msgstr "Wählen Sie einen Titel und eine Kurzbeschreibung und initialisieren Sie die Site:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:30
+#: 012-krei_2_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:34
+#: 012-krei_2_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "Um den Basisparameter in der Datei zu ändern _\\_config.yml_ , müssen Sie den Namen der Site anstelle von \"\"eingeben, um Folgendes zu erhalten:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:35
+#: 012-krei_2_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, fuzzy, no-wrap
 msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
 msgstr "    (Ersetzen Sie _«name»_ durch den von Ihnen gewählten Namen)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:39
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "Wenn Sie weniger Sprachen als die 15 voreingestellten Sprachen möchten, bearbeiten Sie die Datei _\\_data/languages.yml_ und löschen Sie die entsprechenden Zeilen:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:42
+#: 012-krei_2_github_pages.md:44
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "Senden Sie Änderungen an Ihre Site _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:47
+#: 012-krei_2_github_pages.md:49
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -174,10 +177,17 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:54
+#: 012-krei_2_github_pages.md:56
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "Herzlichen Glückwunsch, Ihre Website wurde erstellt und ist unter https://username.github.io/name zugänglich.\n"
+
+#~ msgid ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
+#~ msgstr ""
+#~ "git clone https://github.com/username/name\n"
+#~ "cd name\n"
 
 #, fuzzy
 #~ msgid "krei retejon _\"github page\"_ "

@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "eo"
+msgstr "zh"
+
+#. type: YAML Front Matter: lang-niv
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "030-aldono-afisxon"
+msgstr "030-aldono-afisxon"
+
+#. type: YAML Front Matter: layout
+#: 030-aldono-afiŝo.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: 030-aldono-afiŝo.md:1
+#, fuzzy, no-wrap
+msgid "Aldonu afiŝon"
+msgstr "新增讯息"
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:11
+#, no-wrap
+#, fuzzy
+msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
+msgstr "要将新帖子添加到您的博客，只需在目录 _xx/_的目录中创建一个文件posti_, où _xx_ 是您的语言的代码。该文件的名称必须以 _YYYY-MM-DD-_开头，其中 _YYYY_ 是年份， _MM_ 是月份， _DD_ 是月份中的一天，其扩展名必须为 _«.md»_ 表示它是文件 _markdown_。\n"
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:13
+#, fuzzy, no-wrap
+msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
+msgstr "该文件必须以 _YAML_ 格式的标头开头，如下所示：\n"
+
+#. type: Fenced code block
+#: 030-aldono-afiŝo.md:14
+#, no-wrap
+msgid ""
+"---\n"
+"lang: xx\n"
+"lang-niv: fonto\n"
+"lang-ref: yyy\n"
+"layout: post\n"
+"title: 'zzz'\n"
+"---\n"
+msgstr ""
+"---\n"
+"lang: xx\n"
+"lang-niv: fonto\n"
+"lang-ref: yyy\n"
+"layout: post\n"
+"title: 'zzz'\n"
+"---\n"
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:25
+#, fuzzy, no-wrap
+msgid "La ŝanĝendaj kampoj estas:\n"
+msgstr "要更改的字段是：\n"
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:27
+#, fuzzy, no-wrap
+msgid "_lang:_ : anstataŭigu _xx_ per la kodo de via lingvo.\n"
+msgstr "_lang:_ ：用您的语言代码替换 _xx_ 。\n"
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:29
+#, fuzzy, no-wrap
+msgid "_lang-ref_ : ĉi tiu kampo permesas identigi la paĝon, anstataŭigi _yyy_ per tio, kion vi volas, la sola limigo estas, ke ĝi devas esti unika en via blogo.\n"
+msgstr "_lang-ref_ ：此字段允许您标识页面，并用所需的内容替换 _yyy_ ，唯一的限制是它在博客中必须是唯一的。\n"
+
+#. type: Bullet: '* '
+#: 030-aldono-afiŝo.md:31
+#, fuzzy, no-wrap
+msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via afiŝo.\n"
+msgstr "_title:_ ：用帖子标题替换 _zzz_ 。\n"
+
+#. type: Plain text
+#: 030-aldono-afiŝo.md:33
+#, fuzzy, no-wrap
+msgid "Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la dosier-esplorilo.\n"
+msgstr "现在添加帖子的内容，当您对文本感到满意时，请使用目录 _scripts_中的脚本 _traduki_ 开始翻译。您可以从命令行或文件浏览器启动它。\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la "
+#~ "dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu "
+#~ "dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ "
+#~ "estas la jaro, _MM_ estas la monato kaj _DD_ estas la tago de la monato.\n"
+#~ msgstr ""
+#~ "要将新帖子添加到您的博客，只需在目录 _xx/_的目录中创建一个文件posti_, où "
+#~ "_xx_ 是您的语言的代码。该文件的名称必须以 _YYYY-MM-DD-_开头，其中 _YYYY_ "
+#~ "是年份， _MM_ 是月份， _DD_ 是月份中的一天。\n"

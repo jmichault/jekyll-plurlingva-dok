@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-18 23:11+0100\n"
+"POT-Creation-Date: 2021-01-24 17:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,40 +17,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "eo"
 msgstr "de"
 
 #. type: YAML Front Matter: lang-niv
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
-msgid "fonto"
+msgid "auto"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "999-pri"
 msgstr "999-pri"
 
 #. type: YAML Front Matter: layout
-#: ./pri.md:1
+#: pri.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./pri.md:1
-#, no-wrap
-#, fuzzy
+#: pri.md:1
+#, fuzzy, no-wrap
 msgid "Pri la Aŭtoro"
 msgstr "Über den Autor"
 
 #. type: Plain text
-#: ./pri.md:10
-#, markdown-text, no-wrap
+#: pri.md:10
+#, no-wrap
 #, fuzzy
-msgid "Metu kelkajn vortojn de prezento ĉi tie.\n"
-msgstr "Geben Sie hier ein paar einleitende Worte.\n"
+msgid ""
+"Pasia pri elektroniko ekde la aĝo de 10 jaroj kaj dependigita de komputiloj ekde la aĝo de 18 jaroj.\n"
+"Mi okupiĝis pri malfermfonteco ekde la fino de la 20a jarcento.\n"
+msgstr "Seit seinem zehnten Lebensjahr leidenschaftlich für Elektronik und seit seinem 18. Lebensjahr computerabhängig.\nIch beschäftige mich seit Ende des 20. Jahrhunderts mit Open Source.\n"
 
+#, fuzzy
+#~ msgid "Metu iujn enkondukajn vortojn ĉi tie.\n"
+#~ msgstr "Fügen Sie hier einige einleitende Worte ein.\n"
+
+#~ msgid "fonto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Metu kelkajn vortojn de prezento ĉi tie.\n"
+#~ msgstr "Geben Sie hier ein paar einleitende Worte.\n"

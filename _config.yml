@@ -2,7 +2,7 @@
 baseurl: "/jekyll-plurlingva-dok"
 auxtoro: Jean Michault
 # ŝanĝu eo al via lingvo se vi ne laboras rekte en esperanto
-laborlingvo: eo
+laborlingvo: fr
 # malkomentigu la sekvan linion por forigi la menuon "ĉiuj afiŝoj"
 ne_afisxoj: "true"
 # malkomentigu la sekvan linion por forigi la menuon "serĉu per google"

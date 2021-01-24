@@ -23,6 +23,8 @@ sudo apt -t buster-backports install po4a
 ```bash
 git clone https://github.com/username/username.github.io
 cd username.github.io
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 एक शीर्षक और संक्षिप्त विवरण चुनें, और साइट को रेट करें:
