@@ -23,6 +23,8 @@ et récupérez une copie de votre dépot :
 ```bash
 git clone https://github.com/username/username.github.io
 cd username.github.io
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
 Choisissez un titre et une description brève, et initialisez le site :

@@ -16,8 +16,8 @@ Ses caractéristiques les plus marquantes:
    * à droite, le contenu principal.
  * adapté aux sites Internet _Github Pages_ .
  * toutes les possibilités de jekyll.
- * peut être utilisé pour créer un blog.
- * Des scripts vous permettent de traduire automatiquement les pages dans toutes les langues du site.
+ * peut être utilisé pour créer un blog, ou un site simple avec juste un menu à gauche.
+ * Des scripts vous permettent de traduire automatiquement les pages de votre langue dans toutes les langues du site.
  * les traductions sont gérées par des fichiers po:
    * si vous modifiez ou ajoutez un paragraphe sur une page, seul celui-ci a besoin d'être retraduit.
    * vous pouvez envoyer ce fichier à un traducteur humain pour correction.
@@ -27,4 +27,5 @@ Ses caractéristiques les plus marquantes:
    * c'est une langue très précise, générant moins d'ambiguïtés que l'anglais.
    * elle est très facile à apprendre, quelle que soit la langue de l'élève.
 
+Pour voir [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en action, rendez-vous par exemple sur le site <https://jmichault.github.io>.
 
