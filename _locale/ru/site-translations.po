@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-25 17:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Hash Value - Key: Funkciigita
+#: >fr
+#, fuzzy, no-wrap
+msgid "Propulsé par"
+msgstr "Питаться от"
+
+#. type: Hash Value - Key: cxiujAfisxoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "Tous les messages"
+msgstr "Все сообщения"
+
+#. type: Hash Value - Key: elektuLingvon
+#: >fr
+#, fuzzy, no-wrap
+msgid "Choisissez votre langue"
+msgstr "Выберите ваш язык"
+
+#. type: Hash Value - Key: malsamaLingvo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Lisez cette page dans une autre langue"
+msgstr "Прочтите эту страницу на другом языке"
+
+#. type: Hash Value - Key: priskribo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Squelette pour créer un site Web statique multilingue avec jekyll."
+msgstr "Скелет для создания многоязычного статического веб-сайта с помощью jekyll."
+
+#. type: Hash Value - Key: rajtoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "licence"
+msgstr "лицензия"
+
+#. type: Hash Value - Key: rigardiEn
+#: >fr
+#, fuzzy, no-wrap
+msgid "Regarder dans"
+msgstr "Смотреть в"
+
+#. type: Hash Value - Key: rilatajAfisxoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "Articles Similaires"
+msgstr "Похожие сообщения"
+
+#. type: Hash Value - Key: serĉi
+#: >fr
+#, fuzzy, no-wrap
+msgid "Recherche Google."
+msgstr "ÐÑÐºÐ°ÑÑ Ð² Google."
+
+#. type: Hash Value - Key: titolo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Jekyll-Plurlingva"
+msgstr "Джекилл-Плюрлингва"
+
+#. type: Hash Value - Key: tradukoAverto
+#: >fr
+#, fuzzy, no-wrap
+msgid ""
+"Attention : cette page a été traduite automatiquement. Si vous le pouvez, "
+"vous devriez la lire dans l'une de ces langues :"
+msgstr ""
+"Обратите внимание: эта страница была переведена автоматически. Если можете, "
+"прочтите его на одном из этих языков:"

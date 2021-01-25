@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-25 17:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Hash Value - Key: Funkciigita
+#: >fr
+#, fuzzy, no-wrap
+msgid "Propulsé par"
+msgstr "Desarrollado por"
+
+#. type: Hash Value - Key: cxiujAfisxoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "Tous les messages"
+msgstr "Todos los mensajes"
+
+#. type: Hash Value - Key: elektuLingvon
+#: >fr
+#, fuzzy, no-wrap
+msgid "Choisissez votre langue"
+msgstr "Elige tu idioma"
+
+#. type: Hash Value - Key: malsamaLingvo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Lisez cette page dans une autre langue"
+msgstr "Lea esta página en otro idioma"
+
+#. type: Hash Value - Key: priskribo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Squelette pour créer un site Web statique multilingue avec jekyll."
+msgstr "Esqueleto para crear un sitio web estático multilingüe con jekyll."
+
+#. type: Hash Value - Key: rajtoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "licence"
+msgstr "licencia"
+
+#. type: Hash Value - Key: rigardiEn
+#: >fr
+#, fuzzy, no-wrap
+msgid "Regarder dans"
+msgstr "Ver en"
+
+#. type: Hash Value - Key: rilatajAfisxoj
+#: >fr
+#, fuzzy, no-wrap
+msgid "Articles Similaires"
+msgstr "Artículos Relacionados"
+
+#. type: Hash Value - Key: serĉi
+#: >fr
+#, fuzzy, no-wrap
+msgid "Recherche Google."
+msgstr "Busca en Google."
+
+#. type: Hash Value - Key: titolo
+#: >fr
+#, fuzzy, no-wrap
+msgid "Jekyll-Plurlingva"
+msgstr "Jekyll-Plurlingva"
+
+#. type: Hash Value - Key: tradukoAverto
+#: >fr
+#, fuzzy, no-wrap
+msgid ""
+"Attention : cette page a été traduite automatiquement. Si vous le pouvez, "
+"vous devriez la lire dans l'une de ces langues :"
+msgstr ""
+"Nota: esta página ha sido traducida automáticamente. Si puede, debe leerlo "
+"en uno de estos idiomas:"
