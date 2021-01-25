@@ -1,11 +1,6 @@
 # Setup
-<<<<<<< HEAD
 baseurl: "/jekyll-plurlingva-dok"
 auxtoro: Jean Michault
-=======
-baseurl:          ""
-auxtoro: Auxtoro
->>>>>>> 9171885853620944b06ef5def55f9fd7e60aa472
 # ŝanĝu eo al via lingvo se vi ne laboras rekte en esperanto
 laborlingvo: fr
 # malkomentigu la sekvan linion por forigi la menuon "ĉiuj afiŝoj"
