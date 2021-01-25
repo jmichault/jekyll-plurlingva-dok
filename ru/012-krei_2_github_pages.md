@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-Выберите заголовок и краткое описание и оцените сайт:
+Выберите свой рабочий язык (, двухбуквенный код), заголовок и краткое описание, и инициализируйте сайт:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 Чтобы изменить основной параметр в файле _\_config.yml_ , вы должны указать название сайта вместо "", чтобы получилось:  

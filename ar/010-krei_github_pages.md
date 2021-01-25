@@ -27,9 +27,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-اختر عنوانًا ووصفًا موجزًا ​​، وقم بتهيئة الموقع:
+اختر لغة العمل الخاصة بك (الرمز المكون من حرفين)والعنوان والوصف المختصر ، وقم بتهيئة الموقع:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 إذا كنت تريد لغات أقل من اللغات الـ 15 المعدة مسبقًا ، فقم بتحرير الملف _\_data/languages.yml_ واحذف الأسطر المقابلة:

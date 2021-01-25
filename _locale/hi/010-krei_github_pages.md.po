@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:06+0100\n"
+"POT-Creation-Date: 2021-01-25 17:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -108,15 +108,16 @@ msgstr ""
 
 #. type: Plain text
 #: 010-krei_github_pages.md:31
-#, fuzzy, no-wrap
-msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
-msgstr "एक शीर्षक और संक्षिप्त विवरण चुनें, और साइट को रेट करें:\n"
+#, no-wrap
+#, fuzzy
+msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
+msgstr "अपनी कामकाजी भाषा (दो अक्षर वाला कोड), शीर्षक और संक्षिप्त विवरण चुनें, और साइट को इनिशियलाइज़ करें:\n"
 
 #. type: Fenced code block (bash)
 #: 010-krei_github_pages.md:31
 #, no-wrap
-msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
-msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
+msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
+msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:36
@@ -153,6 +154,13 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "बधाई हो, आपकी साइट बनाई गई है, यह https://username.github.io पर सुलभ है।\n"
+
+#, fuzzy
+#~ msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
+#~ msgstr "एक शीर्षक और संक्षिप्त विवरण चुनें, और साइट को रेट करें:\n"
+
+#~ msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
+#~ msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 
 #~ msgid ""
 #~ "git clone https://github.com/username/username.github.io\n"

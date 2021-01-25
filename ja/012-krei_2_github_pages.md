@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-タイトルと簡単な説明を選択し、サイトを評価してください：
+作業言語 (2文字コード)、タイトル、簡単な説明を選択し、サイトを初期化します：
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 ファイルの基本パラメータ _\_config.yml_ を変更するには、 ""の代わりにサイトの名前を入力して、次のようにする必要があります：  

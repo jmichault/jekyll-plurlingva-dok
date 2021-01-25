@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-Pilih tajuk dan penerangan ringkas, dan nilaikan laman web ini:
+Pilih bahasa kerja anda (kod dua huruf), tajuk dan penerangan ringkas, dan mulakan laman web ini:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 Untuk menukar parameter asas dalam fail _\_config.yml_ , anda mesti meletakkan nama laman web dan bukannya "", untuk memiliki ini:  

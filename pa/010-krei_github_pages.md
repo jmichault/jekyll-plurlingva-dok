@@ -27,9 +27,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-ਸਿਰਲੇਖ ਅਤੇ ਛੋਟਾ ਵੇਰਵਾ ਚੁਣੋ, ਅਤੇ ਸਾਈਟ ਨੂੰ ਦਰਜਾ ਦਿਓ:
+ਆਪਣੀ ਕਾਰਜਸ਼ੀਲ ਭਾਸ਼ਾ (ਦੋ-ਅੱਖਰ ਕੋਡ), ਸਿਰਲੇਖ ਅਤੇ ਸੰਖੇਪ ਵੇਰਵਾ ਚੁਣੋ ਅਤੇ ਸਾਈਟ ਨੂੰ ਅਰੰਭ ਕਰੋ:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 ਜੇ ਤੁਸੀਂ 15 ਪ੍ਰੀਸੈੱਟ ਭਾਸ਼ਾਵਾਂ ਤੋਂ ਘੱਟ ਭਾਸ਼ਾਵਾਂ ਚਾਹੁੰਦੇ ਹੋ, ਫਾਈਲ ਨੂੰ ਸੋਧੋ _\_data/languages.yml_ ਅਤੇ ਸੰਬੰਧਿਤ ਲਾਈਨਾਂ ਨੂੰ ਮਿਟਾਓ:

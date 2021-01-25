@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:
+Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 Ŝanĝu la bazan parametron en la dosiero _\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ "", por havi ĉi tion:  

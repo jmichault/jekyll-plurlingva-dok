@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-Escolha um título e uma breve descrição e avalie o site:
+Escolha seu idioma de trabalho (, código de duas letras), título e descrição resumida, e inicialize o site:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 Para alterar o parâmetro básico no arquivo _\_config.yml_ , deve-se colocar o nome do site ao invés de "", para ter este:  

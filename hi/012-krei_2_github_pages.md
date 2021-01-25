@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-एक शीर्षक और संक्षिप्त विवरण चुनें, और साइट को रेट करें:
+अपनी कामकाजी भाषा (दो अक्षर वाला कोड), शीर्षक और संक्षिप्त विवरण चुनें, और साइट को इनिशियलाइज़ करें:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 फ़ाइल _\_config.yml_ में मूल पैरामीटर को बदलने के लिए, आपको साइट का नाम ""के स्थान पर रखना होगा, यह करने के लिए:  

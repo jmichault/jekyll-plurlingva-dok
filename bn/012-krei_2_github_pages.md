@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-একটি শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটিকে রেট দিন:
+আপনার কার্যক্ষম ভাষা (দ্বি-বর্ণ কোড), শিরোনাম এবং সংক্ষিপ্ত বিবরণ চয়ন করুন এবং সাইটটি আরম্ভ করুন:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 ফাইলের (° 1 file) প্রাথমিক প্যারামিটারটি পরিবর্তন করতে আপনার অবশ্যই সাইটের নাম অবশ্যই ""রাখতে হবে:  

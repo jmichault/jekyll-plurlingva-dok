@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-ਸਿਰਲੇਖ ਅਤੇ ਛੋਟਾ ਵੇਰਵਾ ਚੁਣੋ, ਅਤੇ ਸਾਈਟ ਨੂੰ ਦਰਜਾ ਦਿਓ:
+ਆਪਣੀ ਕਾਰਜਸ਼ੀਲ ਭਾਸ਼ਾ (ਦੋ-ਅੱਖਰ ਕੋਡ), ਸਿਰਲੇਖ ਅਤੇ ਸੰਖੇਪ ਵੇਰਵਾ ਚੁਣੋ ਅਤੇ ਸਾਈਟ ਨੂੰ ਅਰੰਭ ਕਰੋ:
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 ਫਾਈਲ _\_config.yml_ ਵਿੱਚ ਮੁ paraਲੇ ਪੈਰਾਮੀਟਰ ਨੂੰ ਬਦਲਣ ਲਈ, ਤੁਹਾਨੂੰ ਇਹ ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ""ਦੀ ਬਜਾਏ ਸਾਈਟ ਦਾ ਨਾਮ ਦੇਣਾ ਪਵੇਗਾ:  

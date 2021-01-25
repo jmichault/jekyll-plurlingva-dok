@@ -28,9 +28,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-选择标题和简短描述，并对网站评分：
+选择您的工作语言 (两字母代码)，标题和简短描述，然后初始化站点：
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 要更改文件中的基本参数 _\_config.yml_ ，必须添加站点名称，而不是 ""，以便具有以下名称：  

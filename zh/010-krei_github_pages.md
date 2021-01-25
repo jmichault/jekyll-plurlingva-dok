@@ -27,9 +27,9 @@ git config pull.rebase false
 git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
 ```
 
-选择标题和简短描述，并对网站评分：
+选择您的工作语言 (两字母代码)，标题和简短描述，然后初始化站点：
 ```bash
-_scripts/komenci "Via titolo" "Via priskribo"
+_scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
 如果您想要的语言少于15种预定义的语言，请编辑文件 _\_data/languages.yml_ 并删除相应的行：
