@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:06+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,15 +96,13 @@ msgstr "tutte le possibilità di jekyll.\n"
 
 #. type: Bullet: ' * '
 #: index.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
 msgstr "può essere utilizzato per creare un blog o un semplice sito web con solo un menu a sinistra.\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
 msgstr "Gli script ti consentono di tradurre automaticamente le pagine della tua lingua in tutte le lingue del sito web.\n"
 
@@ -158,8 +156,7 @@ msgstr "è molto facile da imparare, qualunque sia la lingua dello studente.\n"
 
 #. type: Plain text
 #: index.md:46
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
 msgstr "Per vedere [_jekyll multilingue_](https://github.com/jmichault/jekyll-plurlingva) in azione, vai ad esempio sul sito web <https://jmichault.github.io>.\n"
 
@@ -168,8 +165,12 @@ msgstr "Per vedere [_jekyll multilingue_](https://github.com/jmichault/jekyll-pl
 #~ msgstr "può essere utilizzato per creare un blog.\n"
 
 #, fuzzy
-#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-#~ msgstr "Gli script ti consentono di tradurre automaticamente le pagine in tutte le lingue del sito.\n"
+#~ msgid ""
+#~ "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ msgstr ""
+#~ "Gli script ti consentono di tradurre automaticamente le pagine in tutte "
+#~ "le lingue del sito.\n"
 
 #, fuzzy
 #~ msgid ""

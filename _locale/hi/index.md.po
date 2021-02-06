@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:06+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,15 +96,13 @@ msgstr "जेकिल की सभी संभावनाएं।\n"
 
 #. type: Bullet: ' * '
 #: index.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
 msgstr "एक ब्लॉग बनाने के लिए इस्तेमाल किया जा सकता है, या बाईं ओर एक मेनू के साथ एक साधारण वेबसाइट।\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
 msgstr "लिपियों से आप वेबसाइट के सभी भाषाओं में स्वचालित रूप से अपनी भाषा के पृष्ठों का अनुवाद कर सकते हैं।\n"
 
@@ -158,8 +156,7 @@ msgstr "यह सीखना बहुत आसान है, जो भी �
 
 #. type: Plain text
 #: index.md:46
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
 msgstr "क्रिया में [_जेकल बहुभाषी_](https://github.com/jmichault/jekyll-plurlingva) देखने के लिए, उदाहरण के लिए वेबसाइट <https://jmichault.github.io>पर जाएँ।\n"
 
@@ -168,8 +165,11 @@ msgstr "क्रिया में [_जेकल बहुभाषी_](http
 #~ msgstr "एक ब्लॉग बनाने के लिए इस्तेमाल किया जा सकता है।\n"
 
 #, fuzzy
-#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-#~ msgstr "लिपियों से आप साइट के सभी भाषाओं के पृष्ठों का स्वचालित रूप से अनुवाद कर सकते हैं।\n"
+#~ msgid ""
+#~ "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ msgstr ""
+#~ "लिपियों से आप साइट के सभी भाषाओं के पृष्ठों का स्वचालित रूप से अनुवाद कर सकते हैं।\n"
 
 #, fuzzy
 #~ msgid ""

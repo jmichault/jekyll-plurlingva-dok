@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-25 17:13+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,8 +112,7 @@ msgstr ""
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:32
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "Pilih bahasa kerja anda (kod dua huruf), tajuk dan penerangan ringkas, dan mulakan laman web ini:\n"
 
@@ -184,7 +183,8 @@ msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.gi
 msgstr "Tahniah, laman web anda telah dibuat, ia boleh diakses di https://username.github.io/name.\n"
 
 #, fuzzy
-#~ msgid "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
+#~ msgid ""
+#~ "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 #~ msgstr "Pilih tajuk dan penerangan ringkas, dan nilaikan laman web ini:\n"
 
 #~ msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"

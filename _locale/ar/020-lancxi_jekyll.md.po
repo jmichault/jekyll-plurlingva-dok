@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:56+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,33 +42,33 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: 020-lancxi_jekyll.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Lanĉu jekyll loke"
 msgstr "إطلاق jekyll محليا"
 
 #. type: Plain text
 #: 020-lancxi_jekyll.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
 "{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
 "Se vi sekvis la instrukciojn de [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
 "aŭ [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), vi havas lokan kopion de via deponejo.\n"
-msgstr "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\nإذا اتبعت تعليمات [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\nأو [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )، لديك نسخة محلية من المستودع الخاص بك. (° 46 درجة)\n"
+msgstr ""
+"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"إذا اتبعت تعليمات [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
+"أو [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )، لديك نسخة محلية من المستودع الخاص بك. (° 46 درجة)\n"
 
 #. type: Bullet: '* '
 #: 020-lancxi_jekyll.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Malfermu fina stacion kaj iru al la dosierujo, kie vi klonis vian deponejon.\n"
 msgstr "افتح Terminal وانتقل إلى المجلد حيث نسخت المستودع الخاص بك.\n"
 
 #. type: Bullet: '* '
 #: 020-lancxi_jekyll.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Preparu jekyll:\n"
 msgstr "إعداد jekyll:\n"
 
@@ -80,8 +80,7 @@ msgstr "bundle install\n"
 
 #. type: Bullet: '* '
 #: 020-lancxi_jekyll.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Lanĉi jekyll:\n"
 msgstr "إطلاق jekyll:\n"
 
@@ -93,8 +92,6 @@ msgstr "bundle exec jekyll serve\n"
 
 #. type: Plain text
 #: 020-lancxi_jekyll.md:32
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Nun vi povas provi vian retejon en via komputilo ĉe la adreso indikita de la antaŭa komando (http: // localhost: 4000 se vi ne enigis la opcion _baseurl_).\n"
 msgstr "يمكنك الآن اختبار موقعك على جهاز الكمبيوتر الخاص بك على العنوان المشار إليه بواسطة الأمر السابق (http: // localhost: 4000 إذا لم تدخل الخيار _baseurl_).\n"
-

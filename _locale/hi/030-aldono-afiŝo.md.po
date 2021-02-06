@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "एक पोस्ट जोड़ें"
 
 #. type: Plain text
 #: 030-aldono-afiŝo.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
 msgstr "अपने ब्लॉग में एक नया पोस्ट जोड़ने के लिए, बस डायरेक्टरी में एक फाइल बनाएं _xx/_पोस्टसी_, où _xx_ आपकी भाषा का कोड है। इस फ़ाइल का नाम _YYYY-MM-DD-_से शुरू होना चाहिए, जहां _YYYY_ वर्ष है, _MM_ महीना है और _DD_ महीने का दिन है, इसका विस्तारहोना चाहिए 14 °) यह दिखाने के लिए कि यह एक फ़ाइल _markdown_है।\n"
 

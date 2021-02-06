@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "投稿を追加する"
 
 #. type: Plain text
 #: 030-aldono-afiŝo.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
 msgstr "ブログに新しい投稿を追加するには、ディレクトリ _xx/_にファイルを作成するだけです。postsi_, où _xx_ は言語のコードです。このファイルの名前は _YYYY-MM-DD-_で始まる必要があります。ここで、 _YYYY_ は年、 _MM_ は月、 _DD_ は日であり、拡張子は _«.md»_ ファイルであることを示します _markdown_。\n"
 

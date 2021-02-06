@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-21 21:56+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,14 +48,17 @@ msgstr "jekyllをローカルで起動する"
 
 #. type: Plain text
 #: 020-lancxi_jekyll.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid ""
 "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
 "{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
 "Se vi sekvis la instrukciojn de [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
 "aŭ [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), vi havas lokan kopion de via deponejo.\n"
-msgstr "{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\nまたは [ の指示に従った場合°）{{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )、リポジトリのローカルコピーがあります。\n"
+msgstr ""
+"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+"{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
+" [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
+"または [ の指示に従った場合°）{{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )、リポジトリのローカルコピーがあります。\n"
 
 #. type: Bullet: '* '
 #: 020-lancxi_jekyll.md:15

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:06+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,15 +96,13 @@ msgstr "ਜੈਕੀਲ ਦੀਆਂ ਸਾਰੀਆਂ ਸੰਭਾਵਨਾਵ
 
 #. type: Bullet: ' * '
 #: index.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
 msgstr "ਖੱਬੇ ਪਾਸੇ ਸਿਰਫ ਇੱਕ ਮੀਨੂ ਵਾਲੀ ਇੱਕ ਬਲੌਗ ਜਾਂ ਇੱਕ ਸਧਾਰਣ ਵੈਬਸਾਈਟ ਬਣਾਉਣ ਲਈ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
 msgstr "ਸਕ੍ਰਿਪਟਾਂ ਤੁਹਾਨੂੰ ਆਪਣੀ ਭਾਸ਼ਾ ਦੇ ਪੰਨਿਆਂ ਨੂੰ ਵੈਬਸਾਈਟ ਦੀਆਂ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਕਰਨ ਦਿੰਦੀਆਂ ਹਨ.\n"
 
@@ -158,8 +156,7 @@ msgstr "ਇਹ ਸਿੱਖਣਾ ਬਹੁਤ ਸੌਖਾ ਹੈ, ਸਿੱਖ
 
 #. type: Plain text
 #: index.md:46
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
 msgstr " [_ਜੈੱਕਲ ਬਹੁ-ਭਾਸ਼ਾਈ_](https://github.com/jmichault/jekyll-plurlingva) ਨੂੰ ਕਾਰਜ ਵਿੱਚ ਵੇਖਣ ਲਈ, ਉਦਾਹਰਣ ਲਈ ਵੈਬਸਾਈਟ <https://jmichault.github.io>'ਤੇ ਜਾਓ.\n"
 
@@ -168,8 +165,12 @@ msgstr " [_ਜੈੱਕਲ ਬਹੁ-ਭਾਸ਼ਾਈ_](https://github.com/jmi
 #~ msgstr "ਇੱਕ ਬਲਾੱਗ ਬਣਾਉਣ ਲਈ ਵਰਤਿਆ ਜਾ ਸਕਦਾ ਹੈ.\n"
 
 #, fuzzy
-#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-#~ msgstr "ਸਕ੍ਰਿਪਟਾਂ ਤੁਹਾਨੂੰ ਪੰਨਿਆਂ ਨੂੰ ਸਾਈਟਾਂ ਦੀਆਂ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਕਰਨ ਦਿੰਦੀਆਂ ਹਨ.\n"
+#~ msgid ""
+#~ "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ msgstr ""
+#~ "ਸਕ੍ਰਿਪਟਾਂ ਤੁਹਾਨੂੰ ਪੰਨਿਆਂ ਨੂੰ ਸਾਈਟਾਂ ਦੀਆਂ ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਵਿਚ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਕਰਨ ਦਿੰਦੀਆਂ "
+#~ "ਹਨ.\n"
 
 #, fuzzy
 #~ msgid ""

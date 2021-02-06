@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:06+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,15 +96,13 @@ msgstr "jekyllのすべての可能性。\n"
 
 #. type: Bullet: ' * '
 #: index.md:25
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "uzeblas por krei blogon, aŭ simplan retejon kun nur menuo maldekstre.\n"
 msgstr "ブログ、または左側にメニューがあるだけの簡単なWebサイトを作成するために使用できます。\n"
 
 #. type: Bullet: ' * '
 #: index.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn de via lingvo al ĉiuj lingvoj de la retejo.\n"
 msgstr "スクリプトを使用すると、自分の言語のページをWebサイトのすべての言語に自動的に翻訳できます。\n"
 
@@ -158,8 +156,7 @@ msgstr "学習者の言語に関係なく、学ぶのはとても簡単です。
 
 #. type: Plain text
 #: index.md:46
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por vidi [_jekyll-plurlingva_](https://github.com/jmichault/jekyll-plurlingva) en ago, iru ekzemple al la retejo <https://jmichault.github.io>.\n"
 msgstr " [_jekyll多言語_](https://github.com/jmichault/jekyll-plurlingva) の動作を確認するには、たとえばWebサイト <https://jmichault.github.io>にアクセスします。\n"
 
@@ -168,8 +165,12 @@ msgstr " [_jekyll多言語_](https://github.com/jmichault/jekyll-plurlingva) の
 #~ msgstr "ブログの作成に使用できます。\n"
 
 #, fuzzy
-#~ msgid "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la retejo.\n"
-#~ msgstr "スクリプトを使用すると、ページをサイトのすべての言語に自動的に翻訳できます。\n"
+#~ msgid ""
+#~ "Skriptoj permesas vin aŭtomate traduki la paĝojn al ĉiuj lingvoj de la "
+#~ "retejo.\n"
+#~ msgstr ""
+#~ "スクリプトを使用すると、ページをサイトのすべての言語に自動的に翻訳できま"
+#~ "す。\n"
 
 #, fuzzy
 #~ msgid ""

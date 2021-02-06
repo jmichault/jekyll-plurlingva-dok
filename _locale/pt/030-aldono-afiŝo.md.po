@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:21+0100\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,8 +48,7 @@ msgstr "Adicionar uma postagem"
 
 #. type: Plain text
 #: 030-aldono-afiŝo.md:11
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
 msgstr "Para adicionar uma nova postagem ao seu blog, basta criar um arquivo no diretório _xx/_postsi_, où _xx_ é o código do seu idioma. Este arquivo deve ter um nome que começa com _YYYY-MM-DD-_, onde _YYYY_ é o ano, _MM_ é o mês e _DD_ é o dia do mês, sua extensão deve ser _«.md»_ para mostrar que é um arquivo _markdown_.\n"
 

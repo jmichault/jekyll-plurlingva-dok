@@ -1,180 +1,180 @@
 ar:
-  titolo: "جيكل بلورلينجفا"
-  priskribo: "هيكل عظمي لإنشاء موقع ويب ثابت متعدد اللغات باستخدام jekyll."
-  elektuLingvon: "اختر لغتك"
-  cxiujAfisxoj: "جميع المشاركات"
-  rilatajAfisxoj: "المنشورات ذات الصلة"
-  malsamaLingvo: "اقرأ هذه الصفحة بلغة مختلفة"
-  tradukoAverto: "يرجى ملاحظة: هذه الصفحة تمت ترجمتها تلقائيًا. إذا استطعت ، يجب أن تقرأها بإحدى اللغات التالية:"
-  rigardiEn: "ينظر في"
-  rajtoj: "رخصة"
-  serĉi: "ابحث في جوجل."
-  Funkciigita: "ﻢﺸﻐﻟ ﺏﻭﺎﺴﻃﺓ"
+  Funkciigita: 'مشغل بواسطة'
+  cxiujAfisxoj: 'جميع المشاركات'
+  elektuLingvon: 'اختر لغتك'
+  malsamaLingvo: 'اقرأ هذه الصفحة بلغة أخرى'
+  priskribo: 'هيكل عظمي لإنشاء موقع ويب ثابت متعدد اللغات باستخدام jekyll.'
+  rajtoj: 'الرخصة <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="رخصة المشاع الإبداعي" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'إنظر في'
+  rilatajAfisxoj: 'المنشورات ذات الصلة'
+  sercxi: 'ابحث في جوجل.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'يرجى ملاحظة: هذه الصفحة تمت ترجمتها تلقائيًا. إذا استطعت ، يجب أن تقرأها بإحدى اللغات التالية:'
 bn:
-  titolo: "জ্যাকিল-প্লুরলিংভা"
-  priskribo: "জেকিল সহ বহুভাষিক স্থিত ওয়েবসাইট তৈরি করতে কঙ্কাল।"
-  elektuLingvon: "আপনার ভাষা নির্বাচন করুন"
-  cxiujAfisxoj: "সমস্ত পোস্ট"
-  rilatajAfisxoj: "সম্পর্কিত পোস্ট"
-  malsamaLingvo: "এই পৃষ্ঠাটি একটি ভিন্ন ভাষায় পড়ুন"
-  tradukoAverto: "দয়া করে নোট করুন: এই পৃষ্ঠাটি স্বয়ংক্রিয়ভাবে অনুবাদ করা হয়েছে। যদি আপনি পারেন তবে আপনার এটির একটির ভাষায় এটি পড়তে হবে:"
-  rigardiEn: "ভিতরে তাকান"
-  rajtoj: "লাইসেন্স "
-  serĉi: "গুগল অনুসন্ধান করুন।"
-  Funkciigita: "দ্বারা চালিত"
+  Funkciigita: 'দ্বারা চালিত'
+  cxiujAfisxoj: 'সমস্ত পোস্ট'
+  elektuLingvon: 'আপনার ভাষা নির্বাচন করুন'
+  malsamaLingvo: 'এই পৃষ্ঠাটি অন্য ভাষায় পড়ুন'
+  priskribo: 'জেকিল সহ বহুভাষিক স্থিত ওয়েবসাইট তৈরি করতে কঙ্কাল।'
+  rajtoj: 'লাইসেন্স <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img Alt ="ক্রিয়েটিভ কমন্স লাইসেন্স" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ এ>'
+  rigardiEn: 'ভিতরে তাকান'
+  rilatajAfisxoj: 'সম্পর্কিত পোস্ট'
+  sercxi: 'গুগল অনুসন্ধান করুন।'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'দয়া করে নোট করুন: এই পৃষ্ঠাটি স্বয়ংক্রিয়ভাবে অনুবাদ করা হয়েছে। যদি আপনি পারেন তবে আপনার এটির একটির ভাষায় এটি পড়তে হবে:'
 de:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Skelett zum Erstellen einer mehrsprachigen statischen Website mit Jekyll."
-  elektuLingvon: "Wähle deine Sprache"
-  cxiujAfisxoj: "Alle Beiträge"
-  rilatajAfisxoj: "zusammenhängende Posts"
-  malsamaLingvo: "Lesen Sie diese Seite in einer anderen Sprache"
-  tradukoAverto: "Bitte beachten Sie: Diese Seite wurde automatisch übersetzt. Wenn Sie können, sollten Sie es in einer dieser Sprachen lesen:"
-  rigardiEn: "Nachsehen in"
-  rajtoj: "Lizenz"
-  serĉi: "Google suchen."
-  Funkciigita: "Unterstützt von"
+  Funkciigita: 'Unterstützt von'
+  cxiujAfisxoj: 'Alle Beiträge'
+  elektuLingvon: 'Wähle deine Sprache'
+  malsamaLingvo: 'Lesen Sie diese Seite in einer anderen Sprache'
+  priskribo: 'Skelett zum Erstellen einer mehrsprachigen statischen Website mit Jekyll.'
+  rajtoj: 'Lizenz <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Creative Commons Lizenz" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Blick in'
+  rilatajAfisxoj: 'zusammenhängende Posts'
+  sercxi: 'Google suchen.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Bitte beachten Sie: Diese Seite wurde automatisch übersetzt. Wenn Sie können, sollten Sie es in einer dieser Sprachen lesen:'
 en:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Skeleton to create a multilingual static website with jekyll."
-  elektuLingvon: "Choose your language"
-  cxiujAfisxoj: "All Posts"
-  rilatajAfisxoj: "Related Posts"
-  malsamaLingvo: "Read this page in a different language"
-  tradukoAverto: "Please note: this page has been translated automatically. If you can, you should read it in one of these languages:"
-  rigardiEn: "View in"
-  rajtoj: "licence"
-  serĉi: "Search with Google."
-  Funkciigita: "Powered by"
+  Funkciigita: 'Powered by'
+  cxiujAfisxoj: 'All Posts'
+  elektuLingvon: 'Choose your language'
+  malsamaLingvo: 'Read this page in another language'
+  priskribo: 'Skeleton to create a multilingual static website with jekyll.'
+  rajtoj: 'License <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Creative Commons License" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Look in'
+  rilatajAfisxoj: 'Related Posts'
+  sercxi: 'Search Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Please note: this page has been translated automatically. If you can, you should read it in one of these languages:'
 eo:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Skeleto por krei plurlingvan statikan retejon kun jekyll."
-  elektuLingvon:  "Elektu vian lingvon"
-  cxiujAfisxoj:  "Ĉiuj Afiŝoj"
-  rilatajAfisxoj:  "Rilataj Afiŝoj"
-  malsamaLingvo:  "Legu ĉi tiun paĝon en malsama lingvo"
-  tradukoAverto:  "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
-  rigardiEn:  "Rigardi en"
-  rajtoj:  "permesilo"
-  serĉi: "Serĉu per Google"
-  Funkciigita:  "Funkciigita de"
+  Funkciigita: 'Funkciigita de'
+  cxiujAfisxoj: 'Ĉiuj Afiŝoj'
+  elektuLingvon: 'Elektu vian lingvon'
+  malsamaLingvo: 'Legu ĉi tiun paĝon en alia lingvo'
+  priskribo: 'Skeleto por krei plurlingvan statikan retejon kun jekyll.'
+  rajtoj: 'Permesilo <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></a>'
+  rigardiEn: 'Rigardi en'
+  rilatajAfisxoj: 'Rilataj Afiŝoj'
+  sercxi: 'Serĉu per Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:'
 es:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Esqueleto para crear un sitio web estático multilingüe con jekyll."
-  elektuLingvon: "Elige tu idioma"
-  cxiujAfisxoj: "Todos los mensajes"
-  rilatajAfisxoj: "Artículos Relacionados"
-  malsamaLingvo: "Lea esta página en otro idioma"
-  tradukoAverto: "Nota: esta página ha sido traducida automáticamente. Si puede, debe leerlo en uno de estos idiomas:"
-  rigardiEn: "Ver en"
-  rajtoj: "licencia"
-  serĉi: "Busca en Google."
-  Funkciigita: "Desarrollado por"
+  Funkciigita: 'Energizado por'
+  cxiujAfisxoj: 'Todos los mensajes'
+  elektuLingvon: 'Elige tu idioma'
+  malsamaLingvo: 'Leer esta página en otro idioma'
+  priskribo: 'Esqueleto para crear un sitio web estático multilingüe con jekyll.'
+  rajtoj: 'Licencia <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Licencia Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Pase a ver'
+  rilatajAfisxoj: 'Artículos Relacionados'
+  sercxi: 'Busca en Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Nota: esta página ha sido traducida automáticamente. Si puede, debe leerlo en uno de estos idiomas:'
 fr:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Squelette pour créer un site Web statique multilingue avec jekyll."
-  elektuLingvon: "Choisissez votre langue"
-  cxiujAfisxoj: "Tous les messages"
-  rilatajAfisxoj: "Articles Similaires"
-  malsamaLingvo: "Lisez cette page dans une autre langue"
-  tradukoAverto: "Attention : cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues :"
-  rigardiEn: "Regarder dans"
-  rajtoj: "licence"
-  serĉi: "Recherche Google."
-  Funkciigita: "Propulsé par"
+  Funkciigita: 'Propulsé par'
+  cxiujAfisxoj: 'Tous les messages'
+  elektuLingvon: 'Choisissez votre langue'
+  malsamaLingvo: 'Lire cette page dans une autre langue'
+  priskribo: 'Squelette pour créer un site Web statique multilingue avec jekyll.'
+  rajtoj: 'Licence <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Licence Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Regarder dans'
+  rilatajAfisxoj: 'Articles Similaires'
+  sercxi: 'Recherche google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: "Attention: cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues:"
 hi:
-  titolo: "जेकिल-प्लुरलिंग्वा"
-  priskribo: "जेकेल के साथ एक बहुभाषी स्थिर वेबसाइट बनाने के लिए कंकाल।"
-  elektuLingvon: "अपनी भाषा चुनिए"
-  cxiujAfisxoj: "सभी पद"
-  rilatajAfisxoj: "संबंधित पोस्ट"
-  malsamaLingvo: "इस पृष्ठ को एक अलग भाषा में पढ़ें"
-  tradukoAverto: "कृपया ध्यान दें: इस पृष्ठ का स्वचालित रूप से अनुवाद किया गया है। यदि आप कर सकते हैं, तो आपको इसे इन भाषाओं में से एक में पढ़ना चाहिए:"
-  rigardiEn: "यहां देखो"
-  rajtoj: "लाइसेंस"
-  serĉi: "Google पर खोजें।"
-  Funkciigita: "द्वारा संचालित"
-et:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Scheletro per creare un sito web statico multilingue con jekyll."
-  elektuLingvon: "scegli la tua LINGUA"
-  cxiujAfisxoj: "Tutti i post"
-  rilatajAfisxoj: "Post correlati"
-  malsamaLingvo: "Leggi questa pagina in una lingua diversa"
-  tradukoAverto: "Nota: questa pagina è stata tradotta automaticamente. Se puoi, dovresti leggerlo in una di queste lingue:"
-  rigardiEn: "Guarda in"
-  rajtoj: "licenza"
-  serĉi: "Cerca su Google."
-  Funkciigita: "Alimentato da"
+  Funkciigita: 'द्वारा संचालित'
+  cxiujAfisxoj: 'सभी पद'
+  elektuLingvon: 'अपनी भाषा चुनें'
+  malsamaLingvo: 'इस पृष्ठ को अन्य भाषा में पढ़ें'
+  priskribo: 'जेकेल के साथ एक बहुभाषी स्थिर वेबसाइट बनाने के लिए कंकाल।'
+  rajtoj: 'लाइसेंस <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="क्रिएटिव कॉमन्स लाइसेंस" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></a>'
+  rigardiEn: 'यहां देखो'
+  rilatajAfisxoj: 'संबंधित पोस्ट'
+  sercxi: 'Google पर खोजें।'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'कृपया ध्यान दें: इस पृष्ठ का स्वचालित रूप से अनुवाद किया गया है। यदि आप कर सकते हैं, तो आपको इसे इन भाषाओं में से एक में पढ़ना चाहिए:'
+it:
+  Funkciigita: 'Offerto da'
+  cxiujAfisxoj: 'Tutti i post'
+  elektuLingvon: 'scegli la tua LINGUA'
+  malsamaLingvo: "Leggi questa pagina in un'altra lingua"
+  priskribo: 'Scheletro per creare un sito web statico multilingue con jekyll.'
+  rajtoj: 'Licenza <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Licenza Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Guarda dentro'
+  rilatajAfisxoj: 'Post correlati'
+  sercxi: 'Cerca su Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Nota: questa pagina è stata tradotta automaticamente. Se puoi, dovresti leggerlo in una di queste lingue:'
 ja:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "スケルトンは、jekyllを使用して多言語の静的Webサイトを作成します。"
-  elektuLingvon: "言語を選んでください"
-  cxiujAfisxoj: "すべての投稿"
-  rilatajAfisxoj: "関連記事"
-  malsamaLingvo: "このページを別の言語で読む"
-  tradukoAverto: "注意：このページは自動的に翻訳されています。可能であれば、次のいずれかの言語で読む必要があります。"
-  rigardiEn: "覗く"
-  rajtoj: "ライセンス"
-  serĉi: "Googleを検索します。"
-  Funkciigita: "搭載"
+  Funkciigita: 搭載
+  cxiujAfisxoj: すべての投稿
+  elektuLingvon: 言語を選択してください
+  malsamaLingvo: このページを別の言語で読む
+  priskribo: スケルトンは、jekyllを使用して多言語の静的Webサイトを作成します。
+  rajtoj: 'ライセンス <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="クリエイティブコモンズライセンス" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 覗く
+  rilatajAfisxoj: 関連記事
+  sercxi: Googleを検索します。
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 注意：このページは自動的に翻訳されています。可能であれば、次のいずれかの言語で読む必要があります。
 ms:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Kerangka untuk membuat laman web statik berbilang bahasa dengan jekyll."
-  elektuLingvon: "pilih Bahasa anda"
-  cxiujAfisxoj: "Semua Catatan"
-  rilatajAfisxoj: "Catatan Berkaitan"
-  malsamaLingvo: "Baca halaman ini dalam bahasa yang berbeza"
-  tradukoAverto: "Harap maklum: halaman ini telah diterjemahkan secara automatik. Sekiranya boleh, anda mesti membacanya dalam salah satu bahasa berikut:"
-  rigardiEn: "Lihatlah"
-  rajtoj: "lesen"
-  serĉi: "Cari di Google."
-  Funkciigita: "Dikuasakan oleh"
+  Funkciigita: 'Dikuasai oleh'
+  cxiujAfisxoj: 'Semua Catatan'
+  elektuLingvon: 'pilih Bahasa anda'
+  malsamaLingvo: 'Baca halaman ini dalam bahasa lain'
+  priskribo: 'Skeleto por krei plurlingvan statikan retejon kun jekyll.'
+  rajtoj: 'Lesen <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Lesen Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: Lihatlah
+  rilatajAfisxoj: 'Catatan Berkaitan'
+  sercxi: 'Cari di Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Harap maklum: halaman ini telah diterjemahkan secara automatik. Sekiranya boleh, anda mesti membacanya dalam salah satu bahasa berikut:'
 pa:
-  titolo: "ਜੈਕੀਲ-ਪਲੂਰਲਿੰਗਵਾ"
-  priskribo: "ਸਕੈਲਟਨ ਜੈੱਕਲ ਨਾਲ ਇੱਕ ਬਹੁਭਾਸ਼ਾਈ ਸਥਿਰ ਵੈਬਸਾਈਟ ਬਣਾਉਣ ਲਈ."
-  elektuLingvon: "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ"
-  cxiujAfisxoj: "ਸਾਰੇ ਪੋਸਟ"
-  rilatajAfisxoj: "ਸੰਬੰਧਿਤ ਪੋਸਟ"
-  malsamaLingvo: "ਇਸ ਪੇਜ ਨੂੰ ਵੱਖਰੀ ਭਾਸ਼ਾ ਵਿੱਚ ਪੜ੍ਹੋ"
-  tradukoAverto: "ਕਿਰਪਾ ਕਰਕੇ ਨੋਟ ਕਰੋ: ਇਹ ਪੰਨਾ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਹੋ ਗਿਆ ਹੈ. ਜੇ ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇੱਕ ਭਾਸ਼ਾ ਵਿੱਚ ਪੜ੍ਹਨਾ ਚਾਹੀਦਾ ਹੈ:"
-  rigardiEn: "ਵਿੱਚ ਵੇਖੋ"
-  rajtoj: "ਲਾਇਸੰਸ"
-  serĉi: "ਗੂਗਲ ਖੋਜੋ."
-  Funkciigita: "ਦੁਆਰਾ ਸੰਚਾਲਿਤ"
+  Funkciigita: 'ਦੁਆਰਾ ਸੰਚਾਲਿਤ'
+  cxiujAfisxoj: 'ਸਾਰੇ ਪੋਸਟ'
+  elektuLingvon: 'ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ'
+  malsamaLingvo: 'ਇਸ ਪੇਜ ਨੂੰ ਦੂਜੀ ਭਾਸ਼ਾ ਵਿਚ ਪੜ੍ਹੋ'
+  priskribo: 'ਸਕੈਲਟਨ ਜੈੱਕਲ ਨਾਲ ਇੱਕ ਬਹੁਭਾਸ਼ਾਈ ਸਥਿਰ ਵੈਬਸਾਈਟ ਬਣਾਉਣ ਲਈ.'
+  rajtoj: 'ਲਾਇਸੈਂਸ <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਲਾਇਸੈਂਸ" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="ਸੀਸੀ-ਬਾਈ-ਐਸਏ 4.0"/></a>'
+  rigardiEn: 'ਵਿੱਚ ਵੇਖੋ'
+  rilatajAfisxoj: 'ਸੰਬੰਧਿਤ ਪੋਸਟ'
+  sercxi: 'ਗੂਗਲ ਖੋਜੋ.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'ਕਿਰਪਾ ਕਰਕੇ ਨੋਟ ਕਰੋ: ਇਹ ਪੰਨਾ ਆਪਣੇ ਆਪ ਅਨੁਵਾਦ ਹੋ ਗਿਆ ਹੈ. ਜੇ ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਇੱਕ ਭਾਸ਼ਾ ਵਿੱਚ ਪੜ੍ਹਨਾ ਚਾਹੀਦਾ ਹੈ:'
 pt:
-  titolo: "Jekyll-Plurlingva"
-  priskribo: "Esqueleto para criar um site estático multilíngue com jekyll."
-  elektuLingvon: "Escolha seu idioma"
-  cxiujAfisxoj: "Todas as publicações"
-  rilatajAfisxoj: "Postagens Relacionadas"
-  malsamaLingvo: "Leia esta página em um idioma diferente"
-  tradukoAverto: "Atenção: esta página foi traduzida automaticamente. Se puder, você deve lê-lo em um destes idiomas:"
-  rigardiEn: "Olha em"
-  rajtoj: "licença"
-  serĉi: "Pesquisar no Google."
-  Funkciigita: "Distribuído por"
+  Funkciigita: 'Distribuído por'
+  cxiujAfisxoj: 'Todas as publicações'
+  elektuLingvon: 'Escolha seu idioma'
+  malsamaLingvo: 'Leia esta página em outro idioma'
+  priskribo: 'Esqueleto para criar um site estático multilíngue com jekyll.'
+  rajtoj: 'Licença <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Licença Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Olhar dentro'
+  rilatajAfisxoj: 'Postagens Relacionadas'
+  sercxi: 'Pesquisar no Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Atenção: esta página foi traduzida automaticamente. Se puder, você deve lê-lo em um destes idiomas:'
 ru:
-  titolo: "Джекилл-Плюрлингва"
-  priskribo: "Скелет для создания многоязычного статического веб-сайта с помощью jekyll."
-  elektuLingvon: "Выберите ваш язык"
-  cxiujAfisxoj: "Все сообщения"
-  rilatajAfisxoj: "Похожие сообщения"
-  malsamaLingvo: "Прочтите эту страницу на другом языке"
-  tradukoAverto: "Обратите внимание: эта страница была переведена автоматически. Если можете, прочтите его на одном из этих языков:"
-  rigardiEn: "Смотреть в"
-  rajtoj: "лицензия"
-  serĉi: "Искать в Google."
-  Funkciigita: "Питаться от"
+  Funkciigita: 'Питаться от'
+  cxiujAfisxoj: 'Все сообщения'
+  elektuLingvon: 'Выберите свой язык'
+  malsamaLingvo: 'Прочтите эту страницу на другом языке'
+  priskribo: 'Скелет для создания многоязычного статического веб-сайта с помощью jekyll.'
+  rajtoj: 'Лицензия <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="Лицензия Creative Commons" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 'Смотреть в'
+  rilatajAfisxoj: 'Похожие сообщения'
+  sercxi: 'Искать в Google.'
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 'Обратите внимание: эта страница была переведена автоматически. Если можете, прочтите его на одном из этих языков:'
 zh:
-  titolo: "杰基尔-普林林娃"
-  priskribo: "用jekyll创建一个多语言静态网站的框架。"
-  elektuLingvon: "选择你的语言"
-  cxiujAfisxoj: "所有帖子"
-  rilatajAfisxoj: "相关文章"
-  malsamaLingvo: "阅读其他语言的页面"
-  tradukoAverto: "请注意：此页面已自动翻译。如果可以，您应该使用以下其中一种语言阅读它："
-  rigardiEn: "在看"
-  rajtoj: "执照"
-  serĉi: "搜索谷歌。"
-  Funkciigita: "供电"
+  Funkciigita: 供电
+  cxiujAfisxoj: 所有帖子
+  elektuLingvon: 选择你的语言
+  malsamaLingvo: 阅读另一种语言的页面
+  priskribo: 用jekyll创建一个多语言静态网站的框架。
+  rajtoj: '许可 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt ="知识共享许可" style="display:inline;border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" title="CC-BY-SA 4.0"/></ a>'
+  rigardiEn: 在看
+  rilatajAfisxoj: 相关文章
+  sercxi: 搜索谷歌。
+  titolo: ' _Jekyll-Plurlingva_ '
+  tradukoAverto: 请注意：此页面已自动翻译。如果可以，您应该使用以下其中一种语言阅读它：

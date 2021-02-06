@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-06 17:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./032-aldono-pagxo.md:1
+#, no-wrap
+msgid "eo"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: ./032-aldono-pagxo.md:1
+#, no-wrap
+msgid "auto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: ./032-aldono-pagxo.md:1
+#, no-wrap
+msgid "032-aldono-pagxo"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: ./032-aldono-pagxo.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./032-aldono-pagxo.md:1
+#, no-wrap
+msgid "Aldonu paĝon"
+msgstr ""
+
+#. type: Plain text
+#: ./032-aldono-pagxo.md:10
+#, markdown-text, no-wrap
+msgid "Paĝoj aperas en la maldekstra menuo, ne en la listo de afiŝoj.\n"
+msgstr ""
+
+#. type: Plain text
+#: ./032-aldono-pagxo.md:13
+#, markdown-text, no-wrap
+msgid ""
+"Por aldoni novan paĝon, simple kreu dosieron en la dosierujo _xx, où _xx_ "
+"estas la kodo de via lingvo. Ĉi tiu dosiero devas havi etendon _«.md»_ por "
+"montri, ke ĝi estas dosiero _markdown_.\n"
+"Ĉi tiu paĝo \n"
+msgstr ""
+
+#. type: Plain text
+#: ./032-aldono-pagxo.md:15
+#, markdown-text, no-wrap
+msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
+msgstr ""
+
+#. type: Fenced code block
+#: ./032-aldono-pagxo.md:16
+#, no-wrap
+msgid ""
+"---\n"
+"lang: xx\n"
+"lang-niv: fonto\n"
+"lang-ref: 001-yyy\n"
+"layout: page\n"
+"title: 'zzz'\n"
+"---\n"
+msgstr ""
+
+#. type: Plain text
+#: ./032-aldono-pagxo.md:27
+#, markdown-text, no-wrap
+msgid "La ŝanĝendaj kampoj estas:\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./032-aldono-pagxo.md:29
+#, markdown-text, no-wrap
+msgid "_lang:_ : anstataŭigu _xx_ per la kodo de via lingvo.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./032-aldono-pagxo.md:31
+#, markdown-text, no-wrap
+msgid ""
+"_lang-ref_ : ĉi tiu kampo permesas vin identigi la paĝon, anstataŭigi "
+"_001-yyy_ per tio, kion vi volas, ĝi devas esti unika en via blogo, kaj ĝi "
+"estas uzata por ordigi la paĝojn en la menuo, do ĝi rekomendas komencu per "
+"tricifera nombro kiel en la ekzemplo por regi la ordon de la paĝoj en la "
+"menuo.\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./032-aldono-pagxo.md:33
+#, markdown-text, no-wrap
+msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via paĝo.\n"
+msgstr ""
+
+#. type: Plain text
+#: ./032-aldono-pagxo.md:35
+#, markdown-text, no-wrap
+msgid ""
+"Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via "
+"teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la "
+"dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la "
+"dosier-esplorilo.\n"
+msgstr ""
