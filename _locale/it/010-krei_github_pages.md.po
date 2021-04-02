@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:42+0100\n"
+"POT-Creation-Date: 2021-02-18 18:33+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: komentoj_id
+#: 010-krei_github_pages.md:1
+#, no-wrap
+#, fuzzy
+msgid "4"
+msgstr "4"
 
 #. type: YAML Front Matter: lang
 #: 010-krei_github_pages.md:1
@@ -47,37 +54,38 @@ msgid "krei 1 retejon _\"github page\"_"
 msgstr "creare 1 sito web _\"github page\"_"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:9
+#: 010-krei_github_pages.md:10
 #, fuzzy, no-wrap
 msgid "Ensalutu github per via salutnomo.  \n"
 msgstr "Accedi a GitHub con il tuo nome utente.  \n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:12
-#, fuzzy, no-wrap
-msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-msgstr "Andare alla posizione di [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fare clic su _«Use this template»_.\n"
+#: 010-krei_github_pages.md:13
+#, no-wrap
+#, fuzzy
+msgid "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+msgstr "Vai al web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fai clic su _«Use this template»_.\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:14
+#: 010-krei_github_pages.md:15
 #, fuzzy, no-wrap
 msgid "Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.\n"
 msgstr "Immettere come nome del repository: _username.github.io_ , dove _username_ è il nome utente in _github_e convalidare la creazione del repository.\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:15
+#: 010-krei_github_pages.md:16
 #, fuzzy, no-wrap
 msgid "Nun konektiĝu al komputilo kun Linux.  \n"
 msgstr "Ora connettiti a un computer con Linux.  \n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:17
+#: 010-krei_github_pages.md:18
 #, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
 msgstr "Installa i prerequisiti, ad esempio se hai meno di _debian buster_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:17
+#: 010-krei_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -87,13 +95,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:23
+#: 010-krei_github_pages.md:24
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "e ricevi una copia del tuo deposito:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:23
+#: 010-krei_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -107,37 +115,37 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:31
+#: 010-krei_github_pages.md:32
 #, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "Scegli la tua lingua di lavoro (codice di due lettere), titolo e breve descrizione e inizializza il sito:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:31
+#: 010-krei_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:36
+#: 010-krei_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "Se vuoi meno lingue rispetto alle 15 predefinite, modifica il file _\\_data/languages.yml_ e cancella le righe corrispondenti:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:36
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:41
+#: 010-krei_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "Invia modifiche al tuo sito _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:41
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -149,10 +157,14 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:48
+#: 010-krei_github_pages.md:49
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "Congratulazioni, il tuo sito è stato creato, è accessibile su https://username.github.io.\n"
+
+#, fuzzy
+#~ msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr "Andare alla posizione di [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fare clic su _«Use this template»_.\n"
 
 #, fuzzy
 #~ msgid ""

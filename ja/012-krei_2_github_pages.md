@@ -8,19 +8,23 @@ title: '1つのサブネットを作成します _"github page"_'
 
 ユーザー名でgithubにログインします。  
 
- [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の場所に移動し、 _«Use this template»_をクリックします。
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)のWebサイトにアクセスし、 _«Use this template»_をクリックします。
 
 リポジトリの名前を入力し、リポジトリの作成を検証します。
-リポジトリのパラメータに移動し、段落 _«Github Pages»_まで下にスクロールして、 "なし"を "マスター"に置き換え、クリックします "保管"。
+リポジトリのパラメータに移動し、段落 _«Github Pages»_に移動し、 _«None»_ を _«master»_に置き換えて、 _«Save»_をクリックします。
 
 次に、Linuxを搭載したコンピューターに接続します。  
-たとえば、Debianを使用している場合は、前提条件をインストールします。
+前提条件を取り付けます：ruby-bundler ruby​​-dev gawk po4a>= 0.61
+
+たとえば、Debian Busterの下にある場合:(°1°1
+
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a
 ```
 
 そしてあなたの預金のコピーを受け取ります：
+
 ```bash
 git clone https://github.com/username/name
 cd name
@@ -29,16 +33,19 @@ git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-hi
 ```
 
 作業言語 (2文字コード)、タイトル、簡単な説明を選択し、サイトを初期化します：
+
 ```bash
 _scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
-ファイルの基本パラメータ _\_config.yml_ を変更するには、 ""の代わりにサイトの名前を入力して、次のようにする必要があります：  
+パラメータ _baseurl_ をファイル _\_config.yml_ に変更する "、このサイトの名前を ""ではなく、これを持つようにする必要があります。  
     `baseurl:          "/name"`  
-    ( _«name»_ を選択した名前に置き換えます)
+    (選択した名前で _«name»_ を置き換えてください。 _/_)を忘れないでください。
+
 ```bash
 nano _config.yml
 ```
+(著者の名前を変更するためにそれを利用してください。)
 
 事前設定された15の言語よりも少ない言語が必要な場合は、ファイルを編集して _\_data/languages.yml_ 、対応する行を削除します：
 ```bash

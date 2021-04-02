@@ -1,4 +1,5 @@
 ---
+komentoj_id: 4
 lang: zh
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: '建立1个网站 _"github page"_'
 
 使用您的用户名登录github。  
 
-转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)的位置，然后单击 _«Use this template»_。
+转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)网页，然后单击 _«Use this template»_。
 
 输入存储库名称： _username.github.io_ ，其中 _username_ 是您在 _github_的用户名，然后验证存储库的创建。
 

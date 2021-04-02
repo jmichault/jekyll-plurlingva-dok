@@ -1,4 +1,5 @@
 ---
+komentoj_id: ঘ
 lang: bn
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: '1 টি ওয়েবসাইট তৈরি করুন _"github 
 
 আপনার ব্যবহারকারীর নাম দিয়ে গিথুব এ লগ ইন করুন।  
 
- [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)এর স্থানে যান এবং _«Use this template»_ক্লিক করুন।
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ওয়েব এ যান এবং _«Use this template»_ক্লিক করুন।
 
 একটি সংগ্রহস্থলের নাম হিসাবে প্রবেশ করান: _username.github.io_ , যেখানে _username_ আপনার ব্যবহারকারীর নাম (° 5 at) রয়েছে, এবং সংগ্রহস্থলটি তৈরির জন্য বৈধতা দিন।
 

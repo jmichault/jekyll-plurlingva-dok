@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:42+0100\n"
+"POT-Creation-Date: 2021-04-02 20:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,18 +55,18 @@ msgstr "Log masuk ke github dengan nama pengguna anda.  \n"
 #. type: Plain text
 #: 012-krei_2_github_pages.md:12
 #, fuzzy, no-wrap
-msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-msgstr "Pergi ke lokasi [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.\n"
+msgid "Iru al la retejo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+msgstr "Pergi ke laman web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:15
 #, fuzzy, no-wrap
 msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
-"Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+"Iru al la parametroj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu _«None»_ per _«master»_, alklaku _«Save»_.\n"
 msgstr ""
-"Masukkan nama repositori dan sahkan pembuatan repositori.\n"
-"Pergi ke parameter repositori anda, tatal ke bawah ke perenggan _«Github Pages»_, dan ganti \"Tiada\"dengan \"master\", klik \"Simpan\".\n"
+"Masukkan nama untuk repositori dan sahkan pembuatan repositori.\n"
+"Pergi ke parameter repositori anda, pergi ke perenggan _«Github Pages»_, dan ganti _«None»_ dengan _«master»_, klik _«Save»_.\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:16
@@ -76,12 +76,20 @@ msgstr "Sekarang sambungkan ke komputer dengan Linux.  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, fuzzy, no-wrap
-msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
-msgstr "Pasang prasyarat, misalnya jika anda berada di bawah Debian:\n"
+#, no-wrap
+#, fuzzy
+msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
+msgstr "Pasang Prasyarat: Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61\n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:20
+#, no-wrap
+#, fuzzy
+msgid "Ekzemple se vi estas sub Debian Buster:\n"
+msgstr "Sebagai contoh jika anda berada di bawah Debian Buster: (° 1 ° 1\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:18
+#: 012-krei_2_github_pages.md:21
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -91,13 +99,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:24
+#: 012-krei_2_github_pages.md:27
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "dan terima salinan deposit anda:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:24
+#: 012-krei_2_github_pages.md:28
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -111,61 +119,70 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "Pilih bahasa kerja anda (kod dua huruf), tajuk dan penerangan ringkas, dan mulakan laman web ini:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:36
-#, fuzzy, no-wrap
-msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
-msgstr "Untuk menukar parameter asas dalam fail _\\_config.yml_ , anda mesti meletakkan nama laman web dan bukannya \"\", untuk memiliki ini:  \n"
+#: 012-krei_2_github_pages.md:41
+#, no-wrap
+#, fuzzy
+msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
+msgstr "Tukar parameter _baseurl_ ke fail _\\_config.yml_ , anda perlu meletakkan nama tapak tersebut dan bukannya \"\", untuk mempunyai ini:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:39
-#, fuzzy, no-wrap
-msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
-msgstr "    (ganti _«name»_ dengan nama yang anda pilih)\n"
+#: 012-krei_2_github_pages.md:44
+#, no-wrap
+#, fuzzy
+msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
+msgstr "    (Ganti _«name»_ Dengan nama yang anda pilih, jangan lupa _/_)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:39
+#: 012-krei_2_github_pages.md:45
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:44
+#: 012-krei_2_github_pages.md:49
+#, no-wrap
+#, fuzzy
+msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
+msgstr "(Ambil kesempatan untuk menukar nama pengarang.)(° 3 ° 3\n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:51
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "Sekiranya anda mahukan lebih sedikit bahasa daripada 15 bahasa yang telah ditetapkan, edit fail _\\_data/languages.yml_ dan padamkan baris yang sesuai:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:44
+#: 012-krei_2_github_pages.md:51
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:49
+#: 012-krei_2_github_pages.md:56
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "Hantarkan perubahan ke laman web anda _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:49
+#: 012-krei_2_github_pages.md:56
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -177,10 +194,41 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:56
+#: 012-krei_2_github_pages.md:63
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "Tahniah, laman web anda telah dibuat, ia boleh diakses di https://username.github.io/name.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
+#~ msgstr "Pasang prasyarat, misalnya jika anda berada di bawah Debian:\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
+#~ msgstr "Untuk menukar parameter asas dalam fail _\\_config.yml_ , anda mesti meletakkan nama laman web dan bukannya \"\", untuk memiliki ini:  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
+#~ msgstr "    (ganti _«name»_ dengan nama yang anda pilih)\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr ""
+#~ "Pergi ke lokasi [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), dan klik _«Use this template»_.\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
+#~ "Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo "
+#~ "_«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku "
+#~ "\"Konservi\".\n"
+#~ msgstr ""
+#~ "Masukkan nama repositori dan sahkan pembuatan repositori.\n"
+#~ "Pergi ke parameter repositori anda, tatal ke bawah ke perenggan _«Github "
+#~ "Pages»_, dan ganti \"Tiada\"dengan \"master\", klik \"Simpan\".\n"
 
 #, fuzzy
 #~ msgid ""

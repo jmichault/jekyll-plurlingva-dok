@@ -1,6 +1,6 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 032-aldono-pagxo
 layout: page
 title: 'Aldonu paĝon'

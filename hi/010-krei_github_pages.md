@@ -1,4 +1,5 @@
 ---
+komentoj_id: ४
 lang: hi
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: '1 वेबसाइट बनाएं _"github page"_'
 
 अपने उपयोगकर्ता नाम के साथ github में लॉग इन करें।  
 
- [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)के स्थान पर जाएँ, और _«Use this template»_पर क्लिक करें।
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)नेटवर्क पर जाएं, और _«Use this template»_पर क्लिक करें।
 
 एक रिपॉजिटरी नाम के रूप में दर्ज करें: _username.github.io_ , जहां _username_ आपका उपयोगकर्ता नाम _github_है, और रिपॉजिटरी के निर्माण को मान्य करता है।
 

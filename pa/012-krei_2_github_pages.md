@@ -8,19 +8,23 @@ title: '1 ਸਬਨੈੱਟ ਬਣਾਓ (° 1 create)'
 
 ਆਪਣੇ ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਦੇ ਨਾਲ github ਵਿੱਚ ਲੌਗ ਇਨ ਕਰੋ.  
 
- [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ਦੀ ਸਥਿਤੀ 'ਤੇ ਜਾਓ, ਅਤੇ ( _«Use this template»_ਕਲਿੱਕ ਕਰੋ.
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ਵੈਬਸਾਈਟ ਤੇ ਜਾਓ, ਅਤੇ _«Use this template»_ਕਲਿੱਕ ਕਰੋ.
 
 ਰਿਪੋਜ਼ਟਰੀ ਲਈ ਇੱਕ ਨਾਮ ਦਰਜ ਕਰੋ ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ.
-ਆਪਣੇ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਪੈਰਾਮੀਟਰਾਂ 'ਤੇ ਜਾਓ, ਪੈਰਾਗ੍ਰਾਫ _«Github Pages»_' ਤੇ ਸਕ੍ਰੌਲ ਕਰੋ, ਅਤੇ "ਕੋਈ ਨਹੀਂ" "ਮਾਸਟਰ"ਨਾਲ ਬਦਲੋ, ਕਲਿੱਕ ਕਰੋ. "ਸਟੋਰ".
+ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਪੈਰਾਮੀਟਰਾਂ 'ਤੇ ਜਾਓ, ਪੈਰਾ (° 2 to)' ਤੇ ਜਾਓ, ਅਤੇ _«None»_ ਨੂੰ _«master»_ਨਾਲ ਬਦਲੋ, _«Save»_ਕਲਿੱਕ ਕਰੋ.
 
 ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨਾਲ ਜੁੜੋ.  
-ਜ਼ਰੂਰਤ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਦੇ ਅਧੀਨ ਹੋ:
+ਸ਼ਰਤਾਂ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ: ਰੂਬੀ-ਬੰਡਲਰ ਰੂਬੀ ਪੋ 4 ਏ>= 0.61
+
+ਉਦਾਹਰਣ ਦੇ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਬੁਸਟਰ ਦੇ ਅਧੀਨ ਹੋ:
+
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a
 ```
 
 ਅਤੇ ਤੁਹਾਡੀ ਜਮ੍ਹਾਂ ਰਕਮ ਦੀ ਇੱਕ ਕਾਪੀ ਪ੍ਰਾਪਤ ਕਰੋ:
+
 ```bash
 git clone https://github.com/username/name
 cd name
@@ -29,16 +33,19 @@ git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-hi
 ```
 
 ਆਪਣੀ ਕਾਰਜਸ਼ੀਲ ਭਾਸ਼ਾ (ਦੋ-ਅੱਖਰ ਕੋਡ), ਸਿਰਲੇਖ ਅਤੇ ਸੰਖੇਪ ਵੇਰਵਾ ਚੁਣੋ ਅਤੇ ਸਾਈਟ ਨੂੰ ਅਰੰਭ ਕਰੋ:
+
 ```bash
 _scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
-ਫਾਈਲ _\_config.yml_ ਵਿੱਚ ਮੁ paraਲੇ ਪੈਰਾਮੀਟਰ ਨੂੰ ਬਦਲਣ ਲਈ, ਤੁਹਾਨੂੰ ਇਹ ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ ""ਦੀ ਬਜਾਏ ਸਾਈਟ ਦਾ ਨਾਮ ਦੇਣਾ ਪਵੇਗਾ:  
+ਪੈਰਾਮੀਟਰ _baseurl_ ਨੂੰ ਫਾਈਲ ਵਿੱਚ ਬਦਲੋ _\_config.yml_ ਫਾਈਲ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਸਾਈਟ ਦਾ ਨਾਮ ਰੱਖਣਾ ਪਏਗਾ", ਇਸ ਨੂੰ ਰੱਖਣਾ ਪਏਗਾ: ° 8 ° 8 °)  
     `baseurl:          "/name"`  
-    ( _«name»_ ਨੂੰ ਤੁਹਾਡੇ ਦੁਆਰਾ ਚੁਣੇ ਗਏ ਨਾਮ (chose 4 °)ਨਾਲ ਬਦਲੋ
+    (ਨੂੰ _«name»_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ _«name»_ ਨੂੰ ਉਸ ਨਾਮ ਨਾਲ, _/_)ਨੂੰ ਨਾ ਭੁੱਲੋ
+
 ```bash
 nano _config.yml
 ```
+(ਲੇਖਕ ਦਾ ਨਾਮ ਬਦਲਣ ਲਈ ਇਸ ਦਾ ਲਾਭ ਲਓ.)
 
 ਜੇ ਤੁਸੀਂ 15 ਪ੍ਰੀਸੈੱਟ ਭਾਸ਼ਾਵਾਂ ਤੋਂ ਘੱਟ ਭਾਸ਼ਾਵਾਂ ਚਾਹੁੰਦੇ ਹੋ, ਫਾਈਲ ਨੂੰ ਸੋਧੋ _\_data/languages.yml_ ਅਤੇ ਸੰਬੰਧਿਤ ਲਾਈਨਾਂ ਨੂੰ ਮਿਟਾਓ:
 ```bash

@@ -11,3 +11,6 @@ lang:
   sercxi: 'Recherche google.'
   titolo: ' _Jekyll-Plurlingva_ '
   tradukoAverto: "Attention: cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues:"
+  komentoj: 'Commentaires :'
+  komentis: 'a commenté le :'
+  komentoButono: 'Ajoutez votre commentaire (sur github)'

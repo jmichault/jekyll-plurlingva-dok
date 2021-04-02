@@ -1,4 +1,5 @@
 ---
+komentoj_id: 4
 lang: it
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: 'creare 1 sito web _"github page"_'
 
 Accedi a GitHub con il tuo nome utente.  
 
-Andare alla posizione di [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fare clic su _«Use this template»_.
+Vai al web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fai clic su _«Use this template»_.
 
 Immettere come nome del repository: _username.github.io_ , dove _username_ è il nome utente in _github_e convalidare la creazione del repository.
 

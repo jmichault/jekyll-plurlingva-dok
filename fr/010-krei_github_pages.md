@@ -1,9 +1,10 @@
 ---
+layout: page
+title: 'créez 1 site _"github page"_'
 lang: fr
 lang-niv: fonto
 lang-ref: 010-kreu-cxefan-GP
-layout: page
-title: 'créez 1 site _"github page"_'
+komentoj_id: 4
 ---
 
 Connectez-vous sur github avec votre identifiant.  

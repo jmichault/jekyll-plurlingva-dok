@@ -3,85 +3,82 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2021-01-25 17:32+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2021-02-07 22:57+0100\n"
+"Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. type: Hash Value - Key: Funkciigita
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Propulsé par"
 msgstr "Funkciigita de"
 
 #. type: Hash Value - Key: cxiujAfisxoj
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Tous les messages"
 msgstr "Ĉiuj Afiŝoj"
 
 #. type: Hash Value - Key: elektuLingvon
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Choisissez votre langue"
 msgstr "Elektu vian lingvon"
 
 #. type: Hash Value - Key: malsamaLingvo
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Lisez cette page dans une autre langue"
-msgstr "Legu ĉi tiun paĝon en malsama lingvo"
+msgstr "Legu ĉi tiun paĝon en alia lingvo"
 
 #. type: Hash Value - Key: priskribo
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Squelette pour créer un site Web statique multilingue avec jekyll."
 msgstr "Skeleto por krei plurlingvan statikan retejon kun jekyll."
 
 #. type: Hash Value - Key: rajtoj
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "licence"
 msgstr "permesilo"
 
 #. type: Hash Value - Key: rigardiEn
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Regarder dans"
 msgstr "Rigardi en"
 
 #. type: Hash Value - Key: rilatajAfisxoj
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Articles Similaires"
 msgstr "Rilataj Afiŝoj"
 
 #. type: Hash Value - Key: serĉi
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Recherche Google."
-msgstr "SerÄu per Google"
+msgstr "Serĉu per Google."
 
 #. type: Hash Value - Key: titolo
 #: >fr
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Jekyll-Plurlingva"
 msgstr "Jekyll-Plurlingva"
 
 #. type: Hash Value - Key: tradukoAverto
 #: >fr
-#, fuzzy, no-wrap
-msgid ""
-"Attention : cette page a été traduite automatiquement. Si vous le pouvez, "
-"vous devriez la lire dans l'une de ces langues :"
-msgstr ""
-"Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas "
-"legi ĝin en unu el ĉi tiuj lingvoj:"
+#, no-wrap
+msgid "Attention : cette page a été traduite automatiquement. Si vous le pouvez, vous devriez la lire dans l'une de ces langues :"
+msgstr "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"

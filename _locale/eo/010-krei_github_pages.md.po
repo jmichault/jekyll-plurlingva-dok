@@ -3,18 +3,26 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-25 17:12+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"PO-Revision-Date: 2021-02-07 22:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. type: YAML Front Matter: komentoj_id
+#: 010-krei_github_pages.md:1
+#, no-wrap
+#, fuzzy
+msgid "4"
+msgstr "4"
 
 #. type: YAML Front Matter: lang
 #: 010-krei_github_pages.md:1
@@ -42,42 +50,42 @@ msgstr "page"
 
 #. type: YAML Front Matter: title
 #: 010-krei_github_pages.md:1
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "créez 1 site _\"github page\"_"
 msgstr "krei 1 retejon _\"github page\"_"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:9
-#, fuzzy, no-wrap
+#: 010-krei_github_pages.md:10
+#, no-wrap
 msgid "Connectez-vous sur github avec votre identifiant.  \n"
 msgstr "Ensalutu github per via salutnomo.  \n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:12
-#, fuzzy, no-wrap
+#: 010-krei_github_pages.md:13
+#, no-wrap
 msgid "Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), et cliquez sur _«Use this template»_.\n"
-msgstr "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+msgstr "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:14
+#: 010-krei_github_pages.md:15
 #, fuzzy, no-wrap
 msgid "Entrez comme nom de dépot : _username.github.io_ , où _username_ est votre nom d'utilisateur sur _github_, et validez la création du dépot.\n"
 msgstr "Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:15
+#: 010-krei_github_pages.md:16
 #, fuzzy, no-wrap
 msgid "Maintenant connectez vous sur un ordinateur sous linux.  \n"
 msgstr "Nun konektiĝu al komputilo kun Linux.  \n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:17
+#: 010-krei_github_pages.md:18
 #, fuzzy, no-wrap
 msgid "Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :\n"
 msgstr "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:17
+#: 010-krei_github_pages.md:18
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -87,13 +95,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:23
+#: 010-krei_github_pages.md:24
 #, fuzzy, no-wrap
 msgid "et récupérez une copie de votre dépot :\n"
 msgstr "kaj ricevu kopion de via deponejo:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:23
+#: 010-krei_github_pages.md:24
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -107,38 +115,37 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:31
+#: 010-krei_github_pages.md:32
 #, no-wrap
-#, fuzzy
 msgid "Choisissez votre langue de travail (code de deux lettres), un titre et une description brève, et initialisez le site :\n"
 msgstr "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:31
+#: 010-krei_github_pages.md:32
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:36
+#: 010-krei_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
 msgstr "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:36
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:41
+#: 010-krei_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr "Sendu la ŝanĝojn al via retejo _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:41
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -150,14 +157,16 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:48
+#: 010-krei_github_pages.md:49
 #, fuzzy, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io .\n"
 msgstr "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 
 #, fuzzy
-#~ msgid "Choisissez un titre et une description brève, et initialisez le site :\n"
-#~ msgstr "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
+#~ msgid ""
+#~ "Choisissez un titre et une description brève, et initialisez le site :\n"
+#~ msgstr ""
+#~ "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
 
 #~ msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
 #~ msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"

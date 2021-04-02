@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:42+0100\n"
+"POT-Creation-Date: 2021-02-18 18:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr "hi"
 #. type: YAML Front Matter: lang-niv
 #: 020-lancxi_jekyll.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -91,3 +91,6 @@ msgstr "bundle exec jekyll serve\n"
 #, fuzzy, no-wrap
 msgid "Nun vi povas provi vian retejon en via komputilo ĉe la adreso indikita de la antaŭa komando (http: // localhost: 4000 se vi ne enigis la opcion _baseurl_).\n"
 msgstr "अब आप अपने कंप्यूटर पर पिछले कमांड (http: // localhost: 4000 द्वारा इंगित पते पर अपनी साइट का परीक्षण कर सकते हैं यदि आपने विकल्प _baseurl_)दर्ज नहीं किया था।\n"
+
+#~ msgid "auto"
+#~ msgstr "auto"

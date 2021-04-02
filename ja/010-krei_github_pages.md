@@ -1,4 +1,5 @@
 ---
+komentoj_id: 4
 lang: ja
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: '1つのWebサイトを作成する _"github page"_'
 
 ユーザー名でgithubにログインします。  
 
- [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の場所に移動し、 _«Use this template»_をクリックします。
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ウェブに移動し、 _«Use this template»_をクリックします。
 
 リポジトリ名として次のように入力します： _username.github.io_ 、ここで _username_ は _github_でのユーザー名であり、リポジトリの作成を検証します。
 

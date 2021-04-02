@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:57+0100\n"
+"POT-Creation-Date: 2021-02-18 19:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,26 @@ msgstr "সমস্ত পোস্ট"
 msgid "Elektu vian lingvon"
 msgstr "আপনার ভাষা নির্বাচন করুন"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "মন্তব্য করেছেন:"
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "গিথুব)এ একটি মন্তব্য (যুক্ত করুন"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, fuzzy, no-wrap
+msgid "Komentoj:"
+msgstr "মন্তব্যসমূহ:"
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -42,8 +62,7 @@ msgstr "এই পৃষ্ঠাটি অন্য ভাষায় পড�
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skeleto por krei plurlingvan statikan retejon kun jekyll."
 msgstr "জেকিল সহ বহুভাষিক স্থিত ওয়েবসাইট তৈরি করতে কঙ্কাল।"
 
@@ -73,8 +92,7 @@ msgstr "গুগল অনুসন্ধান করুন।"
 
 #. type: Hash Value - Key: titolo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-Plurlingva_ "
 msgstr " _Jekyll-Plurlingva_ "
 
@@ -83,6 +101,14 @@ msgstr " _Jekyll-Plurlingva_ "
 #, fuzzy, no-wrap
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "দয়া করে নোট করুন: এই পৃষ্ঠাটি স্বয়ংক্রিয়ভাবে অনুবাদ করা হয়েছে। যদি আপনি পারেন তবে আপনার এটির একটির ভাষায় এটি পড়তে হবে:"
+
+#, fuzzy
+#~ msgid " komentis:"
+#~ msgstr " মন্তব্য করেছে:"
+
+#, fuzzy
+#~ msgid "Aldoni vian komenton ( pri _github_ )"
+#~ msgstr " _github_ )সম্পর্কে আপনার মন্তব্য ( যুক্ত করুন"
 
 #, fuzzy
 #~ msgid "La description."

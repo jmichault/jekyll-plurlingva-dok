@@ -8,19 +8,23 @@ title: 'buat 1 subnet _"github page"_'
 
 Log masuk ke github dengan nama pengguna anda.  
 
-Pergi ke lokasi [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.
+Pergi ke laman web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.
 
-Masukkan nama repositori dan sahkan pembuatan repositori.
-Pergi ke parameter repositori anda, tatal ke bawah ke perenggan _«Github Pages»_, dan ganti "Tiada"dengan "master", klik "Simpan".
+Masukkan nama untuk repositori dan sahkan pembuatan repositori.
+Pergi ke parameter repositori anda, pergi ke perenggan _«Github Pages»_, dan ganti _«None»_ dengan _«master»_, klik _«Save»_.
 
 Sekarang sambungkan ke komputer dengan Linux.  
-Pasang prasyarat, misalnya jika anda berada di bawah Debian:
+Pasang Prasyarat: Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61
+
+Sebagai contoh jika anda berada di bawah Debian Buster: (° 1 ° 1
+
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a
 ```
 
 dan terima salinan deposit anda:
+
 ```bash
 git clone https://github.com/username/name
 cd name
@@ -29,16 +33,19 @@ git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-hi
 ```
 
 Pilih bahasa kerja anda (kod dua huruf), tajuk dan penerangan ringkas, dan mulakan laman web ini:
+
 ```bash
 _scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
-Untuk menukar parameter asas dalam fail _\_config.yml_ , anda mesti meletakkan nama laman web dan bukannya "", untuk memiliki ini:  
+Tukar parameter _baseurl_ ke fail _\_config.yml_ , anda perlu meletakkan nama tapak tersebut dan bukannya "", untuk mempunyai ini:  
     `baseurl:          "/name"`  
-    (ganti _«name»_ dengan nama yang anda pilih)
+    (Ganti _«name»_ Dengan nama yang anda pilih, jangan lupa _/_)
+
 ```bash
 nano _config.yml
 ```
+(Ambil kesempatan untuk menukar nama pengarang.)(° 3 ° 3
 
 Sekiranya anda mahukan lebih sedikit bahasa daripada 15 bahasa yang telah ditetapkan, edit fail _\_data/languages.yml_ dan padamkan baris yang sesuai:
 ```bash

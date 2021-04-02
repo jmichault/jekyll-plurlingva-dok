@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:57+0100\n"
+"POT-Creation-Date: 2021-02-18 19:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,26 @@ msgstr "すべての投稿"
 msgid "Elektu vian lingvon"
 msgstr "言語を選択してください"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "コメント："
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "github)にコメント (を追加する"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, fuzzy, no-wrap
+msgid "Komentoj:"
+msgstr "コメント："
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -42,8 +62,7 @@ msgstr "このページを別の言語で読む"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skeleto por krei plurlingvan statikan retejon kun jekyll."
 msgstr "スケルトンは、jekyllを使用して多言語の静的Webサイトを作成します。"
 
@@ -73,8 +92,7 @@ msgstr "Googleを検索します。"
 
 #. type: Hash Value - Key: titolo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-Plurlingva_ "
 msgstr " _Jekyll-Plurlingva_ "
 
@@ -83,3 +101,11 @@ msgstr " _Jekyll-Plurlingva_ "
 #, fuzzy, no-wrap
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "注意：このページは自動的に翻訳されています。可能であれば、次のいずれかの言語で読む必要があります。"
+
+#, fuzzy
+#~ msgid " komentis:"
+#~ msgstr " コメント："
+
+#, fuzzy
+#~ msgid "Aldoni vian komenton ( pri _github_ )"
+#~ msgstr " _github_ )についてコメント ( を追加する"

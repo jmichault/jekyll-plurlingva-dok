@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:27+0100\n"
+"POT-Creation-Date: 2021-02-18 18:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,63 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "eo"
 msgstr "pa"
 
 #. type: YAML Front Matter: lang-niv
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "032-aldono-pagxo"
 msgstr "032-aldono-pagxo"
 
 #. type: YAML Front Matter: layout
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./032-aldono-pagxo.md:1
-#, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:1
+#, fuzzy, no-wrap
 msgid "Aldonu paĝon"
 msgstr "ਇੱਕ ਪੰਨਾ ਸ਼ਾਮਲ ਕਰੋ"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:10
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:10
+#, fuzzy, no-wrap
 msgid "Paĝoj aperas en la maldekstra menuo, ne en la listo de afiŝoj.\n"
 msgstr "ਪੰਨੇ ਪੋਸਟਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚ ਨਹੀਂ, ਖੱਬੇ ਮੀਨੂ ਵਿੱਚ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ.\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:13
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:13
+#, fuzzy, no-wrap
 msgid ""
-"Por aldoni novan paĝon, simple kreu dosieron en la dosierujo _xx, où _xx_ "
-"estas la kodo de via lingvo. Ĉi tiu dosiero devas havi etendon _«.md»_ por "
-"montri, ke ĝi estas dosiero _markdown_.\n"
+"Por aldoni novan paĝon, simple kreu dosieron en la dosierujo _xx, où _xx_ estas la kodo de via lingvo. Ĉi tiu dosiero devas havi etendon _«.md»_ por montri, ke ĝi estas dosiero _markdown_.\n"
 "Ĉi tiu paĝo \n"
-msgstr "ਨਵਾਂ ਪੇਜ ਜੋੜਨ ਲਈ, ਡਾਇਰੈਕਟਰੀ ਵਿਚ ਇਕ ਫਾਈਲ ਬਣਾਓ _xx, où _xx_ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਦਾ ਕੋਡ ਹੈ. ਇਹ ਦਰਸਾਉਣ ਲਈ ਕਿ ਇਹ ਫਾਈਲ ਹੈ _markdown_ਇਸ ਫਾਈਲ ਦਾ ਐਕਸਟੈਂਸ਼ਨ _«.md»_ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ.\nਇਹ ਪੰਨਾ \n"
+msgstr ""
+"ਨਵਾਂ ਪੇਜ ਜੋੜਨ ਲਈ, ਡਾਇਰੈਕਟਰੀ ਵਿਚ ਇਕ ਫਾਈਲ ਬਣਾਓ _xx, où _xx_ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਦਾ ਕੋਡ ਹੈ. ਇਹ ਦਰਸਾਉਣ ਲਈ ਕਿ ਇਹ ਫਾਈਲ ਹੈ _markdown_ਇਸ ਫਾਈਲ ਦਾ ਐਕਸਟੈਂਸ਼ਨ _«.md»_ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ.\n"
+"ਇਹ ਪੰਨਾ \n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:15
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:15
+#, fuzzy, no-wrap
 msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
 msgstr "ਇਸ ਫਾਈਲ ਦੀ ਸ਼ੁਰੂਆਤ ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ (as 1 °) ਫਾਰਮੈਟ ਵਿੱਚ ਇੱਕ ਸਿਰਲੇਖ ਨਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ:\n"
 
 #. type: Fenced code block
-#: ./032-aldono-pagxo.md:16
+#: 032-aldono-pagxo.md:16
 #, no-wrap
 msgid ""
 "---\n"
@@ -93,46 +89,34 @@ msgstr ""
 "---\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:27
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:27
+#, fuzzy, no-wrap
 msgid "La ŝanĝendaj kampoj estas:\n"
 msgstr "ਬਦਲਣ ਵਾਲੇ ਖੇਤਰ ਹਨ:\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:29
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:29
+#, fuzzy, no-wrap
 msgid "_lang:_ : anstataŭigu _xx_ per la kodo de via lingvo.\n"
 msgstr "_lang:_ : _xx_ ਨੂੰ ਆਪਣੀ ਭਾਸ਼ਾ ਦੇ ਕੋਡ ਨਾਲ ਬਦਲੋ.\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:31
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"_lang-ref_ : ĉi tiu kampo permesas vin identigi la paĝon, anstataŭigi "
-"_001-yyy_ per tio, kion vi volas, ĝi devas esti unika en via blogo, kaj ĝi "
-"estas uzata por ordigi la paĝojn en la menuo, do ĝi rekomendas komencu per "
-"tricifera nombro kiel en la ekzemplo por regi la ordon de la paĝoj en la "
-"menuo.\n"
+#: 032-aldono-pagxo.md:31
+#, fuzzy, no-wrap
+msgid "_lang-ref_ : ĉi tiu kampo permesas vin identigi la paĝon, anstataŭigi _001-yyy_ per tio, kion vi volas, ĝi devas esti unika en via blogo, kaj ĝi estas uzata por ordigi la paĝojn en la menuo, do ĝi rekomendas komencu per tricifera nombro kiel en la ekzemplo por regi la ordon de la paĝoj en la menuo.\n"
 msgstr "_lang-ref_ ਮੀਨੂ ਵਿਚਲੇ ਪੰਨਿਆਂ ਦੇ ਕ੍ਰਮ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਜਿਵੇਂ ਕਿ ਤਿੰਨ-ਅੰਕ ਨੰਬਰ ਨਾਲ ਸ਼ੁਰੂ ਕਰਨ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ.\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:33
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:33
+#, fuzzy, no-wrap
 msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via paĝo.\n"
 msgstr "_title:_ : (page 3 °) ਨੂੰ ਆਪਣੇ ਪੇਜ ਦੇ ਸਿਰਲੇਖ ਨਾਲ ਬਦਲੋ.\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:35
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via "
-"teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la "
-"dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la "
-"dosier-esplorilo.\n"
+#: 032-aldono-pagxo.md:35
+#, fuzzy, no-wrap
+msgid "Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la dosier-esplorilo.\n"
 msgstr "ਹੁਣ ਆਪਣੀ ਪੋਸਟ ਦੀ ਸਮੱਗਰੀ ਸ਼ਾਮਲ ਕਰੋ, ਅਤੇ ਜਦੋਂ ਤੁਸੀਂ ਆਪਣੇ ਟੈਕਸਟ ਨਾਲ ਸੰਤੁਸ਼ਟ ਹੋ ਜਾਂਦੇ ਹੋ, ਫੋਲਡਰ _scripts_ਵਿਚਲੀ ਸਕ੍ਰਿਪਟ _traduki_ ਨਾਲ ਅਨੁਵਾਦ ਸ਼ੁਰੂ ਕਰੋ. ਤੁਸੀਂ ਇਸਨੂੰ ਕਮਾਂਡ ਲਾਈਨ ਜਾਂ ਫਾਈਲ ਐਕਸਪਲੋਰਰ ਤੋਂ ਲਾਂਚ ਕਰ ਸਕਦੇ ਹੋ.\n"
 
+#~ msgid "auto"
+#~ msgstr "auto"

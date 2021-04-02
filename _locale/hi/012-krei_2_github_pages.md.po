@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:42+0100\n"
+"POT-Creation-Date: 2021-04-02 20:44+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,18 +55,18 @@ msgstr "अपने उपयोगकर्ता नाम के साथ g
 #. type: Plain text
 #: 012-krei_2_github_pages.md:12
 #, fuzzy, no-wrap
-msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)के स्थान पर जाएँ, और _«Use this template»_पर क्लिक करें।\n"
+msgid "Iru al la retejo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)की वेबसाइट पर जाएँ, और _«Use this template»_पर क्लिक करें।\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:15
 #, fuzzy, no-wrap
 msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
-"Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo _«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku \"Konservi\".\n"
+"Iru al la parametroj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu _«None»_ per _«master»_, alklaku _«Save»_.\n"
 msgstr ""
 "एक रिपॉजिटरी के लिए एक नाम दर्ज करें और रिपॉजिटरी के निर्माण को मान्य करें।\n"
-"अपने रिपॉजिटरी के मापदंडों पर जाएं, पैराग्राफ _«Github Pages»_तक स्क्रॉल करें और (° ४ °) कोई नहीं (° ५ °) मास्टर (° ६ °) मास्टर°) के साथ क्लिक करें \"स्टोर\"।\n"
+"अपने रिपॉजिटरी के मापदंडों पर जाएं, पैराग्राफ _«Github Pages»_पर जाएं, _«master»_के साथ _«master»_को प्रतिस्थापित करें, _«Save»_पर क्लिक करें।\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:16
@@ -76,12 +76,20 @@ msgstr "अब लिनक्स के साथ एक कंप्यूट�
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, fuzzy, no-wrap
-msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
-msgstr "पूर्वापेक्षाएँ स्थापित करें, उदाहरण के लिए यदि आप डेबियन के अंतर्गत हैं:\n"
+#, no-wrap
+#, fuzzy
+msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
+msgstr "पूर्वापेक्षाएँ स्थापित करें: रूबी-बंडलर रूबी-देव गॉक पीओ 4 ए (डिग्री ° 0001 डिग्री) = 0.61 (डिग्री 0002 डिग्री)\n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:20
+#, no-wrap
+#, fuzzy
+msgid "Ekzemple se vi estas sub Debian Buster:\n"
+msgstr "उदाहरण के लिए यदि आप डेबियन बस्टर के अधीन हैं: (° ° 0001 डिग्री)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:18
+#: 012-krei_2_github_pages.md:21
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -91,13 +99,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:24
+#: 012-krei_2_github_pages.md:27
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "और अपनी जमा राशि की एक प्रति प्राप्त करें:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:24
+#: 012-krei_2_github_pages.md:28
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/name\n"
@@ -111,61 +119,70 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:36
 #, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "अपनी कामकाजी भाषा (दो अक्षर वाला कोड), शीर्षक और संक्षिप्त विवरण चुनें, और साइट को इनिशियलाइज़ करें:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:32
+#: 012-krei_2_github_pages.md:37
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:36
-#, fuzzy, no-wrap
-msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
-msgstr "फ़ाइल _\\_config.yml_ में मूल पैरामीटर को बदलने के लिए, आपको साइट का नाम \"\"के स्थान पर रखना होगा, यह करने के लिए:  \n"
+#: 012-krei_2_github_pages.md:41
+#, no-wrap
+#, fuzzy
+msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
+msgstr "पैरामीटर को बदलें, आपको साइट का नाम \"\"के बजाय रखना होगा:  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:37
+#: 012-krei_2_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "    `baseurl:          \"/name\"`  \n"
 msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:39
-#, fuzzy, no-wrap
-msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
-msgstr "    (को आपके द्वारा चुने गए नाम)से प्रतिस्थापित करें _«name»_ \n"
+#: 012-krei_2_github_pages.md:44
+#, no-wrap
+#, fuzzy
+msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
+msgstr "    (आपके द्वारा चुने गए नाम के साथ (° 0002 डिग्री) बदलें, (° ° 0004 डिग्री)न भूलें)\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:39
+#: 012-krei_2_github_pages.md:45
 #, no-wrap
 msgid "nano _config.yml\n"
 msgstr "nano _config.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:44
+#: 012-krei_2_github_pages.md:49
+#, no-wrap
+#, fuzzy
+msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
+msgstr "(लेखक के नाम को बदलने के लिए इसका लाभ उठाएं। (° 0002 डिग्री)\n"
+
+#. type: Plain text
+#: 012-krei_2_github_pages.md:51
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "यदि आप 15 पूर्व निर्धारित से कम भाषाएं चाहते हैं, तो फ़ाइल को संपादित करें _\\_data/languages.yml_ और संबंधित पंक्तियों को हटा दें:\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:44
+#: 012-krei_2_github_pages.md:51
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:49
+#: 012-krei_2_github_pages.md:56
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "अपनी साइट पर परिवर्तन भेजें _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 012-krei_2_github_pages.md:49
+#: 012-krei_2_github_pages.md:56
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -177,10 +194,41 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 012-krei_2_github_pages.md:56
+#: 012-krei_2_github_pages.md:63
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo kreiĝis, ĝi estas alirebla ĉe https://username.github.io/name.\n"
 msgstr "बधाई हो, आपकी साइट बनाई गई है, यह https://username.github.io/name पर सुलभ है।\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
+#~ msgstr "पूर्वापेक्षाएँ स्थापित करें, उदाहरण के लिए यदि आप डेबियन के अंतर्गत हैं:\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Ŝanĝu la bazan parametron en la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
+#~ msgstr "फ़ाइल _\\_config.yml_ में मूल पैरामीटर को बदलने के लिए, आपको साइट का नाम \"\"के स्थान पर रखना होगा, यह करने के लिए:  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "    (anstataŭigu _«name»_ kun la nomo kiun vi elektis)\n"
+#~ msgstr "    (को आपके द्वारा चुने गए नाम)से प्रतिस्थापित करें _«name»_ \n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr ""
+#~ " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)के "
+#~ "स्थान पर जाएँ, और _«Use this template»_पर क्लिक करें।\n"
+
+#, fuzzy
+#~ msgid ""
+#~ "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
+#~ "Iru al la parametroj de via deponejo, rulumu malsupren al paragrafo "
+#~ "_«Github Pages»_, kaj anstataŭigu \"Neniu\" per \"majstro\", alklaku "
+#~ "\"Konservi\".\n"
+#~ msgstr ""
+#~ "एक रिपॉजिटरी के लिए एक नाम दर्ज करें और रिपॉजिटरी के निर्माण को मान्य करें।\n"
+#~ "अपने रिपॉजिटरी के मापदंडों पर जाएं, पैराग्राफ _«Github Pages»_तक स्क्रॉल करें और (° "
+#~ "४ °) कोई नहीं (° ५ °) मास्टर (° ६ °) मास्टर°) के साथ क्लिक करें \"स्टोर\"।\n"
 
 #, fuzzy
 #~ msgid ""

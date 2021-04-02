@@ -8,19 +8,23 @@ title: 'создать 1 подсеть _"github page"_'
 
 Войдите в github под своим именем пользователя.  
 
-Перейдите к месту [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и щелкните _«Use this template»_.
+Перейдите на веб-сайт [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и щелкните _«Use this template»_.
 
 Введите имя репозитория и подтвердите создание репозитория.
-Перейдите к параметрам вашего репозитория, прокрутите вниз до абзаца _«Github Pages»_и замените "None"на "master", щелкните "Хранить".
+Перейдите к параметрам вашего репозитория, перейдите к абзацу _«Github Pages»_и замените _«None»_ на _«master»_, щелкните _«Save»_.
 
 Теперь подключитесь к компьютеру с Linux.  
-Установите необходимые компоненты, например, если вы используете Debian:
+Установите предварительные условия: Ruby-Bundler Ruby-dev Gawk PO4A>= 0,61
+
+Например, если вы находитесь под Debian Buster: (° 1 ° 1
+
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a
 ```
 
 и получите копию вашего депозита:
+
 ```bash
 git clone https://github.com/username/name
 cd name
@@ -29,16 +33,19 @@ git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-hi
 ```
 
 Выберите свой рабочий язык (, двухбуквенный код), заголовок и краткое описание, и инициализируйте сайт:
+
 ```bash
 _scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
-Чтобы изменить основной параметр в файле _\_config.yml_ , вы должны указать название сайта вместо "", чтобы получилось:  
+Измените параметр _baseurl_ в файл _\_config.yml_ , вы должны поместить имя сайта вместо "", чтобы иметь это:  
     `baseurl:          "/name"`  
-    (замените _«name»_ выбранным вами именем)
+    (Заменить _«name»_ с выбранным вами именем, не забывайте _/_)
+
 ```bash
 nano _config.yml
 ```
+(Воспользуйтесь этим, чтобы изменить имя автора.)(° 3 ° 3
 
 Если вам нужно меньше языков, чем 15 предустановленных, отредактируйте файл _\_data/languages.yml_ и удалите соответствующие строки:
 ```bash

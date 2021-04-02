@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:57+0100\n"
+"POT-Creation-Date: 2021-02-18 19:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,26 @@ msgstr "所有帖子"
 msgid "Elektu vian lingvon"
 msgstr "选择你的语言"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "评论："
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "在github)上添加评论 ("
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, fuzzy, no-wrap
+msgid "Komentoj:"
+msgstr "评论："
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -42,8 +62,7 @@ msgstr "阅读另一种语言的页面"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skeleto por krei plurlingvan statikan retejon kun jekyll."
 msgstr "用jekyll创建一个多语言静态网站的框架。"
 
@@ -73,8 +92,7 @@ msgstr "搜索谷歌。"
 
 #. type: Hash Value - Key: titolo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-Plurlingva_ "
 msgstr " _Jekyll-Plurlingva_ "
 
@@ -83,6 +101,14 @@ msgstr " _Jekyll-Plurlingva_ "
 #, fuzzy, no-wrap
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "请注意：此页面已自动翻译。如果可以，您应该使用以下其中一种语言阅读它："
+
+#, fuzzy
+#~ msgid " komentis:"
+#~ msgstr " 评论："
+
+#, fuzzy
+#~ msgid "Aldoni vian komenton ( pri _github_ )"
+#~ msgstr "添加您的评论 ( 关于 _github_ )"
 
 #, fuzzy
 #~ msgid "La description."

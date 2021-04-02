@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-01-24 17:27+0100\n"
+"POT-Creation-Date: 2021-02-18 18:34+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,63 +17,59 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "eo"
 msgstr "ru"
 
 #. type: YAML Front Matter: lang-niv
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "032-aldono-pagxo"
 msgstr "032-aldono-pagxo"
 
 #. type: YAML Front Matter: layout
-#: ./032-aldono-pagxo.md:1
+#: 032-aldono-pagxo.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./032-aldono-pagxo.md:1
-#, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:1
+#, fuzzy, no-wrap
 msgid "Aldonu paĝon"
 msgstr "Добавить страницу"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:10
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:10
+#, fuzzy, no-wrap
 msgid "Paĝoj aperas en la maldekstra menuo, ne en la listo de afiŝoj.\n"
 msgstr "Страницы отображаются в левом меню, а не в списке сообщений.\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:13
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:13
+#, fuzzy, no-wrap
 msgid ""
-"Por aldoni novan paĝon, simple kreu dosieron en la dosierujo _xx, où _xx_ "
-"estas la kodo de via lingvo. Ĉi tiu dosiero devas havi etendon _«.md»_ por "
-"montri, ke ĝi estas dosiero _markdown_.\n"
+"Por aldoni novan paĝon, simple kreu dosieron en la dosierujo _xx, où _xx_ estas la kodo de via lingvo. Ĉi tiu dosiero devas havi etendon _«.md»_ por montri, ke ĝi estas dosiero _markdown_.\n"
 "Ĉi tiu paĝo \n"
-msgstr "Чтобы добавить новую страницу, просто создайте файл в каталоге _xx, où _xx_ с кодом вашего языка. Этот файл должен иметь расширение _«.md»_ , чтобы показать, что это файл _markdown_.\nЭта страница \n"
+msgstr ""
+"Чтобы добавить новую страницу, просто создайте файл в каталоге _xx, où _xx_ с кодом вашего языка. Этот файл должен иметь расширение _«.md»_ , чтобы показать, что это файл _markdown_.\n"
+"Эта страница \n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:15
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:15
+#, fuzzy, no-wrap
 msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
 msgstr "Этот файл должен начинаться с заголовка в формате _YAML_ следующим образом:\n"
 
 #. type: Fenced code block
-#: ./032-aldono-pagxo.md:16
+#: 032-aldono-pagxo.md:16
 #, no-wrap
 msgid ""
 "---\n"
@@ -93,46 +89,34 @@ msgstr ""
 "---\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:27
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:27
+#, fuzzy, no-wrap
 msgid "La ŝanĝendaj kampoj estas:\n"
 msgstr "Поля для изменения:\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:29
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:29
+#, fuzzy, no-wrap
 msgid "_lang:_ : anstataŭigu _xx_ per la kodo de via lingvo.\n"
 msgstr "_lang:_ : замените _xx_ кодом вашего языка.\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:31
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"_lang-ref_ : ĉi tiu kampo permesas vin identigi la paĝon, anstataŭigi "
-"_001-yyy_ per tio, kion vi volas, ĝi devas esti unika en via blogo, kaj ĝi "
-"estas uzata por ordigi la paĝojn en la menuo, do ĝi rekomendas komencu per "
-"tricifera nombro kiel en la ekzemplo por regi la ordon de la paĝoj en la "
-"menuo.\n"
+#: 032-aldono-pagxo.md:31
+#, fuzzy, no-wrap
+msgid "_lang-ref_ : ĉi tiu kampo permesas vin identigi la paĝon, anstataŭigi _001-yyy_ per tio, kion vi volas, ĝi devas esti unika en via blogo, kaj ĝi estas uzata por ordigi la paĝojn en la menuo, do ĝi rekomendas komencu per tricifera nombro kiel en la ekzemplo por regi la ordon de la paĝoj en la menuo.\n"
 msgstr "_lang-ref_ : это поле позволяет вам идентифицировать страницу, заменять _001-yyy_ тем, что вы хотите, оно должно быть уникальным в вашем блоге и используется для сортировки страниц в меню, поэтому Рекомендуется начинать с трехзначного числа, как в примере, чтобы контролировать порядок страниц в меню.\n"
 
 #. type: Bullet: '* '
-#: ./032-aldono-pagxo.md:33
-#, markdown-text, no-wrap
-#, fuzzy
+#: 032-aldono-pagxo.md:33
+#, fuzzy, no-wrap
 msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via paĝo.\n"
 msgstr "_title:_ : замените _zzz_ названием своей страницы.\n"
 
 #. type: Plain text
-#: ./032-aldono-pagxo.md:35
-#, markdown-text, no-wrap
-#, fuzzy
-msgid ""
-"Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via "
-"teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la "
-"dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la "
-"dosier-esplorilo.\n"
+#: 032-aldono-pagxo.md:35
+#, fuzzy, no-wrap
+msgid "Nun aldonu la enhavon de via afiŝo, kaj kiam vi estos kontenta pri via teksto, komencu la tradukon per la skripto _traduki_ , kiu estas en la dosierujo _scripts_. Vi povas lanĉi ĝin aŭ de la komandlinio aŭ de la dosier-esplorilo.\n"
 msgstr "Теперь добавьте содержание вашего сообщения, и когда вы будете удовлетворены своим текстом, начните перевод со скрипта _traduki_ , который находится в папке _scripts_. Вы можете запустить его либо из командной строки, либо из файлового проводника.\n"
 
+#~ msgid "auto"
+#~ msgstr "auto"

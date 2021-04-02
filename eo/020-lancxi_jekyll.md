@@ -1,6 +1,6 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 020-lancxu-jekyll-loke
 layout: page
 title: 'Lanĉu jekyll loke'

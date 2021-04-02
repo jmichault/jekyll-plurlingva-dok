@@ -1,4 +1,5 @@
 ---
+komentoj_id: 4
 lang: ru
 lang-niv: auto
 lang-ref: 010-kreu-cxefan-GP
@@ -8,7 +9,7 @@ title: 'создать 1 сайт _"github page"_'
 
 Войдите в github под своим именем пользователя.  
 
-Перейдите к месту [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и щелкните _«Use this template»_.
+Перейдите к полотну [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и щелкните _«Use this template»_.
 
 Введите в качестве имени репозитория: _username.github.io_ , где _username_ - ваше имя пользователя в _github_, и подтвердите создание репозитория.
 

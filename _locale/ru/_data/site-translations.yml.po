@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-06 17:57+0100\n"
+"POT-Creation-Date: 2021-02-18 19:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,6 +34,26 @@ msgstr "Все сообщения"
 msgid "Elektu vian lingvon"
 msgstr "Выберите свой язык"
 
+#. type: Hash Value - Key: komentis
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "komentis:"
+msgstr "прокомментировал:"
+
+#. type: Hash Value - Key: komentoButono
+#: >lang
+#, no-wrap
+#, fuzzy
+msgid "Aldoni vian komenton (pri github)"
+msgstr "Добавить комментарий (на github)"
+
+#. type: Hash Value - Key: komentoj
+#: >lang
+#, fuzzy, no-wrap
+msgid "Komentoj:"
+msgstr "Комментарии:"
+
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
 #, fuzzy, no-wrap
@@ -42,8 +62,7 @@ msgstr "Прочтите эту страницу на другом языке"
 
 #. type: Hash Value - Key: priskribo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Skeleto por krei plurlingvan statikan retejon kun jekyll."
 msgstr "Скелет для создания многоязычного статического веб-сайта с помощью jekyll."
 
@@ -73,8 +92,7 @@ msgstr "Искать в Google."
 
 #. type: Hash Value - Key: titolo
 #: >lang
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid " _Jekyll-Plurlingva_ "
 msgstr " _Jekyll-Plurlingva_ "
 
@@ -83,6 +101,14 @@ msgstr " _Jekyll-Plurlingva_ "
 #, fuzzy, no-wrap
 msgid "Bonvolu noti: ĉi tiu paĝo estis tradukita aŭtomate. Se vi povas, vi devas legi ĝin en unu el ĉi tiuj lingvoj:"
 msgstr "Обратите внимание: эта страница была переведена автоматически. Если можете, прочтите его на одном из этих языков:"
+
+#, fuzzy
+#~ msgid " komentis:"
+#~ msgstr " прокомментировал:"
+
+#, fuzzy
+#~ msgid "Aldoni vian komenton ( pri _github_ )"
+#~ msgstr "Добавьте свой комментарий ( о _github_ )"
 
 #, fuzzy
 #~ msgid "La description."
