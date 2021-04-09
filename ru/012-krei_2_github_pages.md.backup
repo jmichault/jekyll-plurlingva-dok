@@ -1,0 +1,63 @@
+---
+lang: ru
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: 'Создать 1 подстав _"github page"_'
+---
+
+Войдите в GitHub с вашим именем пользователя.  
+
+Перейдите на место [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и нажмите _«Use this template»_.
+
+Вставьте имя депозита и проверьте создание депозита.
+Перейдите в настройки вашего депозита, перейдите в пункт _«Github Pages»_и замените _«None»_ с _«master»_, нажмите _«Save»_.
+
+Теперь подключитесь к компьютеру в Linux.  
+Установите предварительные условия: Ruby-Bundler Ruby-dev Gawk PO4A>= 0,61
+
+Например, если вы находитесь под Debian Buster: (° 1 ° 1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+и извлечь копию вашего склада: (° 1 ° 1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+Выберите свой рабочий язык (° 1 ° 1 ° 1 код двух букв), короткого заголовка и описания и инициализации сайта: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+Установите параметр Basiurl в файл _\_config.yml_ , имя сайта вместо "", чтобы иметь это:  
+    `baseurl:          "/name"`  
+    (Заменить _«name»_ с выбранным вами именем)
+
+```bash
+nano _config.yml
+```
+(Воспользуйтесь этим, чтобы изменить имя автора.)(° 3 ° 3
+
+Если вы хотите меньше языков, чем преимущественных 15, отредактируйте файл _\_data/languages.yml_ и удалите соответствующие строки:
+```bash
+nano _data/languages.yml
+```
+
+Передача изменений на ваш сайт _github_ : (° 3 ° 3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+Поздравляем, ваш сайт создан, это доступно по адресу https://username.github.io/name.
+

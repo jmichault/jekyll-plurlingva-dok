@@ -1,0 +1,62 @@
+---
+lang: ar
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: 'إنشاء موقع فرعي 1 _"github page"_'
+---
+
+تسجيل الدخول إلى Github مع اسم المستخدم الخاص بك.  
+
+انتقل إلى مكان [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)، وانقر فوق _«Use this template»_.
+
+أدخل اسم الودائع، والتحقق من صحة إنشاء الودائع. (° 1 درجة) انتقل إلى إعدادات إيداعك، انتقل إلى الفقرة _«Github Pages»_، واستبدال _«None»_ مع _«master»_، انقر فوق _«Save»_.
+
+الآن الاتصال بجهاز كمبيوتر في Linux.  
+تثبيت المتطلبات الأساسية: روبي بانددل روبي ديف جوك PO4A>= 0.61
+
+على سبيل المثال، إذا كنت تحت Debian Buster: (° 1 ° 1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+واسترداد نسخة من مستودعاتك: (° 1 ° 1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+اختر لغة العمل الخاصة بك (° 1 ° 1 ° 1 كود واحد من حرفين)، وعنوان قصير ووصف، وتهيئة الموقع الإلكتروني: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+اضبط المعلمة Basiurl في الملف _\_config.yml_ ، اسم الموقع بدلا من ""، أن يكون هذا:  
+    `baseurl:          "/name"`  
+(° 1 درجة) استبدال _«name»_ بالاسم الذي حددته)
+
+```bash
+nano _config.yml
+```
+(° 1 درجة) الاستفادة منه لتغيير اسم المؤلف.)(° 3 ° 3
+
+إذا كنت تريد لغات أقل من 15 مسبقا، قم بتحرير الملف _\_data/languages.yml_ وإزالة الخطوط المقابلة:
+```bash
+nano _data/languages.yml
+```
+
+نقل التغييرات إلى موقعك _github_ : (° 3 ° 3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+تهانينا، يتم إنشاء موقعك، يمكن الوصول إليه في https://username.github.io/name.
+

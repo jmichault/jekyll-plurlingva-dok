@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-09 19:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "eo"
+msgstr "de"
+
+#. type: YAML Front Matter: lang-niv
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "033-ebligi-komentojn"
+msgstr "033-ebligi-komentojn"
+
+#. type: YAML Front Matter: layout
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: 033-ebligi-komentojn.md:1
+#, fuzzy, no-wrap
+msgid "Aktivigi komentojn"
+msgstr "Kommentare aktivieren"
+
+#. type: Plain text
+#: 033-ebligi-komentojn.md:12
+#, fuzzy, no-wrap
+msgid "Por permesi al viaj vizitantoj aldoni komentojn pri unu el viaj paĝoj, vi bezonas:\n"
+msgstr "Um Ihren Besuchern zu ermöglichen, Kommentare zu einem Ihrer Seiten hinzuzufügen, benötigen Sie: (° 1 ° 1\n"
+
+#. type: Title #
+#: 033-ebligi-komentojn.md:13
+#, fuzzy, no-wrap
+msgid "Ĉe la retejo"
+msgstr "Am Ort"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:15
+#, fuzzy, no-wrap
+msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
+msgstr "Finden Sie _gh\\_uzanto_ in _\\_config.yml_ mit Ihrem Github-Benutzernamen.\n"
+
+#. type: Title #
+#: 033-ebligi-komentojn.md:17
+#, fuzzy, no-wrap
+msgid "Por la afiŝo aŭ paĝo"
+msgstr "Für das Poster oder die Seite"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:19
+#, fuzzy, no-wrap
+msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+msgstr "Erstellen Sie _«issue»_ im Repository, das der Website entspricht, beachten Sie seine Nummer. (° 3 ° 3\n"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:21
+#, fuzzy, no-wrap
+msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
+msgstr "Zum Poster oder Seitenkopf hinzufügen _YAML_ :  \n"
+
+#. type: Fenced code block
+#: 033-ebligi-komentojn.md:24
+#, no-wrap
+msgid "komentoj_id: #\n"
+msgstr "komentoj_id: #\n"
+
+#. type: Plain text
+#: 033-ebligi-komentojn.md:27
+#, no-wrap
+#, fuzzy
+msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
+msgstr "(Ersetzen _#_ mit der zuvor bekannten Zahl)\n"
+
+#, fuzzy, no-wrap
+#~ msgid "(Anstataŭigi _#_ kun la numero de numero)\n"
+#~ msgstr "(Ersetzen _#_ mit der Anzahl der Anzahl)\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Krei eliron en la responda deponejo al la retejo, rimarku ĝian numeron.\n"
+#~ msgstr "Erstellen Sie in der entsprechenden Anzahlung an der Site einen Ausgang, beachten Sie seine Nummer.\n"
+
+#, fuzzy, no-wrap
+#~ msgid "( per anstataŭigo de numero de la numero 2 ° 2 °\n"
+#~ msgstr "( durch Ersatz der Anzahl der Anzahl von 2 ° 2 °\n"
+
+#, fuzzy
+#~ msgid "5"
+#~ msgstr "5."

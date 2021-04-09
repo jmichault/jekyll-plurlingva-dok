@@ -1,0 +1,63 @@
+---
+lang: zh
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: '创建1个子站点 _"github page"_'
+---
+
+使用您的用户名登录GitHub。  
+
+转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)](https://github.com/jmichault/jekyll-plurlingva)的地方，然后单击 _«Use this template»_。
+
+插入存款名称，并验证存款的创建。
+转到押金的设置，转到 _«Github Pages»_段，并用 _«master»_更换 _«None»_ ，单击 _«Save»_。
+
+现在连接到Linux中的计算机。  
+安装先决条件：Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61
+
+例如，如果您在Debian Buster下：（°1°1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+并检索仓库的副本：（°1°1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+选择您的工作语言（°1°1°1码两个字母)，简称和描述，并初始化网站:(°3°3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+在文件 _\_config.yml_ 中设置Basiurl参数，网站名称代替 ""，具有以下方式:  
+    `baseurl:          "/name"`  
+    (更换 _«name»_ ，您选择的名称)
+
+```bash
+nano _config.yml
+```
+(利用它来改变作者的名字。)（°3°3
+
+如果您想要比预定义15更少，请编辑文件 _\_data/languages.yml_ 并删除相应的线路：
+```bash
+nano _data/languages.yml
+```
+
+转移到您的网站 _github_ 的变化：（°3°3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+恭喜，您的网站是创建的，它可以在https://username.github.io/name访问它。
+

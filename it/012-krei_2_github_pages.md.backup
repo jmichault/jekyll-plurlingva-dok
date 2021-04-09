@@ -1,0 +1,63 @@
+---
+lang: it
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: 'Crea 1 sito secondario _"github page"_'
+---
+
+Accedi a GitHub con il tuo nome utente.  
+
+Vai al posto di [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)e fare clic su _«Use this template»_.
+
+Inserire un nome di deposito e convalida la creazione del deposito.
+Vai alle impostazioni del deposito, andare al paragrafo _«Github Pages»_, e sostituire _«None»_ con _«master»_, fare clic su _«Save»_.
+
+Ora connettiti a un computer in Linux.  
+Installa i prerequisiti: rubino-bundler ruby-dev gawk po4a>= 0,61
+
+Ad esempio se sei sotto Debian Buster: (° 1 ° 1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+e recuperare una copia del tuo magazzino: (° 1 ° 1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+Scegli la tua lingua di lavoro (° 1 ° 1 ° 1 Codice di due lettere), breve titolo e descrizione e inizializzare il sito Web: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+Impostare il parametro Basiurl nel file _\_config.yml_ , il nome del sito Web anziché "", per avere questo:  
+    `baseurl:          "/name"`  
+    (Sostituire _«name»_ con il nome selezionato)
+
+```bash
+nano _config.yml
+```
+(Approfittarne per cambiare il nome dell'autore.)(° 3 ° 3
+
+Se si desidera meno lingue rispetto al predefinito 15, modificare il file _\_data/languages.yml_ e rimuovere le linee corrispondenti:
+```bash
+nano _data/languages.yml
+```
+
+Trasferisci le modifiche al tuo sito _github_ : (° 3 ° 3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+Congratulazioni, il tuo sito è stato creato, è accessibile a https://username.github.io/name.
+

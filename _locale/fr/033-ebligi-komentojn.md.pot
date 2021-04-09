@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-09 19:09+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "033-ebligi-komentojn"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: 033-ebligi-komentojn.md:1
+#, no-wrap
+msgid "Activer les commentaires"
+msgstr ""
+
+#. type: Plain text
+#: 033-ebligi-komentojn.md:12
+#, no-wrap
+msgid "Pour permettre à vos visiteurs d'ajouter des commentaires sur l'une de vos pages, il vous faut :\n"
+msgstr ""
+
+#. type: Title #
+#: 033-ebligi-komentojn.md:13
+#, no-wrap
+msgid "Au niveau du site"
+msgstr ""
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:15
+#, no-wrap
+msgid "renseigner _gh\\_uzanto_ dans _\\_config.yml_ avec votre nom d'utilisateur github.\n"
+msgstr ""
+
+#. type: Title #
+#: 033-ebligi-komentojn.md:16
+#, no-wrap
+msgid "Pour le post ou la page"
+msgstr ""
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:18
+#, no-wrap
+msgid "créer une _«issue»_ dans le dépôt correspondant au site, noter son numéro.\n"
+msgstr ""
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:19
+#, no-wrap
+msgid "ajouter dans l'en-tête _YAML_ du post ou de la page :  \n"
+msgstr ""
+
+#. type: Fenced code block
+#: 033-ebligi-komentojn.md:21
+#, no-wrap
+msgid "komentoj_id: #\n"
+msgstr ""
+
+#. type: Plain text
+#: 033-ebligi-komentojn.md:24
+#, no-wrap
+msgid "(remplacez _#_ par le numéro noté précédemment)\n"
+msgstr ""

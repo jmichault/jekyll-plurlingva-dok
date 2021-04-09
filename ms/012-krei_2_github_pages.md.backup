@@ -1,0 +1,63 @@
+---
+lang: ms
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: 'Buat 1 sub tapak _"github page"_'
+---
+
+Masuk ke GitHub dengan nama pengguna anda.  
+
+Pergi ke tempat [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), dan klik _«Use this template»_.
+
+Masukkan nama deposit, dan sahkan penciptaan deposit.
+Pergi ke tetapan deposit anda, pergi ke perenggan _«Github Pages»_, dan gantikan _«None»_ dengan _«master»_, klik _«Save»_.
+
+Sekarang sambungkan ke komputer di Linux.  
+Pasang Prasyarat: Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61
+
+Sebagai contoh jika anda berada di bawah Debian Buster: (° 1 ° 1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+dan dapatkan salinan gudang anda: (° 1 ° 1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+Pilih bahasa kerja anda (° 1 ° 1 ° 1 kod dua huruf), tajuk ringkas dan perihalan, dan memulakan laman web: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+Tetapkan parameter Basiurl dalam fail _\_config.yml_ , nama laman web bukannya "", untuk mempunyai ini:  
+    `baseurl:          "/name"`  
+    (Ganti _«name»_ dengan nama yang anda pilih)
+
+```bash
+nano _config.yml
+```
+(Ambil kesempatan untuk menukar nama pengarang.)(° 3 ° 3
+
+Jika anda mahu kurang bahasa daripada yang dipratentukan 15, edit fail _\_data/languages.yml_ dan keluarkan baris yang sepadan:
+```bash
+nano _data/languages.yml
+```
+
+Pindahkan perubahan ke laman web anda _github_ : (° 3 ° 3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+Tahniah, laman web anda dicipta, ia boleh diakses di https://username.github.io/name.
+

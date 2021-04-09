@@ -1,0 +1,224 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-02 20:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./012-krei_2_github_pages.md.backup:1
+#, no-wrap
+msgid "eo"
+msgstr "ru"
+
+#. type: YAML Front Matter: lang-niv
+#: ./012-krei_2_github_pages.md.backup:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./012-krei_2_github_pages.md.backup:1
+#, no-wrap
+msgid "012-kreu-2-cxefan-GP"
+msgstr "012-kreu-2-cxefan-GP"
+
+#. type: YAML Front Matter: layout
+#: ./012-krei_2_github_pages.md.backup:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./012-krei_2_github_pages.md.backup:1
+#, no-wrap
+#, fuzzy
+msgid "Krei 1 sub-ejon _\"github page\"_"
+msgstr "Создать 1 подстав _\"github page\"_"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:9
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Ensalutu al GitHub kun via salutnomo.  \n"
+msgstr "Войдите в GitHub с вашим именем пользователя.  \n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:12
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Iru al la loko de [ _jekyll-plurlingva_ "
+"](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this "
+"template»_.\n"
+msgstr "Перейдите на место [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)и нажмите _«Use this template»_.\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:15
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Enmetu nomon de deponejo, kaj validigu la kreadon de la deponejo.\n"
+"Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj "
+"anstataŭigu _«None»_ kun _«master»_, alklaku _«Save»_.\n"
+msgstr "Вставьте имя депозита и проверьте создание депозита.\nПерейдите в настройки вашего депозита, перейдите в пункт _«Github Pages»_и замените _«None»_ с _«master»_, нажмите _«Save»_.\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:16
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Nun konekti al komputilo en Linukso.  \n"
+msgstr "Теперь подключитесь к компьютеру в Linux.  \n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:18
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
+msgstr "Установите предварительные условия: Ruby-Bundler Ruby-dev Gawk PO4A>= 0,61\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:20
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Ekzemple se vi estas sub Debian Buster:\n"
+msgstr "Например, если вы находитесь под Debian Buster: (° 1 ° 1\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:21
+#, no-wrap
+msgid ""
+"sudo apt install ruby-bundler ruby-dev gawk\n"
+"sudo apt -t buster-backports install po4a\n"
+msgstr ""
+"sudo apt install ruby-bundler ruby-dev gawk\n"
+"sudo apt -t buster-backports install po4a\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:27
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "kaj retrovu kopion de via magazeno:\n"
+msgstr "и извлечь копию вашего склада: (° 1 ° 1\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:28
+#, no-wrap
+msgid ""
+"git clone https://github.com/username/name\n"
+"cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git "
+"--allow-unrelated-histories\n"
+msgstr ""
+"git clone https://github.com/username/name\n"
+"cd name\n"
+"git config pull.rebase false\n"
+"git pull https://github.com/jmichault/jekyll-plurlingva.git "
+"--allow-unrelated-histories\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:36
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
+"priskribo, kaj pravalorizi la retejon:\n"
+msgstr "Выберите свой рабочий язык (° 1 ° 1 ° 1 код двух букв), короткого заголовка и описания и инициализации сайта: (° 3 ° 3\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:37
+#, no-wrap
+msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
+msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:41
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Ŝanĝu la parametron de Basiurl en la dosiero _\\_config.yml_ , la retejo "
+"nomo anstataŭ \"\", por havi ĉi tion:  \n"
+msgstr "Установите параметр Basiurl в файл _\\_config.yml_ , имя сайта вместо \"\", чтобы иметь это:  \n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:42
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "    `baseurl:          \"/name\"`  \n"
+msgstr "    `baseurl:          \"/name\"`  \n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:44
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "    (Anstataŭigu _«name»_ kun la nomo, kiun vi elektis)\n"
+msgstr "    (Заменить _«name»_ с выбранным вами именем)\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:45
+#, no-wrap
+msgid "nano _config.yml\n"
+msgstr "nano _config.yml\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:49
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
+msgstr "(Воспользуйтесь этим, чтобы изменить имя автора.)(° 3 ° 3\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:51
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Se vi volas malpli da lingvoj ol la antaŭdifinita 15, redaktu la dosieron "
+"_\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
+msgstr "Если вы хотите меньше языков, чем преимущественных 15, отредактируйте файл _\\_data/languages.yml_ и удалите соответствующие строки:\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:51
+#, no-wrap
+msgid "nano _data/languages.yml\n"
+msgstr "nano _data/languages.yml\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:56
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Transdoni ŝanĝojn al via retejo _github_ :\n"
+msgstr "Передача изменений на ваш сайт _github_ : (° 3 ° 3\n"
+
+#. type: Fenced code block (bash)
+#: ./012-krei_2_github_pages.md.backup:56
+#, no-wrap
+msgid ""
+"git add --all\n"
+"git commit -m \"Initial commit\"\n"
+"git push -u origin master\n"
+msgstr ""
+"git add --all\n"
+"git commit -m \"Initial commit\"\n"
+"git push -u origin master\n"
+
+#. type: Plain text
+#: ./012-krei_2_github_pages.md.backup:63
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Gratulojn, via retejo estas kreita, ĝi estas alirebla ĉe "
+"https://username.github.io/name.\n"
+msgstr "Поздравляем, ваш сайт создан, это доступно по адресу https://username.github.io/name.\n"
+

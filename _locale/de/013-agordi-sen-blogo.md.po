@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./013-agordi-sen-blogo.md:1
+#, no-wrap
+msgid "eo"
+msgstr "de"
+
+#. type: YAML Front Matter: lang-niv
+#: ./013-agordi-sen-blogo.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./013-agordi-sen-blogo.md:1
+#, no-wrap
+msgid "013-agordi-sen-blogo"
+msgstr "013-agordi-sen-blogo"
+
+#. type: YAML Front Matter: layout
+#: ./013-agordi-sen-blogo.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./013-agordi-sen-blogo.md:1
+#, no-wrap
+#, fuzzy
+msgid "Agordu retejon sen blogo"
+msgstr "Setup-Website ohne Blog"
+
+#. type: Plain text
+#: ./013-agordi-sen-blogo.md:12
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Se vi volas krei retejon sen blogo, vi bezonas:\n"
+"* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
+"* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
+"anstataŭ indekso.\n"
+msgstr "Wenn Sie eine Website ohne Blog erstellen möchten, benötigen Sie:\n* Zerlegen der Linie _«ne_Affixes: \"\"\"in _\\_confix.yml_.\n* Ändern Sie den Parameter _«layout»_ in der Datei index.md, indem Sie eine Seite anstelle eines Index einstellen.\n"
+

@@ -1,0 +1,63 @@
+---
+lang: pa
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: '1 ਉਪ-ਸਾਈਟ ਬਣਾਓ _"github page"_'
+---
+
+ਆਪਣੇ ਉਪਭੋਗਤਾ ਨਾਮ ਨਾਲ ਗੈਟਬ ਤੇ ਲੌਗਇਨ ਕਰੋ.  
+
+ [ _jekyll-plurlingva_ ਦੀ ਜਗ੍ਹਾ ਤੇ ਜਾਓ, ਅਤੇ _«Use this template»_ਤੇ ਕਲਿਕ ਕਰੋ.
+
+ਇੱਕ ਜਮ੍ਹਾ ਦਾ ਨਾਮ ਪਾਓ, ਅਤੇ ਡਿਪਾਜ਼ਿਟ ਦੀ ਸਿਰਜਣਾ ਨੂੰ ਪ੍ਰਮਾਣਿਤ ਕਰੋ.
+ਆਪਣੀ ਜਮ੍ਹਾਂ ਰਕਮ ਦੀ ਸੈਟਿੰਗਜ਼ ਤੇ ਜਾਓ, ਪੈਰਾ _«Github Pages»_ਤੇ ਜਾਓ, ਅਤੇ _«None»_ ਦੇ ਨਾਲ _«None»_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ, ਕਲਿੱਕ _«Save»_ਤੇ ਕਲਿਕ ਕਰੋ.
+
+ਹੁਣ ਲੀਨਕਸ ਵਿੱਚ ਇੱਕ ਕੰਪਿ computer ਟਰ ਨਾਲ ਜੁੜੋ.  
+ਸ਼ਰਤਾਂ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ: ਰੂਬੀ-ਬੰਡਲਰ ਰੂਬੀ ਪੋ 4 ਏ>= 0.61
+
+ਉਦਾਹਰਣ ਦੇ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਬੁਸਟਰ ਦੇ ਅਧੀਨ ਹੋ:
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+ਅਤੇ ਤੁਹਾਡੇ ਵੇਅਰਹਾ house ਸ ਦੀ ਇੱਕ ਕਾਪੀ ਪ੍ਰਾਪਤ ਕਰੋ:
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+ਆਪਣੀ ਵਰਕ ਭਾਸ਼ਾ ਚੁਣੋ (10 ° 1 ° 1 ° 1 ਕੋਡ) ਦੋ ਅੱਖਰਾਂ ਦਾ ਕੋਡ, ਛੋਟਾ ਸਿਰਲੇਖ ਅਤੇ ਵੇਰਵਾ ਚੁਣੋ ਅਤੇ ਵੈਬਸਾਈਟ ਨੂੰ ਅਰੰਭ ਕਰੋ: (3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+ਫਾਈਲ _\_config.yml_ ਵਿੱਚ Basiurl ਪੈਰਾਮੀਟਰ ਸੈੱਟ ਕਰੋ ,, ° 4 °) ",, ਇਸ ਨੂੰ ਰੱਖਣ ਲਈ, ਵੈਬਸਾਈਟ ਨਾਮ:  
+    `baseurl:          "/name"`  
+    (ਉਸ ਨਾਮ ਨਾਲ _«name»_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ))ਨਾਮ ਨਾਲ
+
+```bash
+nano _config.yml
+```
+(ਲੇਖਕ ਦਾ ਨਾਮ ਬਦਲਣ ਲਈ ਇਸ ਦਾ ਲਾਭ ਲਓ.)
+
+ਜੇ ਤੁਸੀਂ ਪਰਿਭਾਸ਼ਿਤ 15 ਤੋਂ ਘੱਟ ਭਾਸ਼ਾਵਾਂ ਚਾਹੁੰਦੇ ਹੋ, ਫਾਈਲ _\_data/languages.yml_ ਨੂੰ ਸੋਧੋ ਅਤੇ ਸੰਬੰਧਿਤ ਲਾਈਨਾਂ ਨੂੰ ਹਟਾਓ:
+```bash
+nano _data/languages.yml
+```
+
+ਤੁਹਾਡੀ ਸਾਈਟ ਤੇ ਤਬਦੀਲੀਆਂ ਟ੍ਰਾਂਸਫਰ ਕਰੋ _github_ :
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+ਵਧਾਈਆਂ, ਤੁਹਾਡੀ ਸਾਈਟ ਬਣਾਈ ਗਈ ਹੈ, https://username.github.io/name ਤੇ ਇਹ ਪਹੁੰਚਯੋਗ ਹੈ.
+

@@ -1,0 +1,63 @@
+---
+lang: bn
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: '1 সাব সাইট তৈরি করুন _"github page"_'
+---
+
+আপনার ব্যবহারকারীর নাম দিয়ে GitHub লগইন করুন।  
+
+ [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)](https://github.com/jmichault/jekyll-plurlingva)এ যান।
+
+একটি আমানত নাম সন্নিবেশ করান, এবং আমানতের সৃষ্টি যাচাই করুন।
+আপনার আমানতের সেটিংসে যান, অনুচ্ছেদে যান _«Github Pages»_এবং প্রতিস্থাপন করুন _«None»_ , ক্লিক করুন _«Save»_।
+
+এখন লিনাক্সে একটি কম্পিউটারে সংযোগ করুন।  
+পূর্বশর্তগুলি ইনস্টল করুন: রুবি-বান্ডলার রুবি-দেব গাউক PO4A>= 0.61
+
+উদাহরণস্বরূপ আপনি ডেবিয়ান Buster এর অধীনে থাকেন: (° 1 ° 1
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+এবং আপনার গুদামের একটি কপি পুনরুদ্ধার করুন: (° 1 ° 1
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+আপনার কাজের ভাষা চয়ন করুন (° 1 ° 1 ° 1 কোড দুটি অক্ষর), সংক্ষিপ্ত শিরোনাম এবং বিবরণ, এবং ওয়েবসাইটটি আরম্ভ করুন: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+ফাইল _\_config.yml_ , """এর পরিবর্তে ওয়েবসাইটের নাম সেট করুন:  
+    `baseurl:          "/name"`  
+    (প্রতিস্থাপন _«name»_ আপনার নাম)
+
+```bash
+nano _config.yml
+```
+(লেখক এর নাম পরিবর্তন করার জন্য এটি সুবিধা নিন। (° ২) (° 3 ° 3
+
+আপনি যদি পূর্বনির্ধারিত 15 এর চেয়ে কম ভাষা চান তবে ফাইলটি সম্পাদনা করুন _\_data/languages.yml_ এবং সংশ্লিষ্ট লাইনগুলি সরান:
+```bash
+nano _data/languages.yml
+```
+
+আপনার সাইটে স্থানান্তর পরিবর্তন _github_ : (° 3 ° 3
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+অভিনন্দন, আপনার সাইট তৈরি করা হয়, এটি https://username.github.io/name এ অ্যাক্সেসযোগ্য।
+

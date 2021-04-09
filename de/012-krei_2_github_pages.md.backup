@@ -1,0 +1,63 @@
+---
+lang: de
+lang-niv: auto
+lang-ref: 012-kreu-2-cxefan-GP
+layout: page
+title: 'Erstellen Sie 1 Unterstandort _"github page"_'
+---
+
+Melden Sie sich mit Ihrem Benutzernamen bei Github an.  
+
+Gehen Sie an den Ort von [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), und klicken Sie auf _«Use this template»_.
+
+Fügen Sie einen Einzahlungsnamen ein und bestätigen Sie die Erstellung der Anzahlung.
+Gehen Sie zu den Einstellungen Ihrer Anzahlung, gehen Sie zu Absatz _«Github Pages»_und ersetzen Sie _«None»_ mit _«master»_, klicken Sie auf _«Save»_.
+
+Verbinden Sie nun eine Verbindung zu einem Computer in Linux.  
+Installieren Sie die Voraussetzungen: Rubin-Bundler Ruby-dev Gawk Po4A>= 0,61
+
+Wenn Sie beispielsweise unter Debian Buster sind:
+
+```bash
+sudo apt install ruby-bundler ruby-dev gawk
+sudo apt -t buster-backports install po4a
+```
+
+und Abrufen einer Kopie Ihres Lagers:
+
+```bash
+git clone https://github.com/username/name
+cd name
+git config pull.rebase false
+git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories
+```
+
+Wählen Sie Ihre Arbeitssprache (° 1 ° 1 ° 1 Code von zwei Buchstaben), Kurze Titel und Beschreibung, und initialisieren die Website: (° 3 ° 3
+
+```bash
+_scripts/komenci xx "Via titolo" "Via priskribo"
+```
+
+Stellen Sie den BasiURL-Parameter in der Datei _\_config.yml_ ein, der Websitename anstelle von "", um dies zu haben:  
+    `baseurl:          "/name"`  
+    (Ersetzen _«name»_ mit dem von Ihnen ausgewählten Namen)
+
+```bash
+nano _config.yml
+```
+(Nutzen Sie es, um den Namen des Autors zu ändern.)
+
+Wenn Sie weniger Sprachen als die vordefinierten 15 wünschen, bearbeiten Sie die Datei _\_data/languages.yml_ und entfernen Sie die entsprechenden Linien:
+```bash
+nano _data/languages.yml
+```
+
+Übertragen von Änderungen an Ihrer Website _github_ :
+```bash
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
+```
+
+Herzlichen Glückwunsch, Ihre Website wird erstellt, es ist auf https://username.github.io/name erreichbar.
+
