@@ -72,7 +72,7 @@ msgid ""
 "Enmetu nomon de deponejo, kaj validigu la kreadon de la deponejo.\n"
 "Iru al la agordoj de via deponejo, iru al paragrafo _«Github Pages»_, kaj "
 "anstataŭigu _«None»_ kun _«master»_, alklaku _«Save»_.\n"
-msgstr "أدخل اسم الودائع، والتحقق من صحة إنشاء الودائع. (° 1 درجة) انتقل إلى إعدادات إيداعك، انتقل إلى الفقرة _«Github Pages»_، واستبدال _«None»_ مع _«master»_، انقر فوق _«Save»_.\n"
+msgstr ""
 
 #. type: Plain text
 #: ./012-krei_2_github_pages.md.backup:16
@@ -93,7 +93,7 @@ msgstr "تثبيت المتطلبات الأساسية: روبي بانددل ر
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "على سبيل المثال، إذا كنت تحت Debian Buster: (° 1 ° 1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:21
@@ -110,7 +110,7 @@ msgstr ""
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "kaj retrovu kopion de via magazeno:\n"
-msgstr "واسترداد نسخة من مستودعاتك: (° 1 ° 1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:28
@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
 "priskribo, kaj pravalorizi la retejon:\n"
-msgstr "اختر لغة العمل الخاصة بك (° 1 ° 1 ° 1 كود واحد من حرفين)، وعنوان قصير ووصف، وتهيئة الموقع الإلكتروني: (° 3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:37
@@ -164,7 +164,7 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "    (Anstataŭigu _«name»_ kun la nomo, kiun vi elektis)\n"
-msgstr "(° 1 درجة) استبدال _«name»_ بالاسم الذي حددته)\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:45
@@ -177,7 +177,7 @@ msgstr "nano _config.yml\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(° 1 درجة) الاستفادة منه لتغيير اسم المؤلف.)(° 3 ° 3\n"
+msgstr ""
 
 #. type: Plain text
 #: ./012-krei_2_github_pages.md.backup:51
@@ -199,7 +199,7 @@ msgstr "nano _data/languages.yml\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Transdoni ŝanĝojn al via retejo _github_ :\n"
-msgstr "نقل التغييرات إلى موقعك _github_ : (° 3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:56

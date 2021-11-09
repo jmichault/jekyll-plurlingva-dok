@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-09 19:10+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,8 +90,7 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(ਪਹਿਲਾਂ)ਜਾਣੇ ਜਾਂਦੇ ਨੰਬਰ ਦੇ ਨਾਲ ਤਬਦੀਲ ਕਰੋ _#_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ\n"
 

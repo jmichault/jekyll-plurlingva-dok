@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 
 #. type: YAML Front Matter: komentoj_id
 #: 010-krei_github_pages.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "4"
 msgstr "४"
 
@@ -61,8 +60,7 @@ msgstr "अपने उपयोगकर्ता नाम के साथ g
 
 #. type: Plain text
 #: 010-krei_github_pages.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)नेटवर्क पर जाएं, और _«Use this template»_पर क्लिक करें।\n"
 
@@ -163,8 +161,12 @@ msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://usernam
 msgstr "बधाई हो, आपकी साइट बनाई गई है, यह https://username.github.io पर सुलभ है।\n"
 
 #, fuzzy
-#~ msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-#~ msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)के स्थान पर जाएँ, और _«Use this template»_पर क्लिक करें।\n"
+#~ msgid ""
+#~ "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr ""
+#~ " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)के "
+#~ "स्थान पर जाएँ, और _«Use this template»_पर क्लिक करें।\n"
 
 #, fuzzy
 #~ msgid ""

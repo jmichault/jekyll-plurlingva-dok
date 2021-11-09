@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
 "priskribo, kaj pravalorizi la retejon:\n"
-msgstr "ਆਪਣੀ ਵਰਕ ਭਾਸ਼ਾ ਚੁਣੋ (10 ° 1 ° 1 ° 1 ਕੋਡ) ਦੋ ਅੱਖਰਾਂ ਦਾ ਕੋਡ, ਛੋਟਾ ਸਿਰਲੇਖ ਅਤੇ ਵੇਰਵਾ ਚੁਣੋ ਅਤੇ ਵੈਬਸਾਈਟ ਨੂੰ ਅਰੰਭ ਕਰੋ: (3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:37
@@ -150,7 +150,7 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgid ""
 "Ŝanĝu la parametron de Basiurl en la dosiero _\\_config.yml_ , la retejo "
 "nomo anstataŭ \"\", por havi ĉi tion:  \n"
-msgstr "ਫਾਈਲ _\\_config.yml_ ਵਿੱਚ Basiurl ਪੈਰਾਮੀਟਰ ਸੈੱਟ ਕਰੋ ,, ° 4 °) \",, ਇਸ ਨੂੰ ਰੱਖਣ ਲਈ, ਵੈਬਸਾਈਟ ਨਾਮ:  \n"
+msgstr ""
 
 #. type: Plain text
 #: ./012-krei_2_github_pages.md.backup:42

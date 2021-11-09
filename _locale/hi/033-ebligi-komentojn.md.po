@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-09 19:10+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -62,7 +62,7 @@ msgstr "साइट पर"
 #: 033-ebligi-komentojn.md:15
 #, fuzzy, no-wrap
 msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
-msgstr "अपने GitHub उपयोगकर्ता नाम के साथ (° 0004 डिग्री) में (° 0001 डिग्री) खोजें।\n"
+msgstr "अपने GitHub उपयोगकर्ता नाम के साथ  _gh\\_uzanto_   _gh\\_uzanto_  में खोजें। \n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:17
@@ -74,13 +74,13 @@ msgstr "पोस्टर या पेज के लिए"
 #: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
-msgstr "साइट के अनुरूप भंडार में (° 0001 डिग्री) बनाएं, इसकी संख्या देखें।\n"
+msgstr "साइट से संबंधित रिपोजिटरी में  _«issue»_  बनाएं, इसकी संख्या देखें। \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "पोस्टर या पेज हेडर में जोड़ें (° 0001 डिग्री):  \n"
+msgstr "पोस्टर या पेज हेडर में जोड़ें  _YAML_ :   \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:24
@@ -90,10 +90,9 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
-msgstr "(प्रसिद्ध संख्या (° 0004 डिग्री) (° 0005 डिग्री) के साथ (° 0002 डिग्री) बदलें\n"
+msgstr "( संख्या के साथ  _#_  को पहले )  के साथ बदलें\n"
 
 #, fuzzy, no-wrap
 #~ msgid "(Anstataŭigi _#_ kun la numero de numero)\n"

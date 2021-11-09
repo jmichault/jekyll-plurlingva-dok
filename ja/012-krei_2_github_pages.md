@@ -16,7 +16,7 @@ title: '1つのサブネットを作成します _"github page"_'
 次に、Linuxを搭載したコンピューターに接続します。  
 前提条件を取り付けます：ruby-bundler ruby​​-dev gawk po4a>= 0.61
 
-たとえば、Debian Busterの下にある場合:(°1°1
+たとえば、Debian Busterの下にある場合：
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk

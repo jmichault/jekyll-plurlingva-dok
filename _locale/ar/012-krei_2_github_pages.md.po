@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:43+0200\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,17 +76,15 @@ msgstr "اتصل الآن بجهاز كمبيوتر يعمل بنظام Linux.  
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
 msgstr "تثبيت المتطلبات الأساسية: روبي بانددل روبي ديف جوك PO4A>= 0.61\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "على سبيل المثال، إذا كنت تحت Debian Buster: (° 1 ° 1\n"
+msgstr "على سبيل المثال، إذا كنت تحت Debian Buster: \n"
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:21
@@ -132,8 +130,7 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "تغيير المعلمة _baseurl_ إلى الملف _\\_config.yml_ ، يجب عليك وضع اسم الموقع بدلا من \"\"، ولدي هذا:  \n"
 
@@ -145,8 +142,7 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
 msgstr "استبدال    ( _«name»_ بالاسم الذي حددته، لا تنسى _/_)\n"
 
@@ -158,10 +154,9 @@ msgstr "nano _config.yml\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:49
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(° 1 درجة) الاستفادة منه لتغيير اسم المؤلف.)(° 3 ° 3\n"
+msgstr "( استفد منه لتغيير اسم المؤلف. ) \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:51

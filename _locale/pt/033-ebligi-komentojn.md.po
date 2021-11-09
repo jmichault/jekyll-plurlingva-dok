@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-09 19:10+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,7 +50,7 @@ msgstr "Ativar Comentários."
 #: 033-ebligi-komentojn.md:12
 #, fuzzy, no-wrap
 msgid "Por permesi al viaj vizitantoj aldoni komentojn pri unu el viaj paĝoj, vi bezonas:\n"
-msgstr "Para permitir que seus visitantes adicionem comentários sobre uma de suas páginas, você precisa: (° 1 ° 1\n"
+msgstr "Para permitir que seus visitantes adicionem comentários sobre uma de suas páginas, você precisa: \n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:13
@@ -74,13 +74,13 @@ msgstr "Para o cartaz ou página"
 #: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
-msgstr "Criar _«issue»_ no repositório correspondente ao site, observe seu número. (° 3 ° 3\n"
+msgstr "Criar  _«issue»_  no repositório correspondente ao site, observe seu número. \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "Adicionar ao cartaz ou cabeçalho da página _YAML_ : (° 3 ° 3  \n"
+msgstr "Adicionar ao cartaz ou cabeçalho da página  _YAML_ :   \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:24
@@ -90,8 +90,7 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(Substituir _#_ pelo número conhecido anteriormente)\n"
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:34+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,10 +55,9 @@ msgid ""
 "Se vi sekvis la instrukciojn de [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
 "aŭ [ {{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), vi havas lokan kopion de via deponejo.\n"
 msgstr ""
-"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
-"{% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %}\n"
-"ਜੇ ਤੁਸੀਂ [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )\n"
-"ਜਾਂ (° 33 of) ਦੀਆਂ ਹਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਹੋ °){{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), ਤੁਹਾਡੇ ਕੋਲ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਸਥਾਨਕ ਕਾੱਪੀ ਹੈ.\n"
+"{% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %} {% assign page1=site.pages | where:\"lang-ref\",\"010-kreu-cxefan-GP\" | where: \"lang\",page.lang  %} {% assign page2=site.pages | where:\"lang-ref\",\"012-kreu-2-cxefan-GP\" | where: \"lang\",page.lang  %} \n"
+" ਜੇ ਤੁਸੀਂ  [   ]( {{ site.baseurl }}{{ page1[0].url}} ) \n"
+" ਜਾਂ {{page2[0].title}} {{page2[0].title}} {{page2[0].title}}  ]( {{ site.baseurl }}{{ page2[0].url}} ) ਦੇ ਨਿਰਦੇਸ਼ਾਂ ਦਾ ਪਾਲਣ ਕਰਦੇ ਹੋ, ਤੁਹਾਡੇ ਕੋਲ ਤੁਹਾਡੀ ਜਮ੍ਹਾਂ ਰਕਮ ਦੀ ਸਥਾਨਕ ਕਾਪੀ ਹੈ. \n"
 
 #. type: Bullet: '* '
 #: 020-lancxi_jekyll.md:15
@@ -94,7 +93,7 @@ msgstr "bundle exec jekyll serve\n"
 #: 020-lancxi_jekyll.md:32
 #, fuzzy, no-wrap
 msgid "Nun vi povas provi vian retejon en via komputilo ĉe la adreso indikita de la antaŭa komando (http: // localhost: 4000 se vi ne enigis la opcion _baseurl_).\n"
-msgstr "ਹੁਣ ਤੁਸੀਂ ਆਪਣੀ ਸਾਈਟ ਨੂੰ ਆਪਣੇ ਕੰਪਿ computerਟਰ ਤੇ ਪਿਛਲੇ ਕਮਾਂਡ (indicated 1 °) ਦੁਆਰਾ ਦਰਸਾਏ ਗਏ ਪਤੇ 'ਤੇ ਟੈਸਟ ਕਰ ਸਕਦੇ ਹੋ.\n"
+msgstr "ਹੁਣ ਤੁਸੀਂ ਪਿਛਲੇ ਕਮਾਂਡ ਦੁਆਰਾ ਦਰਸਾਏ ਗਏ ਪਤੇ ਤੇ ਆਪਣੇ ਕੰਪਿ computer ਟਰ ਤੇ ਆਪਣੀ ਸਾਈਟ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਸਕਦੇ ਹੋ  ( http: // ਲੋਕਲਹੋਸਟ: 4000 ਜੇ ਤੁਸੀਂ ਵਿਕਲਪ ਨਹੀਂ ਕੀਤਾ  _baseurl_). \n"
 
 #~ msgid "auto"
 #~ msgstr "auto"

@@ -16,7 +16,7 @@ title: '创建1个子网 _"github page"_'
 现在，使用Linux连接到计算机。  
 安装先决条件：Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61
 
-例如，如果您在Debian Buster下：（°1°1
+例如，如果您在Debian Buster下：
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
@@ -45,7 +45,7 @@ _scripts/komenci xx "Via titolo" "Via priskribo"
 ```bash
 nano _config.yml
 ```
-(利用它来改变作者的名字。)（°3°3
+(利用它来改变作者的名称。 ) 
 
 如果您想要的语言少于15种预定义的语言，请编辑文件 _\_data/languages.yml_ 并删除相应的行：
 ```bash

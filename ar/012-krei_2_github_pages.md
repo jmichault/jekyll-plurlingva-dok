@@ -16,7 +16,7 @@ title: 'إنشاء شبكة فرعية واحدة _"github page"_'
 اتصل الآن بجهاز كمبيوتر يعمل بنظام Linux.  
 تثبيت المتطلبات الأساسية: روبي بانددل روبي ديف جوك PO4A>= 0.61
 
-على سبيل المثال، إذا كنت تحت Debian Buster: (° 1 ° 1
+على سبيل المثال، إذا كنت تحت Debian Buster: 
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
@@ -45,7 +45,7 @@ _scripts/komenci xx "Via titolo" "Via priskribo"
 ```bash
 nano _config.yml
 ```
-(° 1 درجة) الاستفادة منه لتغيير اسم المؤلف.)(° 3 ° 3
+( استفد منه لتغيير اسم المؤلف. ) 
 
 إذا كنت تريد لغات أقل من اللغات الـ 15 المعدة مسبقًا ، فقم بتحرير الملف _\_data/languages.yml_ واحذف الأسطر المقابلة:
 ```bash

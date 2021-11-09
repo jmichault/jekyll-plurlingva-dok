@@ -56,5 +56,5 @@ msgid ""
 "* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
 "* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
 "anstataŭ indekso.\n"
-msgstr "إذا كنت ترغب في إنشاء موقع ويب دون مدونة، فأنت بحاجة إلى:\n* يتحلل الخط _«ne_التثبيت: \"\"\"في (° 9 درجة).\n(° 13 درجة) تغيير المعلمة (° 14 درجة) في ملف index.md عن طريق وضع صفحة بدلا من فهرس.\n"
+msgstr "إذا كنت ترغب في إنشاء موقع ويب دون مدونة، فأنت بحاجة إلى: \n *  تحلل  _«ne_ الملصقات:  \" True \" \" _  _  في  _\\_confix.yml_. \n *  قم بتعيين المعلمة  _«layout»_  في ملف Index.md عن طريق وضع الصفحة بدلا من الفهرس. \n"
 

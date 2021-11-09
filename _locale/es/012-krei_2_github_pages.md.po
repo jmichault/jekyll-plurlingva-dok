@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,17 +76,15 @@ msgstr "Ahora conéctese a una computadora con Linux.  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
 msgstr "Instale los requisitos previos: Ruby-Bundler Ruby-dev Gawk PO4A>= 0.61\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "Por ejemplo, si está bajo Debian Buster: (° 1 ° 1\n"
+msgstr "Por ejemplo, si está bajo Debian Buster: \n"
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:21
@@ -132,8 +130,7 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "Cambie el parámetro _baseurl_ al archivo _\\_config.yml_ , debe colocar el nombre del sitio en lugar de \"\", para tener esto:  \n"
 
@@ -145,8 +142,7 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
 msgstr "    (Reemplace _«name»_ con el nombre que seleccionó, no olvide el _/_)\n"
 
@@ -158,10 +154,9 @@ msgstr "nano _config.yml\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:49
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(Aproveche para cambiar el nombre del autor.)(° 3 ° 3\n"
+msgstr "( Aproveche para cambiar el nombre del autor. ) \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:51

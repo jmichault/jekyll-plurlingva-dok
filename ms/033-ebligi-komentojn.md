@@ -8,7 +8,7 @@ title: 'Aktifkan komen'
 
 ---
 
-Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda perlukan: (° 1 ° 1
+Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda perlukan: 
 
 # Di tapak
  * Cari _gh\_uzanto_ dalam _\_config.yml_ dengan nama pengguna GitHub anda.
@@ -16,11 +16,11 @@ Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda
 
 
 # Untuk poster atau halaman
- * Buat _«issue»_ dalam repositori yang sepadan dengan laman web ini, perhatikan nombornya. (° 3 ° 3
+ * Buat  _«issue»_  dalam repositori yang sepadan dengan laman web ini, perhatikan nombornya. 
 
 
 
- * Tambah ke poster atau header halaman _YAML_ : (° 3 ° 3  
+ * Tambah ke poster atau header halaman  _YAML_ :   
 
 
 

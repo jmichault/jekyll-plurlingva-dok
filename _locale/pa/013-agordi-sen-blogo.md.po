@@ -56,5 +56,5 @@ msgid ""
 "* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
 "* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
 "anstataŭ indekso.\n"
-msgstr "ਜੇ ਤੁਸੀਂ ਬਲੌਗ ਤੋਂ ਬਿਨਾਂ ਇੱਕ ਵੈਬਸਾਈਟ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤੁਹਾਨੂੰ ਜ਼ਰੂਰਤ ਹੈ:* ਦਾ ਸੰਕੁਚਿਤ ਕਰੋ: \" \"\"° 7 °)\"ਵਿਚ _\\_confix.yml_ਵਿਚ.\n* ਇੰਡੈਕਸ ਦੀ ਬਜਾਏ ਪੰਨਾ ਪਾ ਕੇ ਇੰਡੈਕਸ. Mdd ਫਾਈਲ ਵਿੱਚ ਪੈਰਾਮੀਟਰ _«layout»_ ਬਦਲੋ.\n"
+msgstr "ਜੇ ਤੁਸੀਂ ਬਲੌਗ ਤੋਂ ਬਿਨਾਂ ਇੱਕ ਵੈਬਸਾਈਟ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਜ਼ਰੂਰਤ ਹੈ: \n *  \" \" \" \" \" _  _  ਵਿੱਚ. \n *  ਇੰਡੈਕਸ ਦੀ ਬਜਾਏ ਪੰਨਾ ਪਾ ਕੇ ਇੰਡੈਕਸ .ਡੀ ਫਾਈਲ ਵਿੱਚ ਸੈੱਟ ਕਰੋ. \n"
 

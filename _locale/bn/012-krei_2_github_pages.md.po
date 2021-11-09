@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:43+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,17 +76,15 @@ msgstr "এখন লিনাক্স দিয়ে একটি কম্�
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
 msgstr "পূর্বশর্তগুলি ইনস্টল করুন: রুবি-বান্ডলার রুবি-দেব গাউক PO4A>= 0.61\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "উদাহরণস্বরূপ আপনি ডেবিয়ান Buster এর অধীনে থাকেন: (° 1 ° 1\n"
+msgstr "উদাহরণস্বরূপ আপনি যদি ডেবিয়ান Buster এর অধীনে থাকেন: \n"
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:21
@@ -132,8 +130,7 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "ফাইলটি _\\_config.yml_ থেকে _\\_config.yml_  \"\"\"এর পরিবর্তে সাইটটির নামটি পরিবর্তন করতে হবে:  \n"
 
@@ -145,8 +142,7 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
 msgstr "    (আপনার নির্বাচিত নামের সাথে প্রতিস্থাপন করুন _/_) _/_)\n"
 
@@ -158,10 +154,9 @@ msgstr "nano _config.yml\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:49
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(লেখক এর নাম পরিবর্তন করার জন্য এটি সুবিধা নিন। (° ২) (° 3 ° 3\n"
+msgstr "( লেখকের নাম পরিবর্তন করার জন্য এটির সুবিধা নিন। ) \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:51

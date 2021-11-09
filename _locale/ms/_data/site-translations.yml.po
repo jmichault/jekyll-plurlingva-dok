@@ -11,7 +11,7 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,21 +39,21 @@ msgstr "pilih Bahasa anda"
 #, no-wrap
 #, fuzzy
 msgid "komentis:"
-msgstr ""
+msgstr "Mengulas:"
 
 #. type: Hash Value - Key: komentoButono
 #: >lang
 #, no-wrap
 #, fuzzy
 msgid "Aldoni vian komenton (pri github)"
-msgstr ""
+msgstr "Tambah komen anda  ( tentang github )"
 
 #. type: Hash Value - Key: komentoj
 #: >lang
 #, no-wrap
 #, fuzzy
 msgid "Komentoj:"
-msgstr ""
+msgstr "Komen:"
 
 #. type: Hash Value - Key: malsamaLingvo
 #: >lang
@@ -66,7 +66,7 @@ msgstr "Baca halaman ini dalam bahasa lain"
 #, no-wrap
 #, fuzzy
 msgid "Skeleto por krei plurlingvan statikan retejon kun jekyll."
-msgstr ""
+msgstr "Skeleton untuk membuat laman web statik berbilang bahasa dengan Jekyll."
 
 #. type: Hash Value - Key: rajtoj
 #: >lang
@@ -97,7 +97,7 @@ msgstr "Cari di Google."
 #, no-wrap
 #, fuzzy
 msgid " _Jekyll-Plurlingva_ "
-msgstr ""
+msgstr " _Jekyll-Plurlingva_ "
 
 #. type: Hash Value - Key: tradukoAverto
 #: >lang

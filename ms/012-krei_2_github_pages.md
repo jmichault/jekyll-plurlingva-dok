@@ -16,7 +16,7 @@ Pergi ke parameter repositori anda, pergi ke perenggan _«Github Pages»_, dan g
 Sekarang sambungkan ke komputer dengan Linux.  
 Pasang Prasyarat: Ruby-Bundler Ruby-Dev Gawk Po4a>= 0.61
 
-Sebagai contoh jika anda berada di bawah Debian Buster: (° 1 ° 1
+Sebagai contoh jika anda berada di bawah Debian Buster: 
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
@@ -45,7 +45,7 @@ Tukar parameter _baseurl_ ke fail _\_config.yml_ , anda perlu meletakkan nama ta
 ```bash
 nano _config.yml
 ```
-(Ambil kesempatan untuk menukar nama pengarang.)(° 3 ° 3
+( Manfaatkannya untuk menukar nama penulis. ) 
 
 Sekiranya anda mahukan lebih sedikit bahasa daripada 15 bahasa yang telah ditetapkan, edit fail _\_data/languages.yml_ dan padamkan baris yang sesuai:
 ```bash

@@ -8,7 +8,7 @@ title: 'Activar comentarios'
 
 ---
 
-Para permitir que sus visitantes agreguen comentarios en una de sus páginas, necesita: (° 1 ° 1
+Para permitir que sus visitantes agreguen comentarios en una de sus páginas, necesita: 
 
 # En el sitio
  * Encuentre _gh\_uzanto_ en _\_config.yml_ con su nombre de usuario de GitHub.
@@ -16,11 +16,11 @@ Para permitir que sus visitantes agreguen comentarios en una de sus páginas, ne
 
 
 # Para el cartel o la página
- * Crear _«issue»_ en el repositorio correspondiente al sitio, observe su número. (° 3 ° 3
+ * Cree  _«issue»_  en el repositorio correspondiente al sitio, observe su número. 
 
 
 
- * Añadir al cartel o encabezado de la página _YAML_ : (° 3 ° 3  
+ * Añadir al cartel o encabezado de la página  _YAML_ :   
 
 
 

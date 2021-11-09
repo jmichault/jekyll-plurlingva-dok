@@ -6,10 +6,9 @@ layout: page
 title: jekyllをローカルで起動する
 ---
 
-{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %}
-{% assign page2=site.pages | where:"lang-ref","012-kreu-2-cxefan-GP" | where: "lang",page.lang  %}
- [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )
-または [ の指示に従った場合°）{{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )、リポジトリのローカルコピーがあります。
+{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} {% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} 
+  [  {{page1[0].title}}  ]( {{ site.baseurl }}{{ page1[0].url}} ) 
+または [  {{page2[0].title}}の命令をフォローした場合は、預金のローカルコピーがあります。 
 
 * ターミナルを開き、リポジトリのクローンを作成したフォルダに移動します。
 

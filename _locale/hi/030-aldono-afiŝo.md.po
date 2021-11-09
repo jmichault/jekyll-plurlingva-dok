@@ -49,8 +49,9 @@ msgstr "एक पोस्ट जोड़ें"
 #. type: Plain text
 #: 030-aldono-afiŝo.md:11
 #, fuzzy, no-wrap
+#, fuzzy
 msgid "Por aldoni novan afiŝon al via blogo, simple kreu dosieron en la dosierujo _xx/_postsi_, où _xx_ estas la kodo por via lingvo. Ĉi tiu dosiero devas havi nomon, kiu komenciĝas per _YYYY-MM-DD-_, kie _YYYY_ estas la jaro, _MM_ estas la monato kaj _DD_ estas la monatotago, ĝia plilongigo devas esti _«.md»_ por montri ke ĝi estas dosiero _markdown_.\n"
-msgstr "अपने ब्लॉग में एक नया पोस्ट जोड़ने के लिए, बस डायरेक्टरी में एक फाइल बनाएं _xx/_पोस्टसी_, où _xx_ आपकी भाषा का कोड है। इस फ़ाइल का नाम _YYYY-MM-DD-_से शुरू होना चाहिए, जहां _YYYY_ वर्ष है, _MM_ महीना है और _DD_ महीने का दिन है, इसका विस्तारहोना चाहिए 14 °) यह दिखाने के लिए कि यह एक फ़ाइल _markdown_है।\n"
+msgstr "अपने ब्लॉग में एक नया पोस्टर जोड़ने के लिए, बस  _xx/_ पोस्टि _, où _xx_  निर्देशिका में एक फ़ाइल बनाएं आपकी भाषा के लिए कोड है। इस फ़ाइल में एक ऐसा नाम होना चाहिए जो  _YYYY-MM-DD-_ से शुरू होता है, जहां  _YYYY_  वर्ष है,  _MM_  महीना है और  _DD_  महीना है, इसकी लम्बाई  _«.md»_  यह दिखाने के लिए कि यह एक फ़ाइल है  _markdown_। \n"
 
 #. type: Plain text
 #: 030-aldono-afiŝo.md:13

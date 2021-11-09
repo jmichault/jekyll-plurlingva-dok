@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,7 +44,7 @@ msgstr "page"
 #: 012-krei_2_github_pages.md:1
 #, fuzzy, no-wrap
 msgid "krei 1 subretejon _\"github page\"_"
-msgstr "1 ਸਬਨੈੱਟ ਬਣਾਓ (° 1 create)"
+msgstr "1 ਸਬਨੈੱਟ  _\"github page\"_ ਬਣਾਓ"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:9
@@ -65,8 +65,8 @@ msgid ""
 "Enigu nomon de deponejo kaj validigu la kreadon de la deponejo.\n"
 "Iru al la parametroj de via deponejo, iru al paragrafo _«Github Pages»_, kaj anstataŭigu _«None»_ per _«master»_, alklaku _«Save»_.\n"
 msgstr ""
-"ਰਿਪੋਜ਼ਟਰੀ ਲਈ ਇੱਕ ਨਾਮ ਦਰਜ ਕਰੋ ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ.\n"
-"ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਪੈਰਾਮੀਟਰਾਂ 'ਤੇ ਜਾਓ, ਪੈਰਾ (° 2 to)' ਤੇ ਜਾਓ, ਅਤੇ _«None»_ ਨੂੰ _«master»_ਨਾਲ ਬਦਲੋ, _«Save»_ਕਲਿੱਕ ਕਰੋ.\n"
+"ਜਮ੍ਹਾਂ ਰਕਮ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ ਅਤੇ ਜਮ੍ਹਾਂ ਰਚਨਾ ਨੂੰ ਪ੍ਰਮਾਣਿਤ ਕਰੋ. \n"
+" ਆਪਣੀ ਜਮ੍ਹਾਂ ਦੇ ਮਾਪਦੰਡਾਂ ਤੇ ਜਾਓ, ਪੈਰਾ  _«Github Pages»_ ਤੇ ਜਾਓ  _«None»_  ਦੁਆਰਾ  _«master»_>  _«Save»_ ਨੂੰ ਬਦਲੋ. \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:16
@@ -76,15 +76,13 @@ msgstr "ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨ�
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
 msgstr "ਸ਼ਰਤਾਂ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ: ਰੂਬੀ-ਬੰਡਲਰ ਰੂਬੀ ਪੋ 4 ਏ>= 0.61\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
 msgstr "ਉਦਾਹਰਣ ਦੇ ਲਈ ਜੇ ਤੁਸੀਂ ਡੇਬੀਅਨ ਬੁਸਟਰ ਦੇ ਅਧੀਨ ਹੋ:\n"
 
@@ -132,10 +130,9 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
-msgstr "ਪੈਰਾਮੀਟਰ _baseurl_ ਨੂੰ ਫਾਈਲ ਵਿੱਚ ਬਦਲੋ _\\_config.yml_ ਫਾਈਲ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਸਾਈਟ ਦਾ ਨਾਮ ਰੱਖਣਾ ਪਏਗਾ\", ਇਸ ਨੂੰ ਰੱਖਣਾ ਪਏਗਾ: ° 8 ° 8 °)  \n"
+msgstr "ਇਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ  \" \", ਨੂੰ  \" \", ਦੀ ਬਜਾਏ ਸਾਈਟ ਦਾ ਨਾਮ ਰੱਖਣਾ ਹੈ, ਨੂੰ  _baseurl_  ਬਦਲੋ.  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:42
@@ -145,8 +142,7 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
 msgstr "    (ਨੂੰ _«name»_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ _«name»_ ਨੂੰ ਉਸ ਨਾਮ ਨਾਲ, _/_)ਨੂੰ ਨਾ ਭੁੱਲੋ\n"
 
@@ -158,8 +154,7 @@ msgstr "nano _config.yml\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:49
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
 msgstr "(ਲੇਖਕ ਦਾ ਨਾਮ ਬਦਲਣ ਲਈ ਇਸ ਦਾ ਲਾਭ ਲਓ.)\n"
 

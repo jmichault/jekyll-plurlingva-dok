@@ -8,7 +8,7 @@ title: 'Ativar Comentários.'
 
 ---
 
-Para permitir que seus visitantes adicionem comentários sobre uma de suas páginas, você precisa: (° 1 ° 1
+Para permitir que seus visitantes adicionem comentários sobre uma de suas páginas, você precisa: 
 
 # No local
  * Encontre _gh\_uzanto_ em _\_config.yml_ com o seu nome de usuário do github.
@@ -16,11 +16,11 @@ Para permitir que seus visitantes adicionem comentários sobre uma de suas pági
 
 
 # Para o cartaz ou página
- * Criar _«issue»_ no repositório correspondente ao site, observe seu número. (° 3 ° 3
+ * Criar  _«issue»_  no repositório correspondente ao site, observe seu número. 
 
 
 
- * Adicionar ao cartaz ou cabeçalho da página _YAML_ : (° 3 ° 3  
+ * Adicionar ao cartaz ou cabeçalho da página  _YAML_ :   
 
 
 

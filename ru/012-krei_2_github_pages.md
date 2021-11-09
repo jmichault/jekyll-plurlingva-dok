@@ -16,7 +16,7 @@ title: 'создать 1 подсеть _"github page"_'
 Теперь подключитесь к компьютеру с Linux.  
 Установите предварительные условия: Ruby-Bundler Ruby-dev Gawk PO4A>= 0,61
 
-Например, если вы находитесь под Debian Buster: (° 1 ° 1
+Например, если вы находитесь под Debian Buster: 
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
@@ -45,7 +45,7 @@ _scripts/komenci xx "Via titolo" "Via priskribo"
 ```bash
 nano _config.yml
 ```
-(Воспользуйтесь этим, чтобы изменить имя автора.)(° 3 ° 3
+( Воспользуйтесь этим, чтобы изменить имя автора. ) 
 
 Если вам нужно меньше языков, чем 15 предустановленных, отредактируйте файл _\_data/languages.yml_ и удалите соответствующие строки:
 ```bash

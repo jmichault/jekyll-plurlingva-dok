@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
 "priskribo, kaj pravalorizi la retejon:\n"
-msgstr "Wählen Sie Ihre Arbeitssprache (° 1 ° 1 ° 1 Code von zwei Buchstaben), Kurze Titel und Beschreibung, und initialisieren die Website: (° 3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:37

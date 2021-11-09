@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 
 #. type: YAML Front Matter: komentoj_id
 #: 010-krei_github_pages.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "4"
 msgstr "ঘ"
 
@@ -61,8 +60,7 @@ msgstr "আপনার ব্যবহারকারীর নাম দিয
 
 #. type: Plain text
 #: 010-krei_github_pages.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ওয়েব এ যান এবং _«Use this template»_ক্লিক করুন।\n"
 
@@ -70,7 +68,7 @@ msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)
 #: 010-krei_github_pages.md:15
 #, fuzzy, no-wrap
 msgid "Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.\n"
-msgstr "একটি সংগ্রহস্থলের নাম হিসাবে প্রবেশ করান: _username.github.io_ , যেখানে _username_ আপনার ব্যবহারকারীর নাম (° 5 at) রয়েছে, এবং সংগ্রহস্থলটি তৈরির জন্য বৈধতা দিন।\n"
+msgstr "একটি আমানত নাম হিসাবে লিখুন:  _username.github.io_ , যেখানে  _username_  আপনার ব্যবহারকারীর নাম  _github_ এবং আমানতের সৃষ্টিটি যাচাই করে। .\n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:16
@@ -163,8 +161,12 @@ msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://usernam
 msgstr "অভিনন্দন, আপনার সাইট তৈরি করা হয়েছে, এটি https://username.github.io এ অ্যাক্সেসযোগ্য।\n"
 
 #, fuzzy
-#~ msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-#~ msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)এর স্থানে যান এবং _«Use this template»_ক্লিক করুন।\n"
+#~ msgid ""
+#~ "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr ""
+#~ " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-"
+#~ "plurlingva)এর স্থানে যান এবং _«Use this template»_ক্লিক করুন।\n"
 
 #, fuzzy
 #~ msgid ""

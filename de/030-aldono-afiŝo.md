@@ -7,7 +7,7 @@ title: 'Fügen Sie einen Beitrag hinzu'
 ---
 
 
-Um Ihrem Blog einen neuen Beitrag hinzuzufügen, erstellen Sie einfach eine Datei im Verzeichnis _xx/_. Postsi_, où _xx_ ist der Code für Ihre Sprache. Diese Datei muss einen Namen haben, der mit _YYYY-MM-DD-_beginnt, wobei _YYYY_ das Jahr, _MM_ der Monat und _DD_ der Tag des Monats ist und die Erweiterungsein muss 14 °), um zu zeigen, dass es sich um eine Datei handelt _markdown_.
+Um Ihrem Blog ein neues Poster hinzuzufügen, erstellen Sie einfach eine Datei im Verzeichnis  _xx/_ PostI _, où _xx_ , ist der Code für Ihre Sprache. Diese Datei muss einen Namen haben, der mit  _YYYY-MM-DD-_ beginnt, wobei  _YYYY_  das Jahr ist,  _MM_  ist der Monat, und  _DD_  ist der Monat, und  _DD_  ist der Monat, seine Verlängerung muss  _«.md»_  sein, um anzuzeigen, dass es eine Datei ist  _markdown_. 
 
 Diese Datei muss mit einem Header im Format _YAML_ wie folgt beginnen:
 

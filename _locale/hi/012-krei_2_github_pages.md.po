@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -76,17 +76,15 @@ msgstr "अब लिनक्स के साथ एक कंप्यूट�
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:18
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Instalu la antaŭkondiĉojn: Ruby-Bundler Ruby-Dev Gawk Po4A>= 0.61\n"
-msgstr "पूर्वापेक्षाएँ स्थापित करें: रूबी-बंडलर रूबी-देव गॉक पीओ 4 ए (डिग्री ° 0001 डिग्री) = 0.61 (डिग्री 0002 डिग्री)\n"
+msgstr "पूर्वापेक्षाएँ स्थापित करें: रूबी-बंडलर रूबी-देव गॉक पीओ 4 ए <एच 1> = 0.61 <एच 2>\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:20
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "उदाहरण के लिए यदि आप डेबियन बस्टर के अधीन हैं: (° ° 0001 डिग्री)\n"
+msgstr "उदाहरण के लिए यदि आप डेबियन बस्टर के तहत हैं: \n"
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:21
@@ -132,8 +130,7 @@ msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:41
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Ŝanĝi la parametron _baseurl_ al la dosiero _\\_config.yml_ , vi devas meti la nomon de la retejo anstataŭ \"\", por havi ĉi tion:  \n"
 msgstr "पैरामीटर को बदलें, आपको साइट का नाम \"\"के बजाय रखना होगा:  \n"
 
@@ -145,10 +142,9 @@ msgstr "    `baseurl:          \"/name\"`  \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:44
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "    (Anstataŭigi _«name»_ kun la nomo, kiun vi elektis, ne forgesu la _/_)\n"
-msgstr "    (आपके द्वारा चुने गए नाम के साथ (° 0002 डिग्री) बदलें, (° ° 0004 डिग्री)न भूलें)\n"
+msgstr "    ( आपके द्वारा चुने गए नाम के साथ  _«name»_  बदलें,  _/_)  को न भूलें\n"
 
 #. type: Fenced code block (bash)
 #: 012-krei_2_github_pages.md:45
@@ -158,10 +154,9 @@ msgstr "nano _config.yml\n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:49
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(लेखक के नाम को बदलने के लिए इसका लाभ उठाएं। (° 0002 डिग्री)\n"
+msgstr "( लेखक के नाम को बदलने के लिए इसका लाभ उठाएं। ) \n"
 
 #. type: Plain text
 #: 012-krei_2_github_pages.md:51

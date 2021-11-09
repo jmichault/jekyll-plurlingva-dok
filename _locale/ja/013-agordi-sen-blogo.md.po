@@ -56,5 +56,5 @@ msgid ""
 "* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
 "* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
 "anstataŭ indekso.\n"
-msgstr "ブログなしでWebサイトを作成する必要がある場合は、\n* 線 _«ne_を分解する： \"\"°7°） _\\_confix.yml_ _\\_confix.yml_。\n* Index.mdファイルのパラメータ _«layout»_ をインデックスではなくページに入れて変更します。\n"
+msgstr "ブログなしでWebサイトを作成したい場合は、次の必要があります。\n *   \" true \" \" \" \" _ の分解。 \n * インデックスの代わりにページを入れることで、index.mdファイルのパラメータ _«layout»_ を設定します。 \n"
 

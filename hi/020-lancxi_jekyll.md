@@ -6,7 +6,9 @@ layout: page
 title: 'Jekyll को स्थानीय रूप से लॉन्च करें'
 ---
 
-{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %}(° ९ °) (° १० °) (° १ If °) यदि आपने (° १ ९ °) (° २० °) (° २४ °) (° ३४ °) (° ३२ °) या (° ३३) के निर्देशों का पालन किया है °){{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} ), आपके पास अपने भंडार की एक स्थानीय प्रति है। (तापमान 46 °)
+{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} {% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} {% assign page2=site.pages | where:"lang-ref","012-kreu-2-cxefan-GP" | where: "lang",page.lang  %} 
+ यदि आपने  [  {{page1[0].title}}  ]( {{ site.baseurl }}{{ page1[0].url}} ) 
+ या  [  {{page2[0].title}}  ]( {{ site.baseurl }}{{ page2[0].url}} ) के निर्देशों का पालन किया है, तो आपके पास अपनी जमा राशि की स्थानीय प्रति है। 
 
 * एक टर्मिनल खोलें और उस फ़ोल्डर पर जाएं जहां आपने अपना रिपॉजिटरी क्लोन किया था।
 

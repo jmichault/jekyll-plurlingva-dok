@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:34+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -66,7 +66,7 @@ msgstr ""
 #: 032-aldono-pagxo.md:15
 #, fuzzy, no-wrap
 msgid "Ĉi tiu dosiero devas komenci per kaplinio en _YAML_ formato jene:\n"
-msgstr "ਇਸ ਫਾਈਲ ਦੀ ਸ਼ੁਰੂਆਤ ਲਾਜ਼ਮੀ ਤੌਰ 'ਤੇ (as 1 °) ਫਾਰਮੈਟ ਵਿੱਚ ਇੱਕ ਸਿਰਲੇਖ ਨਾਲ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ:\n"
+msgstr "ਹੇਠ ਲਿਖਿਆਂ  _YAML_  ਫਾਰਮੈਟ ਵਿੱਚ ਸਿਰਲੇਖ ਨਾਲ ਇਹ ਫਾਈਲ ਸ਼ੁਰੂ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ: \n"
 
 #. type: Fenced code block
 #: 032-aldono-pagxo.md:16
@@ -110,7 +110,7 @@ msgstr "_lang-ref_ ਮੀਨੂ ਵਿਚਲੇ ਪੰਨਿਆਂ ਦੇ ਕ੍
 #: 032-aldono-pagxo.md:33
 #, fuzzy, no-wrap
 msgid "_title:_ : anstataŭigu _zzz_ per la titolo de via paĝo.\n"
-msgstr "_title:_ : (page 3 °) ਨੂੰ ਆਪਣੇ ਪੇਜ ਦੇ ਸਿਰਲੇਖ ਨਾਲ ਬਦਲੋ.\n"
+msgstr "_title:_ : ਆਪਣੇ ਪੇਜ ਦੇ ਸਿਰਲੇਖ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ  _zzz_  ਨੂੰ ਬਦਲੋ. \n"
 
 #. type: Plain text
 #: 032-aldono-pagxo.md:35

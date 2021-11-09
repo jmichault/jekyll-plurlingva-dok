@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 
 #. type: YAML Front Matter: komentoj_id
 #: 010-krei_github_pages.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "4"
 msgstr "4"
 
@@ -61,8 +60,7 @@ msgstr "使用您的用户名登录github。  \n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr "转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)网页，然后单击 _«Use this template»_。\n"
 
@@ -161,30 +159,3 @@ msgstr ""
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "恭喜，您的网站已创建，可以从https://username.github.io访问。\n"
-
-#, fuzzy
-#~ msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-#~ msgstr "转到 [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)的位置，然后单击 _«Use this template»_。\n"
-
-#, fuzzy
-#~ msgid ""
-#~ "Elektu titolon kaj mallongan priskribon, kaj pravalorizu la retejon:\n"
-#~ msgstr "选择标题和简短描述，并对网站评分：\n"
-
-#~ msgid "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
-#~ msgstr "_scripts/komenci \"Via titolo\" \"Via priskribo\"\n"
-
-#~ msgid ""
-#~ "git clone https://github.com/username/username.github.io\n"
-#~ "cd username.github.io\n"
-#~ msgstr ""
-#~ "git clone https://github.com/username/username.github.io\n"
-#~ "cd username.github.io\n"
-
-#, fuzzy
-#~ msgid "kreu vian retejon _\"github page\"_ "
-#~ msgstr "创建您的网站 _\"github page\"_ "
-
-#, fuzzy
-#~ msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub Debian:\n"
-#~ msgstr "安装先决条件，例如，如果您在Debian下：\n"

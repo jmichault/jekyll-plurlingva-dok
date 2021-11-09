@@ -6,10 +6,9 @@ layout: page
 title: 'Starten Sie Jekyll vor Ort'
 ---
 
-{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %}
-{% assign page2=site.pages | where:"lang-ref","012-kreu-2-cxefan-GP" | where: "lang",page.lang  %}
-Wenn Sie die Anweisungen von [ {{page1[0].title}} ]( {{ site.baseurl }}{{ page1[0].url}} )
-oder [ befolgt haben °){{page2[0].title}} ]( {{ site.baseurl }}{{ page2[0].url}} )haben Sie eine lokale Kopie Ihres Repositorys.
+{% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} {% assign page1=site.pages | where:"lang-ref","010-kreu-cxefan-GP" | where: "lang",page.lang  %} {% assign page2=site.pages | where:"lang-ref","012-kreu-2-cxefan-GP" | where: "lang",page.lang  %} 
+ Wenn Sie die Anweisungen von  [  {{page1[0].title}}  ]( {{ site.baseurl }}{{ page1[0].url}} ) 
+ oder  [  {{page2[0].title}}  ]( {{ site.baseurl }}{{ page2[0].url}} ) folgen, haben Sie eine lokale Kopie Ihrer Anzahlung. 
 
 * Öffnen Sie ein Terminal und wechseln Sie zu dem Ordner, in den Sie Ihr Repository geklont haben.
 

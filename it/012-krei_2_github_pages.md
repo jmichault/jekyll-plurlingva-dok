@@ -16,7 +16,7 @@ Vai ai parametri del tuo repository, vai al paragrafo _«Github Pages»_, e sost
 Ora connettiti a un computer con Linux.  
 Installa i prerequisiti: rubino-bundler ruby-dev gawk po4a>= 0,61
 
-Ad esempio se sei sotto Debian Buster: (° 1 ° 1
+Ad esempio se sei sotto Debian Buster: 
 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
@@ -45,7 +45,7 @@ Modificare il parametro _baseurl_ sul file _\_config.yml_ , è necessario inseri
 ```bash
 nano _config.yml
 ```
-(Approfittarne per cambiare il nome dell'autore.)(° 3 ° 3
+( Approfittando di esso per cambiare il nome dell'autore. ) 
 
 Se vuoi meno lingue rispetto alle 15 predefinite, modifica il file _\_data/languages.yml_ e cancella le righe corrispondenti:
 ```bash

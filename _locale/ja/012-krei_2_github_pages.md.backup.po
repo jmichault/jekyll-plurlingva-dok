@@ -93,7 +93,7 @@ msgstr "前提条件を取り付けます：ruby-bundler ruby​​-dev gawk po4
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "たとえば、Debian Busterの下にある場合:(°1°1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:21
@@ -110,7 +110,7 @@ msgstr ""
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "kaj retrovu kopion de via magazeno:\n"
-msgstr "そして倉庫のコピーを取得します。（°1°1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:28
@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
 "priskribo, kaj pravalorizi la retejon:\n"
-msgstr "作業言語を選択してください（°1°1°1 1文字)、短いタイトル、説明、およびWebサイトの初期化：（°3°3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:37
@@ -199,7 +199,7 @@ msgstr "nano _data/languages.yml\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Transdoni ŝanĝojn al via retejo _github_ :\n"
-msgstr "サイト _github_ への変更を転送する：（°3°3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:56

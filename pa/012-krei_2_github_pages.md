@@ -3,15 +3,15 @@ lang: pa
 lang-niv: auto
 lang-ref: 012-kreu-2-cxefan-GP
 layout: page
-title: '1 ਸਬਨੈੱਟ ਬਣਾਓ (° 1 create)'
+title: '1 ਸਬਨੈੱਟ  _"github page"_ ਬਣਾਓ'
 ---
 
 ਆਪਣੇ ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਦੇ ਨਾਲ github ਵਿੱਚ ਲੌਗ ਇਨ ਕਰੋ.  
 
  [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ਵੈਬਸਾਈਟ ਤੇ ਜਾਓ, ਅਤੇ _«Use this template»_ਕਲਿੱਕ ਕਰੋ.
 
-ਰਿਪੋਜ਼ਟਰੀ ਲਈ ਇੱਕ ਨਾਮ ਦਰਜ ਕਰੋ ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ.
-ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਪੈਰਾਮੀਟਰਾਂ 'ਤੇ ਜਾਓ, ਪੈਰਾ (° 2 to)' ਤੇ ਜਾਓ, ਅਤੇ _«None»_ ਨੂੰ _«master»_ਨਾਲ ਬਦਲੋ, _«Save»_ਕਲਿੱਕ ਕਰੋ.
+ਜਮ੍ਹਾਂ ਰਕਮ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ ਅਤੇ ਜਮ੍ਹਾਂ ਰਚਨਾ ਨੂੰ ਪ੍ਰਮਾਣਿਤ ਕਰੋ. 
+ ਆਪਣੀ ਜਮ੍ਹਾਂ ਦੇ ਮਾਪਦੰਡਾਂ ਤੇ ਜਾਓ, ਪੈਰਾ  _«Github Pages»_ ਤੇ ਜਾਓ  _«None»_  ਦੁਆਰਾ  _«master»_>  _«Save»_ ਨੂੰ ਬਦਲੋ. 
 
 ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨਾਲ ਜੁੜੋ.  
 ਸ਼ਰਤਾਂ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ: ਰੂਬੀ-ਬੰਡਲਰ ਰੂਬੀ ਪੋ 4 ਏ>= 0.61
@@ -38,7 +38,7 @@ git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-hi
 _scripts/komenci xx "Via titolo" "Via priskribo"
 ```
 
-ਪੈਰਾਮੀਟਰ _baseurl_ ਨੂੰ ਫਾਈਲ ਵਿੱਚ ਬਦਲੋ _\_config.yml_ ਫਾਈਲ ਵਿੱਚ, ਤੁਹਾਨੂੰ ਸਾਈਟ ਦਾ ਨਾਮ ਰੱਖਣਾ ਪਏਗਾ", ਇਸ ਨੂੰ ਰੱਖਣਾ ਪਏਗਾ: ° 8 ° 8 °)  
+ਇਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ  " ", ਨੂੰ  " ", ਦੀ ਬਜਾਏ ਸਾਈਟ ਦਾ ਨਾਮ ਰੱਖਣਾ ਹੈ, ਨੂੰ  _baseurl_  ਬਦਲੋ.  
     `baseurl:          "/name"`  
     (ਨੂੰ _«name»_ ਨੂੰ ਤਬਦੀਲ ਕਰੋ _«name»_ ਨੂੰ ਉਸ ਨਾਮ ਨਾਲ, _/_)ਨੂੰ ਨਾ ਭੁੱਲੋ
 

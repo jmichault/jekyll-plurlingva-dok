@@ -93,7 +93,7 @@ msgstr "Installa i prerequisiti: rubino-bundler ruby-dev gawk po4a>= 0,61\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Ekzemple se vi estas sub Debian Buster:\n"
-msgstr "Ad esempio se sei sotto Debian Buster: (° 1 ° 1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:21
@@ -110,7 +110,7 @@ msgstr ""
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "kaj retrovu kopion de via magazeno:\n"
-msgstr "e recuperare una copia del tuo magazzino: (° 1 ° 1\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:28
@@ -135,7 +135,7 @@ msgstr ""
 msgid ""
 "Elektu vian laboran lingvon (kodo de du literoj), mallonga titolo kaj "
 "priskribo, kaj pravalorizi la retejon:\n"
-msgstr "Scegli la tua lingua di lavoro (° 1 ° 1 ° 1 Codice di due lettere), breve titolo e descrizione e inizializzare il sito Web: (° 3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:37
@@ -177,7 +177,7 @@ msgstr "nano _config.yml\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "(profitu ĝin por ŝanĝi la nomon de la aŭtoro.)\n"
-msgstr "(Approfittarne per cambiare il nome dell'autore.)(° 3 ° 3\n"
+msgstr ""
 
 #. type: Plain text
 #: ./012-krei_2_github_pages.md.backup:51
@@ -199,7 +199,7 @@ msgstr "nano _data/languages.yml\n"
 #, markdown-text, no-wrap
 #, fuzzy
 msgid "Transdoni ŝanĝojn al via retejo _github_ :\n"
-msgstr "Trasferisci le modifiche al tuo sito _github_ : (° 3 ° 3\n"
+msgstr ""
 
 #. type: Fenced code block (bash)
 #: ./012-krei_2_github_pages.md.backup:56

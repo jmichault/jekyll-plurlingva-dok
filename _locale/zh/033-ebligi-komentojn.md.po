@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-09 19:10+0200\n"
+"POT-Creation-Date: 2021-11-09 21:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,7 +50,7 @@ msgstr "激活评论"
 #: 033-ebligi-komentojn.md:12
 #, fuzzy, no-wrap
 msgid "Por permesi al viaj vizitantoj aldoni komentojn pri unu el viaj paĝoj, vi bezonas:\n"
-msgstr "要允许您的访问者在其中一个页面上添加评论，所以需要:(°1°1\n"
+msgstr "允许您的访问者在其中一个页面上添加评论，您需要：\n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:13
@@ -74,13 +74,13 @@ msgstr "对于海报或页面"
 #: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
-msgstr "在与站点对应的存储库中创建 _«issue»_ ，注意其编号。 （°3°3\n"
+msgstr "在与站点对应的存储库中创建 _«issue»_ ，注意其编号。 \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "添加到海报或页眉 _YAML_ :(°3°3  \n"
+msgstr "添加到海报或页眉 _YAML_ ：  \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:24
@@ -90,8 +90,7 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:27
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(更换 _#_ ，使用前面已知的)\n"
 

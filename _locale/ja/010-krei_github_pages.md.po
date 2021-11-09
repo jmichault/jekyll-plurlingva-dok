@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"POT-Creation-Date: 2021-11-09 21:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,8 +18,7 @@ msgstr ""
 
 #. type: YAML Front Matter: komentoj_id
 #: 010-krei_github_pages.md:1
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "4"
 msgstr "4"
 
@@ -61,8 +60,7 @@ msgstr "ユーザー名でgithubにログインします。  \n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:13
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
 msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)ウェブに移動し、 _«Use this template»_をクリックします。\n"
 
@@ -163,8 +161,12 @@ msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://usernam
 msgstr "おめでとうございます。サイトが作成されました。https：//username.github.ioからアクセスできます。\n"
 
 #, fuzzy
-#~ msgid "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
-#~ msgstr " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の場所に移動し、 _«Use this template»_をクリックします。\n"
+#~ msgid ""
+#~ "Iru al la loko de [ _jekyll-plurlingva_ ](https://github.com/jmichault/"
+#~ "jekyll-plurlingva), kaj alklaku _«Use this template»_.\n"
+#~ msgstr ""
+#~ " [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingva)の"
+#~ "場所に移動し、 _«Use this template»_をクリックします。\n"
 
 #, fuzzy
 #~ msgid ""
