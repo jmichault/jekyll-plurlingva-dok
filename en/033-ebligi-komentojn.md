@@ -11,7 +11,10 @@ title: 'Activate comments'
 To allow your visitors to add comments on one of your pages, you need: 
 
 # At the site
- * Find _gh\_uzanto_ in _\_config.yml_ with your GitHub username.
+ * For   _github page_   Website: Fill   _gh\_uzanto_   in   _\_config.yml_   with your GitHub username.  
+
+
+ * For subsidized   _github page_  Fill   _gh\_uzanto_   in   _\_config.yml_   with your GitHub username followed by the subset, for example  " user / my website ".  
 
 
 

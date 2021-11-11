@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-09 21:25+0100\n"
+"POT-Creation-Date: 2021-11-11 13:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,39 +60,51 @@ msgstr "At the site"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
-msgstr "Find _gh\\_uzanto_ in _\\_config.yml_ with your GitHub username.\n"
+#, no-wrap
+#, fuzzy
+msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+msgstr "For   _github page_   Website: Fill   _gh\\_uzanto_   in   _\\_config.yml_   with your GitHub username.  \n"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:17
+#, no-wrap
+#, fuzzy
+msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+msgstr "For subsidized   _github page_  Fill   _gh\\_uzanto_   in   _\\_config.yml_   with your GitHub username followed by the subset, for example  \" user / my website \".  \n"
 
 #. type: Title #
-#: 033-ebligi-komentojn.md:17
+#: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Por la afiŝo aŭ paĝo"
 msgstr "For the poster or page"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:19
+#: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "Create  _«issue»_  in the repository corresponding to the site, notice its number. \n"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:21
+#: 033-ebligi-komentojn.md:23
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
 msgstr "Add to Poster or Page Header  _YAML_ :   \n"
 
 #. type: Fenced code block
-#: 033-ebligi-komentojn.md:24
+#: 033-ebligi-komentojn.md:26
 #, no-wrap
 msgid "komentoj_id: #\n"
 msgstr "komentoj_id: #\n"
 
 #. type: Plain text
-#: 033-ebligi-komentojn.md:27
+#: 033-ebligi-komentojn.md:29
 #, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(Replace _#_ with the number known earlier)\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
+#~ msgstr "Find _gh\\_uzanto_ in _\\_config.yml_ with your GitHub username.\n"
 
 #, fuzzy, no-wrap
 #~ msgid "(Anstataŭigi _#_ kun la numero de numero)\n"

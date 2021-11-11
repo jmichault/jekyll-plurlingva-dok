@@ -11,7 +11,10 @@ title: 'Aktifkan komen'
 Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda perlukan: 
 
 # Di tapak
- * Cari _gh\_uzanto_ dalam _\_config.yml_ dengan nama pengguna GitHub anda.
+ * Untuk laman web   _github page_  : Isi   _gh\_uzanto_   dalam   _\_config.yml_   dengan nama pengguna GitHub anda.  
+
+
+ * Untuk bersubsidi   _github page_  Isi   _gh\_uzanto_   dalam   _\_config.yml_   dengan nama pengguna GitHub anda diikuti oleh subset, contohnya  " Pengguna / laman web saya ".  
 
 
 

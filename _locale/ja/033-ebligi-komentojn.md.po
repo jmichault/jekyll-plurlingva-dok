@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-09 21:25+0100\n"
+"POT-Creation-Date: 2021-11-11 13:13+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,39 +60,51 @@ msgstr "現場で"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
-msgstr "GitHubのユーザー名で _gh\\_uzanto_ を _gh\\_uzanto_ で見つけます。\n"
+#, no-wrap
+#, fuzzy
+msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+msgstr "  _github page_   Webサイトの場合：  _\\_config.yml_  にgithubのユーザー名を入力します。  \n"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:17
+#, no-wrap
+#, fuzzy
+msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+msgstr "githubのユーザ名とそれに続くサブセットを持つ  _\\_config.yml_  の補助金  _github page_  fill   _gh\\_uzanto_  、たとえば \" user / my Webサイト\"。  \n"
 
 #. type: Title #
-#: 033-ebligi-komentojn.md:17
+#: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Por la afiŝo aŭ paĝo"
 msgstr "ポスターやページのために"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:19
+#: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "サイトに対応するリポジトリに _«issue»_ を作成し、その数に注意してください。 \n"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:21
+#: 033-ebligi-komentojn.md:23
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
 msgstr "ポスターやページヘッダーに追加する _YAML_ ：  \n"
 
 #. type: Fenced code block
-#: 033-ebligi-komentojn.md:24
+#: 033-ebligi-komentojn.md:26
 #, no-wrap
 msgid "komentoj_id: #\n"
 msgstr "komentoj_id: #\n"
 
 #. type: Plain text
-#: 033-ebligi-komentojn.md:27
+#: 033-ebligi-komentojn.md:29
 #, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(早期)の数で _#_ 交換 _#_ \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
+#~ msgstr "GitHubのユーザー名で _gh\\_uzanto_ を _gh\\_uzanto_ で見つけます。\n"
 
 #, fuzzy, no-wrap
 #~ msgid "(Anstataŭigi _#_ kun la numero de numero)\n"

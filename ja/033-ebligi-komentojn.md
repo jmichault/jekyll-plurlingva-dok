@@ -11,7 +11,10 @@ title: コメントを有効にします
 あなたの訪問者があなたのページの1つにコメントを追加することを可能にするために必要な必要があります：
 
 # 現場で
- * GitHubのユーザー名で _gh\_uzanto_ を _gh\_uzanto_ で見つけます。
+ *   _github page_   Webサイトの場合：  _\_config.yml_  にgithubのユーザー名を入力します。  
+
+
+ * githubのユーザ名とそれに続くサブセットを持つ  _\_config.yml_  の補助金  _github page_  fill   _gh\_uzanto_  、たとえば " user / my Webサイト"。  
 
 
 

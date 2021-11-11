@@ -11,7 +11,9 @@ title: 'Aktivigi komentojn'
 Por permesi al viaj vizitantoj aldoni komentojn pri unu el viaj paĝoj, vi bezonas:
 
 # Ĉe la retejo
- * Trovu _gh\_uzanto_ en _\_config.yml_ kun via GitHub-salutnomo.
+ * Por  _github page_  retejo: Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo. 
+
+ * Por subsite  _github page_ : Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple "Uzanto / Mia retejo". 
 
 
 # Por la afiŝo aŭ paĝo

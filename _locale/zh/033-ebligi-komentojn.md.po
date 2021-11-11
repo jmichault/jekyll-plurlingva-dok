@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-09 21:25+0100\n"
+"POT-Creation-Date: 2021-11-11 13:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,39 +60,51 @@ msgstr "在现场"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
-msgstr "查找 _gh\\_uzanto_  _\\_config.yml_ 与GitHub用户名。\n"
+#, no-wrap
+#, fuzzy
+msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+msgstr "对于  _github page_  网站：使用github用户名填充  _\\_config.yml_  中的  _gh\\_uzanto_  。  \n"
+
+#. type: Bullet: ' * '
+#: 033-ebligi-komentojn.md:17
+#, no-wrap
+#, fuzzy
+msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+msgstr "对于在  _\\_config.yml_  中的补贴  _github page_ 填充  _gh\\_uzanto_  ，与您的github用户名，后跟子集，例如 \"用户/我的网站\"。  \n"
 
 #. type: Title #
-#: 033-ebligi-komentojn.md:17
+#: 033-ebligi-komentojn.md:19
 #, fuzzy, no-wrap
 msgid "Por la afiŝo aŭ paĝo"
 msgstr "对于海报或页面"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:19
+#: 033-ebligi-komentojn.md:21
 #, fuzzy, no-wrap
 msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "在与站点对应的存储库中创建 _«issue»_ ，注意其编号。 \n"
 
 #. type: Bullet: ' * '
-#: 033-ebligi-komentojn.md:21
+#: 033-ebligi-komentojn.md:23
 #, fuzzy, no-wrap
 msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
 msgstr "添加到海报或页眉 _YAML_ ：  \n"
 
 #. type: Fenced code block
-#: 033-ebligi-komentojn.md:24
+#: 033-ebligi-komentojn.md:26
 #, no-wrap
 msgid "komentoj_id: #\n"
 msgstr "komentoj_id: #\n"
 
 #. type: Plain text
-#: 033-ebligi-komentojn.md:27
+#: 033-ebligi-komentojn.md:29
 #, fuzzy, no-wrap
 msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
 msgstr "(更换 _#_ ，使用前面已知的)\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"
+#~ msgstr "查找 _gh\\_uzanto_  _\\_config.yml_ 与GitHub用户名。\n"
 
 #, fuzzy, no-wrap
 #~ msgid "(Anstataŭigi _#_ kun la numero de numero)\n"

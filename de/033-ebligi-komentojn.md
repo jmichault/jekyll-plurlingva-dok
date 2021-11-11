@@ -11,7 +11,10 @@ title: 'Kommentare aktivieren'
 Damit Ihre Besucher Kommentare zu einem Ihrer Seiten hinzugefügt werden können, benötigen Sie: 
 
 # Am Ort
- * Finden Sie _gh\_uzanto_ in _\_config.yml_ mit Ihrem Github-Benutzernamen.
+ * Für   _github page_   Website: Füllen Sie   _gh\_uzanto_   in   _\_config.yml_   mit Ihrem Github-Benutzernamen füllen.  
+
+
+ * Für subventionierte   _github page_  FILL   _gh\_uzanto_   in   _\_config.yml_   mit Ihrem Github-Benutzernamen, gefolgt von der Teilmenge, z. B.  " Benutzer / Meine Website ".  
 
 
 

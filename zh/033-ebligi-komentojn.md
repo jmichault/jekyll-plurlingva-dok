@@ -11,7 +11,10 @@ title: 激活评论
 允许您的访问者在其中一个页面上添加评论，您需要：
 
 # 在现场
- * 查找 _gh\_uzanto_  _\_config.yml_ 与GitHub用户名。
+ * 对于  _github page_  网站：使用github用户名填充  _\_config.yml_  中的  _gh\_uzanto_  。  
+
+
+ * 对于在  _\_config.yml_  中的补贴  _github page_ 填充  _gh\_uzanto_  ，与您的github用户名，后跟子集，例如 "用户/我的网站"。  
 
 
 

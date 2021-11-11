@@ -11,7 +11,10 @@ title: 'Attivare i commenti'
 Per consentire ai tuoi visitatori di aggiungere commenti su una delle tue pagine, è necessario: 
 
 # Al sito
- * Trovare _gh\_uzanto_ in _\_config.yml_ con il tuo nome utente GitHub.
+ * Per   _github page_   Sito web: Riempi   _gh\_uzanto_   in   _\_config.yml_   con il tuo nome utente GitHub. . 
+
+
+ * Per Svitazioni   _github page_  Riempire   _gh\_uzanto_   in   _\_config.yml_   con il tuo nome utente GitHub seguito dal sottoinsieme, ad esempio  " utente / il mio sito Web ". . 
 
 
 

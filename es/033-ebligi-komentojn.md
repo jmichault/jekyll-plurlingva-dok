@@ -11,7 +11,10 @@ title: 'Activar comentarios'
 Para permitir que sus visitantes agreguen comentarios en una de sus páginas, necesita: 
 
 # En el sitio
- * Encuentre _gh\_uzanto_ en _\_config.yml_ con su nombre de usuario de GitHub.
+ * Para   _github page_   Sitio web: rellene   _gh\_uzanto_   en   _\_config.yml_   con su nombre de usuario de GitHub.  
+
+
+ * Para el relleno de   _github page_  subsidiado   _gh\_uzanto_   en   _\_config.yml_   con su nombre de usuario de GitHub, seguido del subconjunto, por ejemplo,  " usuario / mi sitio web ".  
 
 
 
