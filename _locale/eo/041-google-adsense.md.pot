@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-11-12 15:25+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./041-google-adsense.md:1
+#, no-wrap
+msgid "eo"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: ./041-google-adsense.md:1
+#, no-wrap
+msgid "auto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: ./041-google-adsense.md:1
+#, no-wrap
+msgid "041-google-adsense"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: ./041-google-adsense.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./041-google-adsense.md:1
+#, no-wrap
+msgid "Aktivigi Google AdSense"
+msgstr ""
+
+#. type: Title #
+#: ./041-google-adsense.md:9
+#, markdown-text, no-wrap
+msgid "Antaŭkondiĉoj"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:11
+#, markdown-text, no-wrap
+msgid "Konto de Google \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:13
+#, markdown-text, no-wrap
+msgid "Fizika adreso \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:15
+#, markdown-text, no-wrap
+msgid "Telefonnumero \n"
+msgstr ""
+
+#. type: Title #
+#: ./041-google-adsense.md:18
+#, markdown-text, no-wrap
+msgid "Aktivigi"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:20
+#, markdown-text, no-wrap
+msgid "Iru al retejo  (_ Google AdSense )[ https://www.google.com/adsense/ ] \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:22
+#, markdown-text, no-wrap
+msgid "Ensalutu \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:24
+#, markdown-text, no-wrap
+msgid "Plenigu la profilon \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:26
+#, markdown-text, no-wrap
+msgid "Plenigu Ads Agordoj \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:28
+#, markdown-text, no-wrap
+msgid "Konekti la  Loko\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:30
+#, markdown-text, no-wrap
+msgid "Alklaku Get Code, kaj rimarku la parametron  _client_ \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./041-google-adsense.md:32
+#, markdown-text, no-wrap
+msgid ""
+"Finder Ga _adsense dans votre fichier \\_config.yml avec le code noté "
+"au-dessus\n"
+msgstr ""

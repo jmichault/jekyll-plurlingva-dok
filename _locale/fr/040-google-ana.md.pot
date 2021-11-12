@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-11-12 15:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "fr"
+msgstr ""
+
+#. type: YAML Front Matter: lang-niv
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "fonto"
+msgstr ""
+
+#. type: YAML Front Matter: lang-ref
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "040-google-ana"
+msgstr ""
+
+#. type: YAML Front Matter: layout
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "page"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "activez google analytics"
+msgstr ""
+
+#. type: Title #
+#: ./040-google-ana.md:9
+#, markdown-text, no-wrap
+msgid "pré-requis"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:11
+#, markdown-text, no-wrap
+msgid "un compte google\n"
+msgstr ""
+
+#. type: Title #
+#: ./040-google-ana.md:13
+#, markdown-text, no-wrap
+msgid "Activer"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:19
+#, markdown-text, no-wrap
+msgid ""
+"Aller sur le site (_Google "
+"Analytics)[https://analytics.google.com/analytics/web/]\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:19
+#, markdown-text, no-wrap
+msgid "s'identifier\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:19
+#, markdown-text, no-wrap
+msgid "créer une propriété\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:19
+#, markdown-text, no-wrap
+msgid "récupérer l'ID de mesure\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:19
+#, markdown-text, no-wrap
+msgid "renseigner ga_tag dans votre fichier \\_config.yml avec votre ID de mesure\n"
+msgstr ""

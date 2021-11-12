@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-11 13:13+0100\n"
+"POT-Creation-Date: 2021-11-12 15:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,15 +60,13 @@ msgstr "En el sitio"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "Para   _github page_   Sitio web: rellene   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub.  \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
 msgstr "Para el relleno de   _github page_  subsidiado   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub, seguido del subconjunto, por ejemplo,  \" usuario / mi sitio web \".  \n"
 

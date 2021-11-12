@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-11 13:13+0100\n"
+"POT-Creation-Date: 2021-11-12 15:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,15 +60,13 @@ msgstr "في الموقع"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "ل   _github page_   الموقع الإلكتروني: املأ   _gh\\_uzanto_   في   _\\_config.yml_   مع اسم مستخدم Github الخاص بك.  \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
 msgstr "للمدعوم   _github page_  املأ   _gh\\_uzanto_   في   _\\_config.yml_   باستخدام اسم مستخدم GitHub الذي تليها المجموعة الفرعية، على سبيل المثال  \" المستخدم / موقع الويب الخاص بي \".  \n"
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-11 13:14+0100\n"
+"POT-Creation-Date: 2021-11-12 15:24+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,15 +60,13 @@ msgstr "在现场"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "对于  _github page_  网站：使用github用户名填充  _\\_config.yml_  中的  _gh\\_uzanto_  。  \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, no-wrap
-#, fuzzy
+#, fuzzy, no-wrap
 msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
 msgstr "对于在  _\\_config.yml_  中的补贴  _github page_ 填充  _gh\\_uzanto_  ，与您的github用户名，后跟子集，例如 \"用户/我的网站\"。  \n"
 

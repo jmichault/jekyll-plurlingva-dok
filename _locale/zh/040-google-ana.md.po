@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-11-12 15:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: lang
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "eo"
+msgstr "zh"
+
+#. type: YAML Front Matter: lang-niv
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "auto"
+msgstr "auto"
+
+#. type: YAML Front Matter: lang-ref
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "040-google-ana"
+msgstr "040-google-ana"
+
+#. type: YAML Front Matter: layout
+#: ./040-google-ana.md:1
+#, no-wrap
+msgid "page"
+msgstr "page"
+
+#. type: YAML Front Matter: title
+#: ./040-google-ana.md:1
+#, no-wrap
+#, fuzzy
+msgid "Ebligu Google Analytics"
+msgstr "启用Google Analytics."
+
+#. type: Title #
+#: ./040-google-ana.md:9
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Antaŭkondiĉoj"
+msgstr "先决条件"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:11
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Konto de Google \n"
+msgstr "Google 帐户 \n"
+
+#. type: Title #
+#: ./040-google-ana.md:14
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Aktivigi"
+msgstr "启用"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:16
+#, markdown-text, no-wrap
+#, fuzzy
+msgid ""
+"Iru al la retejo  (_ Google Analytics )[ "
+"https://analytics.google.com/analytics/web/ ] \n"
+msgstr "转到网站  (_  Google Analytics  )[  https://analytics.google.com/analytics/web/  ]  \n"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:18
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Ensalutu \n"
+msgstr "登录 \n"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:20
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Krei proprieton \n"
+msgstr "创建属性 \n"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:22
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Rekuperu la ID de la \n"
+msgstr "恢复的ID \n"
+
+#. type: Bullet: '* '
+#: ./040-google-ana.md:24
+#, markdown-text, no-wrap
+#, fuzzy
+msgid "Finder Ga _tag dans votre fichier \\_config.yml avec votre ID de mesure\n"
+msgstr "Finder Ga  _tag dans votre fichier \\_config.yml avec votre ID de mesure\n\n"
+
