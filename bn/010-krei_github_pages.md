@@ -13,8 +13,13 @@ title: '1 টি ওয়েবসাইট তৈরি করুন _"github 
 
 একটি আমানত নাম হিসাবে লিখুন:  _username.github.io_ , যেখানে  _username_  আপনার ব্যবহারকারীর নাম  _github_ এবং আমানতের সৃষ্টিটি যাচাই করে। .
 
-এখন লিনাক্স দিয়ে একটি কম্পিউটারে সংযোগ করুন।  
-পূর্বশর্তগুলি ইনস্টল করুন, উদাহরণস্বরূপ আপনার যদি _debian buster_ কম থাকে:
+এখন লিনাক্স কম্পিউটারে সংযোগ করুন। .  
+উদাহরণস্বরূপ ইনস্টল করুন, উদাহরণস্বরূপ আপনি যদি   _debian bullseye_  এর অধীনে থাকেন তবে  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+অথবা আপনি যদি নীচের   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

@@ -13,8 +13,13 @@ Vá para a teia [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plur
 
 Insira como um nome de repositório: _username.github.io_ , onde _username_ é seu nome de usuário em _github_, e valide a criação do repositório.
 
-Agora conecte-se a um computador com Linux.  
-Instale os pré-requisitos, por exemplo, se você tiver menos de _debian buster_ :
+Agora conecte-se ao computador Linux.   
+Instale os pré-requisitos, por exemplo, se você estiver sob   _debian bullseye_ :  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+ou se você estiver abaixo de   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

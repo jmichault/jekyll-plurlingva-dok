@@ -14,7 +14,7 @@ title: コメントを有効にします
  *   _github page_   Webサイトの場合：  _\_config.yml_  にgithubのユーザー名を入力します。  
 
 
- * githubのユーザ名とそれに続くサブセットを持つ  _\_config.yml_  の補助金  _github page_  fill   _gh\_uzanto_  、たとえば " user / my Webサイト"。  
+ *   _github page_  Subwayの場合：  _\_config.yml_  に  _\_config.yml_  をgithubのユーザ名で埋め、続いて地下鉄、例えば " user / my Webサイト"。  
 
 
 
@@ -23,11 +23,11 @@ title: コメントを有効にします
 
 
 
- * ポスターやページヘッダーに追加する _YAML_ ：  
+ * POSTまたはPAGEの _YAML_ ヘッダーを追加：  
 
 
 
 ```
 komentoj_id: #
 ```
-(早期)の数で _#_ 交換 _#_ 
+(以前に注目されている番号を _#_ に置き換えます) 

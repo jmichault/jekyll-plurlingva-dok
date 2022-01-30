@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"POT-Creation-Date: 2022-01-30 18:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,41 +17,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "eo"
 msgstr ""
 
 #. type: YAML Front Matter: lang-niv
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr ""
 
 #. type: YAML Front Matter: lang-ref
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "013-agordi-sen-blogo"
 msgstr ""
 
 #. type: YAML Front Matter: layout
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "page"
 msgstr ""
 
 #. type: YAML Front Matter: title
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
-msgid "Agordu retejon sen blogo"
+msgid "agordi retejon sen blogo"
 msgstr ""
 
 #. type: Plain text
-#: ./013-agordi-sen-blogo.md:12
-#, markdown-text, no-wrap
+#: 013-agordi-sen-blogo.md:12
+#, no-wrap
 msgid ""
 "Se vi volas krei retejon sen blogo, vi bezonas:\n"
 "* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
-"* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
-"anstataŭ indekso.\n"
+"* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo anstataŭ indekso.\n"
 msgstr ""

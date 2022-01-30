@@ -14,7 +14,7 @@ Damit Ihre Besucher Kommentare zu einem Ihrer Seiten hinzugefügt werden können
  * Für   _github page_   Website: Füllen Sie   _gh\_uzanto_   in   _\_config.yml_   mit Ihrem Github-Benutzernamen füllen.  
 
 
- * Für subventionierte   _github page_  FILL   _gh\_uzanto_   in   _\_config.yml_   mit Ihrem Github-Benutzernamen, gefolgt von der Teilmenge, z. B.  " Benutzer / Meine Website ".  
+ * Für   _github page_  U-Bahn: Füllen Sie   _gh\_uzanto_   in   _\_config.yml_   mit Ihrem Github-Benutzernamen, gefolgt von der U-Bahn, z. B.  " Benutzer / Meine Website ".  
 
 
 
@@ -23,11 +23,11 @@ Damit Ihre Besucher Kommentare zu einem Ihrer Seiten hinzugefügt werden können
 
 
 
- * Zum Poster oder Seitenkopf hinzufügen _YAML_ :  
+ * Fügen Sie in  _YAML_  Header von Post oder Seite hinzu:   
 
 
 
 ```
 komentoj_id: #
 ```
-(Ersetzen _#_ mit der zuvor bekannten Zahl)
+( Ersetzen Sie  _#_  durch die zuvor aufgelistete Anzahl ) 

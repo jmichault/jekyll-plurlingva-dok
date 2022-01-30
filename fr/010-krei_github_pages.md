@@ -14,7 +14,12 @@ Allez sur le site de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll
 Entrez comme nom de dépot : _username.github.io_ , où _username_ est votre nom d'utilisateur sur _github_, et validez la création du dépot.
 
 Maintenant connectez vous sur un ordinateur sous linux.  
-Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :
+Installez les pré-requis, par exemple si vous êtes sous _debian bullseye_ :
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+ou si vous êtes sous _debian buster_ :
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

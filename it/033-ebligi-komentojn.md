@@ -14,7 +14,7 @@ Per consentire ai tuoi visitatori di aggiungere commenti su una delle tue pagine
  * Per   _github page_   Sito web: Riempi   _gh\_uzanto_   in   _\_config.yml_   con il tuo nome utente GitHub. . 
 
 
- * Per Svitazioni   _github page_  Riempire   _gh\_uzanto_   in   _\_config.yml_   con il tuo nome utente GitHub seguito dal sottoinsieme, ad esempio  " utente / il mio sito Web ". . 
+ * Per   _github page_  Metropolitana: Riempire   _gh\_uzanto_   in   _\_config.yml_   con il tuo nome utente GitHub seguito dalla metropolitana, ad esempio  " utente / il mio sito Web ". . 
 
 
 
@@ -23,11 +23,11 @@ Per consentire ai tuoi visitatori di aggiungere commenti su una delle tue pagine
 
 
 
- * Aggiungi al poster o intestazione della pagina  _YAML_ :   
+ * Aggiungi  _YAML_  Intestazione del post o Pagina:   
 
 
 
 ```
 komentoj_id: #
 ```
-(Sostituire _#_ con il numero noto precedente)
+( Sostituisci  _#_  con il numero notato in precedenza ) 

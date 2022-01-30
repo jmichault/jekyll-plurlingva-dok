@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:24+0100\n"
+"POT-Creation-Date: 2022-01-30 18:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #. type: YAML Front Matter: lang-niv
 #: 033-ebligi-komentojn.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr ""
 
 #. type: YAML Front Matter: lang-ref
@@ -61,13 +61,13 @@ msgstr ""
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
 #, no-wrap
-msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+msgid "por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr ""
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
 #, no-wrap
-msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+msgid "por  _github page_ subretejo : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subretejo, ekzemple \"uzanto/mia retejo\". \n"
 msgstr ""
 
 #. type: Title #
@@ -79,13 +79,13 @@ msgstr ""
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
 #, no-wrap
-msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+msgid "krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr ""
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:23
 #, no-wrap
-msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
+msgid "aldonu en _YAML_ kaplinion de afiŝo aŭ paĝo :  \n"
 msgstr ""
 
 #. type: Fenced code block
@@ -97,5 +97,5 @@ msgstr ""
 #. type: Plain text
 #: 033-ebligi-komentojn.md:29
 #, no-wrap
-msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
+msgid "(Anstataŭigu _#_ kun la numero rimarkata antaŭe)\n"
 msgstr ""

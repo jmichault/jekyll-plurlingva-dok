@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:21+0100\n"
+"POT-Creation-Date: 2022-01-30 18:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr "zh"
 #. type: YAML Front Matter: lang-niv
 #: 010-krei_github_pages.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -72,18 +72,32 @@ msgstr "输入存储库名称： _username.github.io_ ，其中 _username_ 是�
 
 #. type: Plain text
 #: 010-krei_github_pages.md:16
-#, fuzzy, no-wrap
-msgid "Nun konektiĝu al komputilo kun Linux.  \n"
-msgstr "现在，使用Linux连接到计算机。  \n"
+#, no-wrap
+#, fuzzy
+msgid "Nun konektiĝu al linuksa komputilo.  \n"
+msgstr "现在连接到Linux计算机。   \n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:18
 #, fuzzy, no-wrap
-msgid "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
-msgstr "安装先决条件，例如，如果您的温度小于 _debian buster_ ：\n"
+msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub  _debian bullseye_ : \n"
+msgstr "安装先决条件，例如，如果您在  _debian bullseye_ ：下 \n"
 
 #. type: Fenced code block (bash)
 #: 010-krei_github_pages.md:18
+#, no-wrap
+msgid "sudo apt install ruby-bundler ruby-dev gawk po4a\n"
+msgstr "sudo apt install ruby-bundler ruby-dev gawk po4a\n"
+
+#. type: Plain text
+#: 010-krei_github_pages.md:23
+#, no-wrap
+#, fuzzy
+msgid "aŭ se vi estas sub  _debian buster_ : \n"
+msgstr "或者如果您在下面  _debian buster_ ： \n"
+
+#. type: Fenced code block (bash)
+#: 010-krei_github_pages.md:23
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -93,13 +107,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "并收到您的存款副本：\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -113,37 +127,37 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "选择您的工作语言 (两字母代码)，标题和简短描述，然后初始化站点：\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "如果您想要的语言少于15种预定义的语言，请编辑文件 _\\_data/languages.yml_ 并删除相应的行：\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "将更改发送到您的站点 _github_ ：\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -155,7 +169,23 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:49
+#: 010-krei_github_pages.md:54
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "恭喜，您的网站已创建，可以从https://username.github.io访问。\n"
+
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy, no-wrap
+#~ msgid "Nun konektiĝu al komputilo kun Linux.  \n"
+#~ msgstr "现在，使用Linux连接到计算机。  \n"
+
+#, fuzzy
+#~ msgid "Aŭ se vi estas sub  _debian buster_ : \n"
+#~ msgstr "或者如果您在下面  _debian buster_ ： \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
+#~ msgstr "安装先决条件，例如，如果您的温度小于 _debian buster_ ：\n"

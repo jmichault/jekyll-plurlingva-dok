@@ -1,9 +1,9 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 013-agordi-sen-blogo
 layout: page
-title: 'Agordu retejon sen blogo'
+title: 'agordi retejon sen blogo'
 ---
 
 Se vi volas krei retejon sen blogo, vi bezonas:

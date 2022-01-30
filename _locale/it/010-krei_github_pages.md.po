@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:21+0100\n"
+"POT-Creation-Date: 2022-01-30 18:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,7 +31,7 @@ msgstr "it"
 #. type: YAML Front Matter: lang-niv
 #: 010-krei_github_pages.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -72,18 +72,32 @@ msgstr "Immettere come nome del repository: _username.github.io_ , dove _usernam
 
 #. type: Plain text
 #: 010-krei_github_pages.md:16
-#, fuzzy, no-wrap
-msgid "Nun konektiĝu al komputilo kun Linux.  \n"
-msgstr "Ora connettiti a un computer con Linux.  \n"
+#, no-wrap
+#, fuzzy
+msgid "Nun konektiĝu al linuksa komputilo.  \n"
+msgstr "Ora connetti il computer Linux. .  \n"
 
 #. type: Plain text
 #: 010-krei_github_pages.md:18
 #, fuzzy, no-wrap
-msgid "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
-msgstr "Installa i prerequisiti, ad esempio se hai meno di _debian buster_ :\n"
+msgid "Instalu la antaŭkondiĉojn, ekzemple se vi estas sub  _debian bullseye_ : \n"
+msgstr "Installa i prerequisiti, ad esempio se sei sotto   _debian bullseye_ :  \n"
 
 #. type: Fenced code block (bash)
 #: 010-krei_github_pages.md:18
+#, no-wrap
+msgid "sudo apt install ruby-bundler ruby-dev gawk po4a\n"
+msgstr "sudo apt install ruby-bundler ruby-dev gawk po4a\n"
+
+#. type: Plain text
+#: 010-krei_github_pages.md:23
+#, no-wrap
+#, fuzzy
+msgid "aŭ se vi estas sub  _debian buster_ : \n"
+msgstr "o se sei sotto   _debian buster_ :  \n"
+
+#. type: Fenced code block (bash)
+#: 010-krei_github_pages.md:23
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -93,13 +107,13 @@ msgstr ""
 "sudo apt -t buster-backports install po4a\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, fuzzy, no-wrap
 msgid "kaj ricevu kopion de via deponejo:\n"
 msgstr "e ricevi una copia del tuo deposito:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -113,37 +127,37 @@ msgstr ""
 "git pull https://github.com/jmichault/jekyll-plurlingva.git --allow-unrelated-histories\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, fuzzy, no-wrap
 msgid "Elektu vian laborlingvon (du-literan kodon), titolon kaj mallongan priskribon, kaj pravalorizi la retejon:\n"
 msgstr "Scegli la tua lingua di lavoro (codice di due lettere), titolo e breve descrizione e inizializza il sito:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, fuzzy, no-wrap
 msgid "Se vi volas malpli da lingvoj ol la 15 antaŭdifinitaj, redaktu la dosieron _\\_data/languages.yml_ kaj forigu la respondajn liniojn:\n"
 msgstr "Se vuoi meno lingue rispetto alle 15 predefinite, modifica il file _\\_data/languages.yml_ e cancella le righe corrispondenti:\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr "nano _data/languages.yml\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, fuzzy, no-wrap
 msgid "Sendu la ŝanĝojn al via retejo _github_ :\n"
 msgstr "Invia modifiche al tuo sito _github_ :\n"
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -155,10 +169,26 @@ msgstr ""
 "git push -u origin master\n"
 
 #. type: Plain text
-#: 010-krei_github_pages.md:49
+#: 010-krei_github_pages.md:54
 #, fuzzy, no-wrap
 msgid "Gratulon, via retejo estas kreita, ĝi estas alirebla ĉe https://username.github.io.\n"
 msgstr "Congratulazioni, il tuo sito è stato creato, è accessibile su https://username.github.io.\n"
+
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy, no-wrap
+#~ msgid "Nun konektiĝu al komputilo kun Linux.  \n"
+#~ msgstr "Ora connettiti a un computer con Linux.  \n"
+
+#, fuzzy
+#~ msgid "Aŭ se vi estas sub  _debian buster_ : \n"
+#~ msgstr "O se sei sotto   _debian buster_ :  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :\n"
+#~ msgstr "Installa i prerequisiti, ad esempio se hai meno di _debian buster_ :\n"
 
 #, fuzzy
 #~ msgid ""

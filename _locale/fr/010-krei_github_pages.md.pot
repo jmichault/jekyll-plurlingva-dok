@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-02-18 18:33+0100\n"
+"POT-Creation-Date: 2021-11-15 18:14+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,11 +79,23 @@ msgstr ""
 #. type: Plain text
 #: 010-krei_github_pages.md:18
 #, no-wrap
-msgid "Installez les pré-requis, par exemple si vous êtes sous _debian buster_ :\n"
+msgid "Installez les pré-requis, par exemple si vous êtes sous _debian bullseye_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
 #: 010-krei_github_pages.md:18
+#, no-wrap
+msgid "sudo apt install ruby-bundler ruby-dev gawk po4a\n"
+msgstr ""
+
+#. type: Plain text
+#: 010-krei_github_pages.md:23
+#, no-wrap
+msgid "ou si vous êtes sous _debian buster_ :\n"
+msgstr ""
+
+#. type: Fenced code block (bash)
+#: 010-krei_github_pages.md:23
 #, no-wrap
 msgid ""
 "sudo apt install ruby-bundler ruby-dev gawk\n"
@@ -91,13 +103,13 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, no-wrap
 msgid "et récupérez une copie de votre dépot :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:24
+#: 010-krei_github_pages.md:29
 #, no-wrap
 msgid ""
 "git clone https://github.com/username/username.github.io\n"
@@ -107,37 +119,37 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "Choisissez votre langue de travail (code de deux lettres), un titre et une description brève, et initialisez le site :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:32
+#: 010-krei_github_pages.md:37
 #, no-wrap
 msgid "_scripts/komenci xx \"Via titolo\" \"Via priskribo\"\n"
 msgstr ""
 
 #. type: Plain text
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid "Si vous voulez moins de langues que les 15 prédéfinies, éditez le fichier _\\_data/languages.yml_ et enlevez les lignes correspondantes :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:37
+#: 010-krei_github_pages.md:42
 #, no-wrap
 msgid "nano _data/languages.yml\n"
 msgstr ""
 
 #. type: Plain text
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, no-wrap
 msgid "Transmettez les modifications vers votre site _github_ :\n"
 msgstr ""
 
 #. type: Fenced code block (bash)
-#: 010-krei_github_pages.md:42
+#: 010-krei_github_pages.md:47
 #, no-wrap
 msgid ""
 "git add --all\n"
@@ -146,7 +158,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: 010-krei_github_pages.md:49
+#: 010-krei_github_pages.md:54
 #, no-wrap
 msgid "Félicitations, votre site est créé, il est accessible à l'adresse https://username.github.io .\n"
 msgstr ""

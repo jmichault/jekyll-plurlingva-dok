@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-04-02 20:44+0200\n"
+"POT-Creation-Date: 2022-01-30 18:29+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,44 +17,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: lang
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "eo"
 msgstr "ar"
 
 #. type: YAML Front Matter: lang-niv
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "013-agordi-sen-blogo"
 msgstr "013-agordi-sen-blogo"
 
 #. type: YAML Front Matter: layout
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 msgid "page"
 msgstr "page"
 
 #. type: YAML Front Matter: title
-#: ./013-agordi-sen-blogo.md:1
+#: 013-agordi-sen-blogo.md:1
 #, no-wrap
 #, fuzzy
-msgid "Agordu retejon sen blogo"
-msgstr "إعداد موقع الإعداد دون بلوق"
+msgid "agordi retejon sen blogo"
+msgstr "موقع الإعداد دون بلوق"
 
 #. type: Plain text
-#: ./013-agordi-sen-blogo.md:12
-#, markdown-text, no-wrap
-#, fuzzy
+#: 013-agordi-sen-blogo.md:12
+#, fuzzy, no-wrap
 msgid ""
 "Se vi volas krei retejon sen blogo, vi bezonas:\n"
 "* malkombinado de la linio _«ne_afiksoj: \"Vera\"\"_ en _\\_confix.yml_.\n"
-"* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo "
-"anstataŭ indekso.\n"
-msgstr "إذا كنت ترغب في إنشاء موقع ويب دون مدونة، فأنت بحاجة إلى: \n *  تحلل  _«ne_ الملصقات:  \" True \" \" _  _  في  _\\_confix.yml_. \n *  قم بتعيين المعلمة  _«layout»_  في ملف Index.md عن طريق وضع الصفحة بدلا من الفهرس. \n"
+"* Ŝanĝu la parametron _«layout»_ en la index.md-dosiero per meto paĝo anstataŭ indekso.\n"
+msgstr ""
+"إذا كنت ترغب في إنشاء موقع ويب دون مدونة، فأنت بحاجة إلى: \n"
+" *  تحلل  _«ne_ الملصقات:  \" True \" \" _  _  في  _\\_confix.yml_. \n"
+" *  قم بتعيين المعلمة  _«layout»_  في ملف Index.md عن طريق وضع الصفحة بدلا من الفهرس. \n"
 
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
+#, fuzzy
+#~ msgid "Agordu retejon sen blogo"
+#~ msgstr "إعداد موقع الإعداد دون بلوق"

@@ -13,8 +13,13 @@ Vai al web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlingv
 
 Immettere come nome del repository: _username.github.io_ , dove _username_ è il nome utente in _github_e convalidare la creazione del repository.
 
-Ora connettiti a un computer con Linux.  
-Installa i prerequisiti, ad esempio se hai meno di _debian buster_ :
+Ora connetti il computer Linux. .  
+Installa i prerequisiti, ad esempio se sei sotto   _debian bullseye_ :  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+o se sei sotto   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

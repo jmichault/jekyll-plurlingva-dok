@@ -13,8 +13,13 @@ title: '1 वेबसाइट बनाएं _"github page"_'
 
 एक रिपॉजिटरी नाम के रूप में दर्ज करें: _username.github.io_ , जहां _username_ आपका उपयोगकर्ता नाम _github_है, और रिपॉजिटरी के निर्माण को मान्य करता है।
 
-अब लिनक्स के साथ एक कंप्यूटर से कनेक्ट करें।  
-पूर्वापेक्षाएँ स्थापित करें, उदाहरण के लिए यदि आपके पास _debian buster_ से कम है:
+अब लिनक्स कंप्यूटर से कनेक्ट करें।   
+पूर्वापेक्षाएँ स्थापित करें, उदाहरण के लिए यदि आप   _debian bullseye_ :  के अंतर्गत हैं 
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+या यदि आप नीचे हैं   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

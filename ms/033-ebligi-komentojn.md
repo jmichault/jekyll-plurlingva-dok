@@ -14,7 +14,7 @@ Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda
  * Untuk laman web   _github page_  : Isi   _gh\_uzanto_   dalam   _\_config.yml_   dengan nama pengguna GitHub anda.  
 
 
- * Untuk bersubsidi   _github page_  Isi   _gh\_uzanto_   dalam   _\_config.yml_   dengan nama pengguna GitHub anda diikuti oleh subset, contohnya  " Pengguna / laman web saya ".  
+ * Untuk   _github page_  subway: isi   _gh\_uzanto_   dalam   _\_config.yml_   dengan nama pengguna Github anda diikuti oleh kereta bawah tanah, contohnya  " Pengguna / laman web saya ".  
 
 
 
@@ -23,11 +23,11 @@ Untuk membenarkan pelawat anda menambah komen pada salah satu halaman anda, anda
 
 
 
- * Tambah ke poster atau header halaman  _YAML_ :   
+ * Masukkan tajuk  _YAML_  Header pos atau halaman:   
 
 
 
 ```
 komentoj_id: #
 ```
-(Ganti _#_ dengan nombor yang diketahui sebelum ini)
+( menggantikan  _#_  dengan nombor yang diperhatikan sebelum ini ) 

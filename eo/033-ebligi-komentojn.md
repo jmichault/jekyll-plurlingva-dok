@@ -1,6 +1,6 @@
 ---
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 033-ebligi-komentojn
 layout: page
 title: 'Aktivigi komentojn'
@@ -11,19 +11,19 @@ title: 'Aktivigi komentojn'
 Por permesi al viaj vizitantoj aldoni komentojn pri unu el viaj paĝoj, vi bezonas:
 
 # Ĉe la retejo
- * Por  _github page_  retejo: Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo. 
+ * por  _github page_  retejo: Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo. 
 
- * Por subsite  _github page_ : Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple "Uzanto / Mia retejo". 
+ * por  _github page_ subretejo : Plenigu  _gh\_uzanto_  en  _\_config.yml_  kun via GitHub-salutnomo sekvata de la subretejo, ekzemple "uzanto/mia retejo". 
 
 
 # Por la afiŝo aŭ paĝo
- * Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.
+ * krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.
 
 
- * Aldoni al afiŝo aŭ paĝo Header _YAML_ :  
+ * aldonu en _YAML_ kaplinion de afiŝo aŭ paĝo :  
 
 
 ```
 komentoj_id: #
 ```
-(Anstataŭigi _#_ kun la numero konata antaŭe)
+(Anstataŭigu _#_ kun la numero rimarkata antaŭe)

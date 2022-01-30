@@ -3,7 +3,7 @@ lang: ar
 lang-niv: auto
 lang-ref: 013-agordi-sen-blogo
 layout: page
-title: 'إعداد موقع الإعداد دون بلوق'
+title: 'موقع الإعداد دون بلوق'
 ---
 
 إذا كنت ترغب في إنشاء موقع ويب دون مدونة، فأنت بحاجة إلى: 

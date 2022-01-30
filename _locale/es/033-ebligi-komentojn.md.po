@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:24+0100\n"
+"POT-Creation-Date: 2022-01-30 18:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr "es"
 #. type: YAML Front Matter: lang-niv
 #: 033-ebligi-komentojn.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -60,15 +60,17 @@ msgstr "En el sitio"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "Para   _github page_   Sitio web: rellene   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub.  \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, fuzzy, no-wrap
-msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
-msgstr "Para el relleno de   _github page_  subsidiado   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub, seguido del subconjunto, por ejemplo,  \" usuario / mi sitio web \".  \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_ subretejo : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subretejo, ekzemple \"uzanto/mia retejo\". \n"
+msgstr "Para   _github page_  Subway: Relle   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario Gititub, seguido del metro, por ejemplo,  \" usuario / mi sitio web \".  \n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:19
@@ -78,15 +80,17 @@ msgstr "Para el cartel o la página"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
-#, fuzzy, no-wrap
-msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#, no-wrap
+#, fuzzy
+msgid "krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "Cree  _«issue»_  en el repositorio correspondiente al sitio, observe su número. \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:23
-#, fuzzy, no-wrap
-msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "Añadir al cartel o encabezado de la página  _YAML_ :   \n"
+#, no-wrap
+#, fuzzy
+msgid "aldonu en _YAML_ kaplinion de afiŝo aŭ paĝo :  \n"
+msgstr "Agregar en  _YAML_  Encabezado de poste o página:   \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:26
@@ -96,9 +100,34 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:29
+#, no-wrap
+#, fuzzy
+msgid "(Anstataŭigu _#_ kun la numero rimarkata antaŭe)\n"
+msgstr "( Reemplazar  _#_  con el número notado previamente ) \n"
+
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
 #, fuzzy, no-wrap
-msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
-msgstr "(Reemplace _#_ con el número conocido anteriormente)\n"
+#~ msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#~ msgstr "Para   _github page_   Sitio web: rellene   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub.  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+#~ msgstr "Para el relleno de   _github page_  subsidiado   _gh\\_uzanto_   en   _\\_config.yml_   con su nombre de usuario de GitHub, seguido del subconjunto, por ejemplo,  \" usuario / mi sitio web \".  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#~ msgstr "Cree  _«issue»_  en el repositorio correspondiente al sitio, observe su número. \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
+#~ msgstr "Añadir al cartel o encabezado de la página  _YAML_ :   \n"
+
+#, fuzzy, no-wrap
+#~ msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
+#~ msgstr "(Reemplace _#_ con el número conocido anteriormente)\n"
 
 #, fuzzy, no-wrap
 #~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"

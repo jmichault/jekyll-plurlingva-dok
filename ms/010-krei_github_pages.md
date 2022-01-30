@@ -13,8 +13,13 @@ Pergi ke web [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-plurlin
 
 Masukkan sebagai nama repositori: _username.github.io_ , di mana _username_ adalah nama pengguna anda di _github_, dan sahkan pembuatan repositori.
 
-Sekarang sambungkan ke komputer dengan Linux.  
-Pasang prasyarat, misalnya jika anda mempunyai kurang dari _debian buster_ :
+Sekarang sambungkan ke komputer Linux.   
+Pasang prasyarat, contohnya jika anda berada di bawah   _debian bullseye_ :  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+atau jika anda berada di bawah   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:24+0100\n"
+"POT-Creation-Date: 2022-01-30 18:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr "bn"
 #. type: YAML Front Matter: lang-niv
 #: 033-ebligi-komentojn.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -60,15 +60,17 @@ msgstr "সাইট এ"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "  _github page_   ওয়েবসাইট:   _gh\\_uzanto_     _\\_config.yml_   আপনার GitHub ব্যবহারকারীর নাম দিয়ে পূরণ করুন। . \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, fuzzy, no-wrap
-msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
-msgstr "ভর্তুকির জন্য   _github page_  পূরণ করুন   _gh\\_uzanto_     _\\_config.yml_   আপনার GitHub ব্যবহারকারীর নামটি উপসেট দ্বারা অনুসরণ করে, উদাহরণস্বরূপ  \" ব্যবহারকারী / আমার ওয়েবসাইট \" এর সাথে। . \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_ subretejo : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subretejo, ekzemple \"uzanto/mia retejo\". \n"
+msgstr "  _github page_  সাবওয়ে:   _gh\\_uzanto_     _gh\\_uzanto_     _\\_config.yml_   আপনার GitHub ব্যবহারকারীর নাম অনুসরণ করে দেখুন, উদাহরণস্বরূপ  \" ব্যবহারকারী / আমার ওয়েবসাইট \" এর সাথে। . \n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:19
@@ -78,15 +80,17 @@ msgstr "পোস্টার বা পৃষ্ঠার জন্য"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
-#, fuzzy, no-wrap
-msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#, no-wrap
+#, fuzzy
+msgid "krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "সাইটের সাথে সংশ্লিষ্ট রিপোজিটরিতে  _«issue»_  তৈরি করুন, তার নম্বরটি লক্ষ্য করুন। .\n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:23
-#, fuzzy, no-wrap
-msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "পোস্টার বা পৃষ্ঠার শিরোনাম যোগ করুন  _YAML_ :   \n"
+#, no-wrap
+#, fuzzy
+msgid "aldonu en _YAML_ kaplinion de afiŝo aŭ paĝo :  \n"
+msgstr "পোস্ট বা পৃষ্ঠার শিরোনাম  _YAML_  শিরোনাম:   \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:26
@@ -96,9 +100,34 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:29
+#, no-wrap
+#, fuzzy
+msgid "(Anstataŭigu _#_ kun la numero rimarkata antaŭe)\n"
+msgstr "( প্রতিস্থাপন  _#_  পূর্বে লক্ষ্য করে ) \n"
+
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
 #, fuzzy, no-wrap
-msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
-msgstr "(আগে পরিচিত)\n"
+#~ msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#~ msgstr "  _github page_   ওয়েবসাইট:   _gh\\_uzanto_     _\\_config.yml_   আপনার GitHub ব্যবহারকারীর নাম দিয়ে পূরণ করুন। . \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+#~ msgstr "ভর্তুকির জন্য   _github page_  পূরণ করুন   _gh\\_uzanto_     _\\_config.yml_   আপনার GitHub ব্যবহারকারীর নামটি উপসেট দ্বারা অনুসরণ করে, উদাহরণস্বরূপ  \" ব্যবহারকারী / আমার ওয়েবসাইট \" এর সাথে। . \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#~ msgstr "সাইটের সাথে সংশ্লিষ্ট রিপোজিটরিতে  _«issue»_  তৈরি করুন, তার নম্বরটি লক্ষ্য করুন। .\n"
+
+#, fuzzy, no-wrap
+#~ msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
+#~ msgstr "পোস্টার বা পৃষ্ঠার শিরোনাম যোগ করুন  _YAML_ :   \n"
+
+#, fuzzy, no-wrap
+#~ msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
+#~ msgstr "(আগে পরিচিত)\n"
 
 #, fuzzy, no-wrap
 #~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"

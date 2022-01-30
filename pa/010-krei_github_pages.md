@@ -13,8 +13,13 @@ title: '1 ਵੈਬਸਾਈਟ ਬਣਾਓ _"github page"_'
 
 ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਨਾਮ ਦਿਓ: _username.github.io_ , ਜਿੱਥੇ _username_ ਤੁਹਾਡਾ ਉਪਯੋਗਕਰਤਾ ਨਾਮ _github_ਹੈ, ਅਤੇ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਬਣਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰਦਾ ਹੈ.
 
-ਹੁਣ ਲੀਨਕਸ ਨਾਲ ਇੱਕ ਕੰਪਿ toਟਰ ਨਾਲ ਜੁੜੋ.  
-ਜ਼ਰੂਰਤ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਵਜੋਂ ਜੇ ਤੁਹਾਡੇ ਕੋਲ _debian buster_ ਤੋਂ ਘੱਟ ਹੈ:
+ਹੁਣ ਲੀਨਕਸ ਕੰਪਿ to ਟਰ ਨਾਲ ਜੁੜੋ.   
+ਜਰੂਰੀ ਸ਼ਰਤਾਂ ਨੂੰ ਸਥਾਪਤ ਕਰੋ, ਉਦਾਹਰਣ ਵਜੋਂ ਜੇ ਤੁਸੀਂ   _debian bullseye_ :  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+ਜਾਂ ਜੇ ਤੁਸੀਂ   _debian buster_ :  ਤੋਂ ਹੇਠਾਂ ਹੋ 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

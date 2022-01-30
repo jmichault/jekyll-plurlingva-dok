@@ -1,7 +1,7 @@
 ---
 komentoj_id: 4
 lang: eo
-lang-niv: auto
+lang-niv: homa
 lang-ref: 010-kreu-cxefan-GP
 layout: page
 title: 'krei 1 retejon _"github page"_'
@@ -13,8 +13,13 @@ Iru al la retjo de [ _jekyll-plurlingva_ ](https://github.com/jmichault/jekyll-p
 
 Enigu kiel deponejan nomon: _username.github.io_ , kie _username_ estas via uzantnomo ĉe _github_, kaj validigu la kreon de la deponejo.
 
-Nun konektiĝu al komputilo kun Linux.  
-Instalu la antaŭkondiĉojn, ekzemple se vi havas malpli ol _debian buster_ :
+Nun konektiĝu al linuksa komputilo.  
+Instalu la antaŭkondiĉojn, ekzemple se vi estas sub  _debian bullseye_ : 
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+aŭ se vi estas sub  _debian buster_ : 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

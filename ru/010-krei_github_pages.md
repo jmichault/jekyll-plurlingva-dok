@@ -13,8 +13,13 @@ title: 'создать 1 сайт _"github page"_'
 
 Введите в качестве имени репозитория: _username.github.io_ , где _username_ - ваше имя пользователя в _github_, и подтвердите создание репозитория.
 
-Теперь подключитесь к компьютеру с Linux.  
-Установите предварительные условия, например, если у вас меньше _debian buster_ :
+Теперь подключите к компьютеру Linux.   
+Установите предварительные условия, например, если вы находитесь под   _debian bullseye_ :  
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+Или если вы ниже   _debian buster_ :  
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

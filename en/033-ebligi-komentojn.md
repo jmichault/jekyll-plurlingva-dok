@@ -14,7 +14,7 @@ To allow your visitors to add comments on one of your pages, you need:
  * For   _github page_   Website: Fill   _gh\_uzanto_   in   _\_config.yml_   with your GitHub username.  
 
 
- * For subsidized   _github page_  Fill   _gh\_uzanto_   in   _\_config.yml_   with your GitHub username followed by the subset, for example  " user / my website ".  
+ * for   _github page_  Subway: Fill   _gh\_uzanto_   in   _\_config.yml_   with your GitHub username followed by the subway, for example  " user / my website ".  
 
 
 
@@ -23,11 +23,11 @@ To allow your visitors to add comments on one of your pages, you need:
 
 
 
- * Add to Poster or Page Header  _YAML_ :   
+ * add in  _YAML_  header of post or page:   
 
 
 
 ```
 komentoj_id: #
 ```
-(Replace _#_ with the number known earlier)
+( Replace  _#_  with the number noticed previously ) 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-12 15:24+0100\n"
+"POT-Creation-Date: 2022-01-30 18:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,7 +25,7 @@ msgstr "ru"
 #. type: YAML Front Matter: lang-niv
 #: 033-ebligi-komentojn.md:1
 #, no-wrap
-msgid "auto"
+msgid "homa"
 msgstr "auto"
 
 #. type: YAML Front Matter: lang-ref
@@ -60,15 +60,17 @@ msgstr "На сайте"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:15
-#, fuzzy, no-wrap
-msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
 msgstr "Для веб-сайта   _github page_   заполните   _gh\\_uzanto_   в   _\\_config.yml_   с вашим именем пользователя github.  \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:17
-#, fuzzy, no-wrap
-msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
-msgstr "Для субсидирования   _github page_  заполните   _gh\\_uzanto_   в   _\\_config.yml_   с именем пользователя github, сопровождаемом подмножеством, например,  \" пользователя / мой сайт \".  \n"
+#, no-wrap
+#, fuzzy
+msgid "por  _github page_ subretejo : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subretejo, ekzemple \"uzanto/mia retejo\". \n"
+msgstr "Для   _github page_  метро: заполните   _gh\\_uzanto_   в   _\\_config.yml_   с вашим именем пользователя GitHub, за которым следуют метро, например,  \" пользователь / мой сайт \".  \n"
 
 #. type: Title #
 #: 033-ebligi-komentojn.md:19
@@ -78,15 +80,17 @@ msgstr "Для плаката или страницы"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:21
-#, fuzzy, no-wrap
-msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#, no-wrap
+#, fuzzy
+msgid "krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
 msgstr "Создайте  _«issue»_  в репозитории, соответствующем сайту, обратите внимание на его номер. \n"
 
 #. type: Bullet: ' * '
 #: 033-ebligi-komentojn.md:23
-#, fuzzy, no-wrap
-msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
-msgstr "Добавить в плакат или заголовок страниц  _YAML_ :   \n"
+#, no-wrap
+#, fuzzy
+msgid "aldonu en _YAML_ kaplinion de afiŝo aŭ paĝo :  \n"
+msgstr "Добавить в  _YAML_  Заголовок поста или страницы:   \n"
 
 #. type: Fenced code block
 #: 033-ebligi-komentojn.md:26
@@ -96,9 +100,34 @@ msgstr "komentoj_id: #\n"
 
 #. type: Plain text
 #: 033-ebligi-komentojn.md:29
+#, no-wrap
+#, fuzzy
+msgid "(Anstataŭigu _#_ kun la numero rimarkata antaŭe)\n"
+msgstr "( Заменить  _#_  с номером, замеченным ранее ) \n"
+
+#, no-wrap
+#~ msgid "auto"
+#~ msgstr "auto"
+
 #, fuzzy, no-wrap
-msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
-msgstr "(Заменить _#_ с количеством известных ранее)\n"
+#~ msgid "Por  _github page_  retejo: Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo. \n"
+#~ msgstr "Для веб-сайта   _github page_   заполните   _gh\\_uzanto_   в   _\\_config.yml_   с вашим именем пользователя github.  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Por subsite  _github page_ : Plenigu  _gh\\_uzanto_  en  _\\_config.yml_  kun via GitHub-salutnomo sekvata de la subsite, ekzemple \"Uzanto / Mia retejo\". \n"
+#~ msgstr "Для субсидирования   _github page_  заполните   _gh\\_uzanto_   в   _\\_config.yml_   с именем пользователя github, сопровождаемом подмножеством, например,  \" пользователя / мой сайт \".  \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Krei _«issue»_ en la deponejo responda al la retejo, rimarku ĝian numeron.\n"
+#~ msgstr "Создайте  _«issue»_  в репозитории, соответствующем сайту, обратите внимание на его номер. \n"
+
+#, fuzzy, no-wrap
+#~ msgid "Aldoni al afiŝo aŭ paĝo Header _YAML_ :  \n"
+#~ msgstr "Добавить в плакат или заголовок страниц  _YAML_ :   \n"
+
+#, fuzzy, no-wrap
+#~ msgid "(Anstataŭigi _#_ kun la numero konata antaŭe)\n"
+#~ msgstr "(Заменить _#_ с количеством известных ранее)\n"
 
 #, fuzzy, no-wrap
 #~ msgid "Trovu _gh\\_uzanto_ en _\\_config.yml_ kun via GitHub-salutnomo.\n"

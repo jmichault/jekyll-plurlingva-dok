@@ -14,7 +14,7 @@ Para permitir que seus visitantes adicionem comentários sobre uma de suas pági
  * Para o site   _github page_  : Preencha   _gh\_uzanto_   em   _\_config.yml_   com o seu nome de usuário do Github.  
 
 
- * Para subsidiado   _github page_  Preenchimento   _gh\_uzanto_   em   _\_config.yml_   com o seu nome de usuário do GitHub seguido pelo subconjunto, por exemplo,  " usuário / meu site ".  
+ * Para   _github page_  Subway: Preencha   _gh\_uzanto_   em   _\_config.yml_   com o seu nome de usuário do GitHub seguido pelo metrô, por exemplo  " User / My Website ".  
 
 
 
@@ -23,11 +23,11 @@ Para permitir que seus visitantes adicionem comentários sobre uma de suas pági
 
 
 
- * Adicionar ao cartaz ou cabeçalho da página  _YAML_ :   
+ * Adicionar no cabeçalho  _YAML_  de postagem ou página:   
 
 
 
 ```
 komentoj_id: #
 ```
-(Substituir _#_ pelo número conhecido anteriormente)
+( substituir  _#_  pelo número notado anteriormente ) 

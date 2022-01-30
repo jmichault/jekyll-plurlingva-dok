@@ -14,7 +14,7 @@ title: 激活评论
  * 对于  _github page_  网站：使用github用户名填充  _\_config.yml_  中的  _gh\_uzanto_  。  
 
 
- * 对于在  _\_config.yml_  中的补贴  _github page_ 填充  _gh\_uzanto_  ，与您的github用户名，后跟子集，例如 "用户/我的网站"。  
+ * 对于  _github page_ 地铁：使用github用户名填充  _gh\_uzanto_  ，后跟地铁，例如 "用户/我的网站"。  
 
 
 
@@ -23,11 +23,11 @@ title: 激活评论
 
 
 
- * 添加到海报或页眉 _YAML_ ：  
+ * 在帖子或页面中添加 _YAML_ 标题：  
 
 
 
 ```
 komentoj_id: #
 ```
-(更换 _#_ ，使用前面已知的)
+(替换 _#_ ，用先前注意的数字) 

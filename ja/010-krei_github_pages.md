@@ -13,8 +13,13 @@ title: '1つのWebサイトを作成する _"github page"_'
 
 リポジトリ名として次のように入力します： _username.github.io_ 、ここで _username_ は _github_でのユーザー名であり、リポジトリの作成を検証します。
 
-次に、Linuxを搭載したコンピューターに接続します。  
-たとえば、 _debian buster_ 未満の場合：
+これでLinuxコンピュータに接続します。   
+たとえば、  _debian bullseye_ の下にある場合は、前提条件をインストールします。 
+```bash
+sudo apt install ruby-bundler ruby-dev gawk po4a
+```
+
+または  _debian buster_ の下にある場合： 
 ```bash
 sudo apt install ruby-bundler ruby-dev gawk
 sudo apt -t buster-backports install po4a

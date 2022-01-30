@@ -16,9 +16,9 @@ Its most striking features:
    * you can send this file to a human translator for correction.
  * Automatically translated texts are indicated by a section that offers the document in the human-corrected languages.
  * The translations use Esperanto as a pivotal language. This choice may seem strange at first glance, but it has several advantages:
-   * it is a language with a simple grammar and no exceptions, so it is easier to manage for software translators. .
-   * it is a very precise language, generating less ambiguity than English.
-   * it is very easy to learn, whatever the language of the learner.
+   * it's a language with a simple grammar and no exceptions, so it is easier to manage for software translators. .
+   * it's a very precise language, generating less ambiguity than English.
+   * it's very easy to learn, whatever the language of the learner.
 
 **[Consult the documentation for more information.](https://jmichault.github.io/jekyll-plurlingva-dok/)**
 
